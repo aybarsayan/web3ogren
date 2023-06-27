@@ -1,0 +1,8 @@
+{
+  "label": "The Open Network",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Açık Ağ (TON), çeşitli bileşenlerden oluşan merkezi olmayan ve açık bir İnternet platformudur. Bunlara TON Blok Zinciri, TON DNS, TON Depolama ve TON Siteleri dahildir. TON Blockchain, daha büyük TON Ekosistemini oluşturmak için TON'un temel altyapısını birbirine bağlayan temel protokoldür."
+  }
+}

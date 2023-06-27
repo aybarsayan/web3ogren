@@ -1,0 +1,8 @@
+{
+  "label": "Polygon",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Polygon, blockchain ağlarının bağlanmasını ve ölçeklenmesini sağlayan bir blockchain platformudur. Ethereum ile uyumlu çok zincirli bir blockchain ekosistemi yaratmayı hedefliyor. Ethereum'da olduğu gibi, zincir üzerindeki işlemleri işlemek için bir hisse ispatı mutabakat mekanizması kullanır. Polygon'un yerel simgesi MATIC olarak adlandırılır."
+  }
+}

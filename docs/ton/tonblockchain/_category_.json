@@ -1,0 +1,8 @@
+{
+  "label": "TON Blockchain",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "TON'da birçok kural seti ve dolayısıyla aynı anda çalışan ve bir zincirin hesaplarının birbiriyle etkileşime girebileceği şekilde zincirler arası mesajlar göndererek birbirleriyle etkileşime girebilen birçok blok zinciri olabilir."
+  }
+}

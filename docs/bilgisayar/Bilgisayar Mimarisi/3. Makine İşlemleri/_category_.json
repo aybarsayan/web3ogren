@@ -1,0 +1,8 @@
+{
+  "label": "Makine İşlemleri",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Assembly dili, bilgisayarların anlayabileceği makine diline çok yakın bir düşük seviye programlama dili olarak bilinir. Genellikle Assembly olarak adlandırılır ve donanım düzeyindeki işlemler için kullanılır."
+  }
+}

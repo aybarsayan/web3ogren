@@ -1,0 +1,8 @@
+{
+  "label": "Bilgisayar Mimarisi'ne Giriş",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "1937 yılında Howard-Aiken, ilk otomatik hesap makinesi olan MARK-I ‘i, 1943 yılında ise J. P. Erkert ilk işlevsel bilgisayar olan ENIAC (İngilizce: Electronic Numerical Integrator and Calculator)’ı yaptı. 1971 yılında Intel firması; tüm bileşenleri kendi üzerinde olan dört bitlik 4004 isimli mikroişlemciyi, 1972 yılında sekiz bitlik 8008 işlemcisini, 1974 yılında ise 8080 işlemcisini üretti. 8080 işlemcisi, Intel firmasının ilk genel amaçlı mikroişlemcisiydi. Mikroişlemcilerin getirdiği en önemli avantaj programlanabilirlik özelliğiydi. Çünkü bu sayede aynı işlemci üzerinden farklı işlemler yapılabiliyordu.  "
+  }
+}

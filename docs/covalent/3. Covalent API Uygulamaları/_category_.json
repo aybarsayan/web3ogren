@@ -1,0 +1,8 @@
+{
+  "label": "Covalent API Uygulamaları",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "API; uygulama programlama arayüzü olarak Türkçeye çevrilmiş ve yazılımlara erişimi kolaylaştıran programlar bütünüdür. Blok zincir teknolojilerinde her teknolojinin kendi özel zincirine sahip olması ve bu zincirlere erişimin farklı olması kullanıcıların farklı zincirlerden veri elde etmesini zorlaştırmıştır. Covalent API bu soruna çözüm olmak amacıyla öne sürülen bir uygulama programlama arayüzüdür. Covalent API ile sisteme entegre olan blok zincirler üzerinden veri elde edebilmekte ve elde ettiğimiz bu veriyi anlamlandırarak projelerimizde kullanabilmekteyiz. Verileri elde ederken birkaç format ile karşılaşılmaktadır. JSON, CSV gibi formatlarla elde edebileceğimiz bu veriyi 'curl' ile konsolumuzdan çalıştırırken url formatında tarayıcımıza yapıştırıp istediğimiz formatta alabilmekteyiz. Veriyi devamında elde ederken Python dili üzerinden istenilen parametreler ile 'url' şekline getirip JSON şeklinde aldığımız çıktıyı sınıflandırabiliriz."
+  }
+}

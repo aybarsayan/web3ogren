@@ -1,0 +1,8 @@
+{
+  "label": "Bilgisayar Ağlarına Giriş",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Bu dersin amacı Bilgisayar Ağları konusunda temel bilgileri vermektir. Bu amaçla bu derste Bilgisayar Ağlarının Çalışma Prensipleri, Katmanlı Yapı, TCP/IP Protokol Suite ve bu protokollerin tek tek uygulama katmanından ağ katmanına doğru ele alınması planlanmaktadır."
+  }
+}

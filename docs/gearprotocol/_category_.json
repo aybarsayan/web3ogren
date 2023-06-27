@@ -1,0 +1,8 @@
+{
+  "label": "Gear Technologies",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Gear Protocol, herkesin bir dApp'i birkaç dakika içinde geliştirmesini ve çalıştırmasını sağlayan Substrate tabanlı bir akıllı sözleşme platformudur. Gear Protocol, herhangi bir karmaşıklıktaki akıllı sözleşmeleri keyfi mantıkla uygulamanın en geliştirici dostu yoludur. Gear akıllı sözleşmeleri WebAssembly programları olarak çalışır, bu nedenle Rust, C, C++ gibi popüler programlama dillerinden derlenebilirler."
+  }
+}

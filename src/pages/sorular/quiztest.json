@@ -1,0 +1,38 @@
+[
+    {
+      "questionText": "What is the capital of France?",
+      "answerOptions": [
+        { "answerText": "Paris", "isCorrect": true },
+        { "answerText": "London", "isCorrect": false },
+        { "answerText": "Berlin", "isCorrect": false },
+        { "answerText": "Madrid", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the largest country in the world?",
+      "answerOptions": [
+        { "answerText": "Russia", "isCorrect": true },
+        { "answerText": "China", "isCorrect": false },
+        { "answerText": "Canada", "isCorrect": false },
+        { "answerText": "USA", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Who painted the Mona Lisa?",
+      "answerOptions": [
+        { "answerText": "Leonardo da Vinci", "isCorrect": true },
+        { "answerText": "Pablo Picasso", "isCorrect": false },
+        { "answerText": "Vincent van Gogh", "isCorrect": false },
+        { "answerText": "Michelangelo", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Who painted the Mona Mona?",
+      "answerOptions": [
+        { "answerText": "Leonardo da Vinci", "isCorrect": true },
+        { "answerText": "Pablo Picasso", "isCorrect": false },
+        { "answerText": "Vincent van Gogh", "isCorrect": false },
+        { "answerText": "Michelangelo", "isCorrect": false }
+      ]
+    }
+  ]

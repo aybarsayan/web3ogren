@@ -1,0 +1,8 @@
+{
+  "label": "Pyteal",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Algorand tarafından geliştirilen Teal dilinin Python üzerinde erişilmesini sağlayan bir kütüphanedir. Sadece Python dili içerisinde erişilebilir. Amacı Algorand zincirinde çalışacak verimli ve etkili akıllı kontrat yazmayı kolay bir şekilde gerçekleştirmektir."
+  }
+}

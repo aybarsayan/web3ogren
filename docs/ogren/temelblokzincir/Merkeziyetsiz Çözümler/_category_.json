@@ -1,0 +1,8 @@
+{
+  "label": "Merkeziyetsiz Çözümler",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Blokzincir teknolojisi, merkezi olmayan bir yapıda çalışır ve birçok düğüm (node) tarafından korunur. Bu sayede blokzincir teknolojisi, merkezi otoritelere bağımlılığı azaltarak, daha güvenli ve şeffaf bir sistem oluşturur."
+  }
+}

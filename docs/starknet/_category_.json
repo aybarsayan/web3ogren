@@ -1,0 +1,8 @@
+{
+  "label": "StarkNet",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "StarkNet, Ethereum blok zincirinde çalışan bir Layer 2 ölçekleme çözümüdür. StarkWare tarafından geliştirilen StarkNet, Ethereum ağındaki ölçeklenebilirlik sorunlarını çözmeyi hedefler ve daha hızlı ve daha ucuz işlemlerin gerçekleştirilmesini sağlar. StarkNet, merkezi olmayan uygulamaların (DApps) ve DeFi (Decentralized Finance) uygulamalarının geliştirilmesi için tasarlanmıştır."
+  }
+}

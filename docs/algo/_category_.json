@@ -1,0 +1,8 @@
+{
+  "label": "Algorand",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Algorand blokzincir üçgeni adını verdiğimiz hız, güvenlik ve merkeziyetsizlik konularını tek başına en verimli şekilde çözmeyi hedefleyen merkeziyetsiz ağdır. 2017 yılında Silvio Micoli tarafından yönetilen takım tarafından kurulmuştur. Ethereum alternatifi olarak tasarlanmıştır ancak Ethereum'un aksine neredeyse anlık tamamlanma hızına ulaşan işlem hızına sahip olmaktadır. Saniyede 1000 işlem tamamlayabilmektedir. Gerçekleşen her transfer 5 saniyeden önce tamamlanmaktadır. Pure Proof of Stake (PPOS) adı verilen uzlaşma yöntemini kullanmaktadır. Kitabımızda da bahsedeceğimiz üzere üzerinde akıllı kontrat geliştirmeyi sağlayan bir blokzincirdir."
+  }
+}

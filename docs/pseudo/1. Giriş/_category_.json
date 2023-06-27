@@ -1,0 +1,8 @@
+{
+  "label": "Pseudo Kod Giriş",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Pseudo kod, bilgisayar programlaması alanında kullanılan, programlama diline özgü olmayan, insanların anlayabileceği basit bir dilde yazılmış algoritmalardır. Pseudo kod, genellikle programlamada kullanılan bir dilden daha yüksek seviyeli bir yapıya sahiptir ve programlama dili ne olursa olsun, pseudo kodda yazılan algoritma kodu, farklı bir programlama diline rahatlıkla çevrilebilir. Bu nedenle, pseudo kod, programlama dillerine yeni başlayanlar için öğrenmesi kolay bir yol sağlayabilir."
+  }
+}

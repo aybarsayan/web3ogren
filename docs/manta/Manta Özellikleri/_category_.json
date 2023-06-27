@@ -1,0 +1,8 @@
+{
+  "label": "Manta Özellikleri",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Veri Maskeleme: Manta Network, verileri maskeleyerek kullanıcıların gizliliğini korur. Veriler, özel anahtarlarla şifrelenir ve yalnızca yetkili kullanıcılar tarafından erişilebilir."
+  }
+}

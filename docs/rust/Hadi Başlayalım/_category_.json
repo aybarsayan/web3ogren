@@ -1,0 +1,8 @@
+{
+  "label": "Hadi Başlayalım!",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Bu başlıkta birlikte Rust içeriklerini öğreneceğiz"
+  }
+}

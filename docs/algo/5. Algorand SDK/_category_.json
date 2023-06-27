@@ -1,0 +1,8 @@
+{
+  "label": "Algorand SDK",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Geliştiricilerin akıllı kontrat geliştirmeden zincir üzerinde bazı işlemler yapmasını sağlamaktadır. Bu işlemler adres oluşturma bakiye kontrol etme veya token oluşturma işlemleri olabilir. Algorand SDK şu anda 4 yazılım dili üzerinde desteklenmektedir. Bu yazılım dilleri Python, JavaScript, Go ve Java olmaktadır. Aslında bu dillerin her birinin yoğunlaştığı farklı kısımlar bulunmaktadır örneğin Python arka-uç (backend) programlamada kullanıyorken JavaScript ön-uç (frontend) programlamada kullanılmaktadır. Bu alan farklılığı aslında Algorand SDK'nin çok farklı alanlarda farklı işlemlerin yapılmasına olanak sağlamasından kaynaklanmaktadır."
+  }
+}

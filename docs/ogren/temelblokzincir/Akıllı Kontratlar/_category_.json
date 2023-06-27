@@ -1,0 +1,8 @@
+{
+  "label": "Akıllı Kontratlar",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Akıllı kontratlar, blokzincirlerindeki programlanabilir sözleşmelerdir. Bu sözleşmeler, belirli bir şart gerçekleştiğinde otomatik olarak çalışır ve işlemlerin yapılmasını sağlar."
+  }
+}
