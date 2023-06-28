@@ -190,13 +190,19 @@ const config = {
               },
             ]
           },
-        
+          {
+            href: '/ucretsiz/egitim',
+            label: 'Ücretsiz Eğitim Materyalleri',
+            position: 'left',
+          },
+
           {to: '/blog', label: 'İş İlanı', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
+          
         ],
       },
       footer: {
