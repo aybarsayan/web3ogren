@@ -1,8 +1,8 @@
-# Ücretsiz Eğitim Materyalleri - 28 Haziran 2023
+# Ücretsiz Eğitim Kursları - 28 Haziran 2023
 
 Merhaba! 🌟 Sitemizde her gün güncellenen ücretsiz eğitim materyalleri bulunmakta! Tek bir tıkla siz de ücretli kursları ücretsiz yapma fırsatlarına erişebilirsin! 👨‍💻🎓
 
-Sitemizde çeşitli konularda geniş bir içerik sunuyoruz. Teknoloji, programlama, tasarım, işletme, pazarlama ve daha fazlası için ücretsiz eğitimlerimiz mevcuttur. 📚💡 **[Tüm içeriklere şuradan ulaşabilirsin](https://web3ogren.com/docs/category/bilgisayar-bilimleri)**
+Sitemizde çeşitli konularda geniş bir içerik sunuyoruz. Teknoloji, programlama, tasarım, işletme, pazarlama ve daha fazlası için ücretsiz eğitimlerimiz mevcuttur. 📚💡 **[Tüm içeriklere buradan ulaşabilirsin](https://web3ogren.com/docs/category/bilgisayar-bilimleri)**
 
 :::tip
 Düzenli olarak sitemizi ziyaret etmenizi öneririz. Her gün yayınlanan ücretsiz eğitim kuponları sayesinde istediğiniz alanda kendinizi geliştirebilirsiniz. Üstelik, bu kuponları kullanarak maliyeti minimum seviyede tutabilirsiniz. 💰
@@ -15,7 +15,7 @@ Sitemize hemen göz atın ve ücretsiz eğitim materyallerinin tadını çıkar�
 
 Sitemizi gezmek için aşağıdaki bağlantıyı kullanabilirsiniz:
 
-🔗 [Sitemizi Gezmek](https://web3ogren.com)
+🔗 [Sitemizi Gezmek İçin](https://web3ogren.com)
 :::
 
 :::info
