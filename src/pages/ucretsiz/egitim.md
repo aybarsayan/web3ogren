@@ -23,45 +23,34 @@ Unutmayın, her gün yeni fırsatları kaçırmamak için bizi takip etmeyi unut
 :::
 
 --- 
-
 ## Kurs Listesi
 
-1. **Master Course in Fleet Management and Freight Broker 3.0**
-   - [Kurs Linki](https://www.udemy.com/course/fleet-management-freight-broker-freight-forwarder-fleet-manager/?couponCode=7595B1182D06E3772A74)
-   - Açıklama: Bu kurs, filo yönetimi ve yük komisyoncusu konularında kapsamlı bir eğitim sunar. Filo yönetimi ve taşımacılık sektöründeki güncel pratikleri öğrenerek kariyerinizi ilerletebilirsiniz.
+1. **[Creating Video Lessons with Online Video Maker InVideo](https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?couponCode=INVIDEO_JUNE23_3)**
+   
+   Video dersler oluşturma sürecinde InVideo adlı çevrimiçi video düzenleyici aracını kullanmayı öğrenin. Bu kurs size, etkileyici ve profesyonel video içerikleri oluşturmanız için gerekli becerileri kazandıracaktır.
 
-2. **Keyword Research From Scratch. Unlock New SEO Opportunities**
-   - [Kurs Linki](https://www.udemy.com/course/keyword_research/?couponCode=KEY2706)
-   - Açıklama: Bu kurs, anahtar kelime araştırması konusunda temelden ileri seviyeye kadar bilgi sunar. SEO için yeni fırsatları keşfetmek ve web sitelerinizin görünürlüğünü artırmak için bu kursa katılabilirsiniz.
+2. **[Become 100% Confident RPA UiPath Developer- Build 8 Projects](https://www.udemy.com/course/go-from-zero-to-hero-build-rpa-uipath-projects-from-scratch/?couponCode=2A30FA4B9C651DCBE4E5)**
 
-3. **The BEST Bitcoin Trading Course for ALL Levels! (2023)**
-   - [Kurs Linki](https://www.udemy.com/course/best-bitcoin-trading-course/?couponCode=154F31E941B7DDD0931B)
-   - Açıklama: Bu kapsamlı Bitcoin ticaret kursu, her seviyeden katılımcıya hitap etmektedir. Kripto para ticareti hakkında bilgi edinmek ve stratejilerinizi geliştirmek için bu kursu tercih edebilirsiniz.
+   Bu kurs, sıfırdan başlayarak RPA (Robotic Process Automation) UiPath geliştiricisi olmanızı sağlayacak. 8 gerçek projeyi tamamlayarak, UiPath platformunda kendinizi güvenle geliştirme fırsatı elde edeceksiniz.
 
-4. **Learn Embarcadero Borland C++ Builder in 1 hour**
-   - [Kurs Linki](https://www.udemy.com/course/embarcadero-c-builder/?couponCode=JUNE24FREE)
-   - Açıklama: Bu hızlı tempolu kurs, Embarcadero Borland C++ Builder'ı 1 saat içinde öğrenmenizi sağlar. C++ Builder kullanarak Windows uygulamaları geliştirmek için bu kursu tercih edebilirsiniz.
+3. **[Master Course in Fleet Management and Freight Broker 3.0](https://www.udemy.com/course/fleet-management-freight-broker-freight-forwarder-fleet-manager/?couponCode=7595B1182D06E3772A74)**
+
+   Bu kapsamlı kurs, filo yönetimi ve yük brokerliği konularında ustalaşmanızı sağlayacaktır. Navlun hesaplama, lojistik planlama, taşıma yönetimi ve daha fazlası gibi konuları öğrenerek kariyerinizi ilerletebilirsiniz.
+
+4. **[Keyword Research From Scratch. Unlock New SEO Opportunities](https://www.udemy.com/course/keyword_research/?couponCode=KEY2706)**
+
+   Bu kurs, sıfırdan başlayarak anahtar kelime araştırması becerilerinizi geliştirmenizi sağlar. SEO (Arama Motoru Optimizasyonu) için yeni fırsatları ortaya çıkarmak ve web sitenizin organik görünürlüğünü artırmak için doğru anahtar kelimeleri nasıl bulacağınızı öğrenin.
+
+5. **[Ultra-Fast WordPress Speed With 10Web WordPress Web Hosting](https://www.udemy.com/course/ultra-fast-wordpress-speed/?couponCode=7D8BFCF8B3F614BE6F7B)**
+
+   Bu kurs, 10Web WordPress Web Hosting ile WordPress web sitelerinin ultra hızlı hale getirilmesini öğretiyor. Sitenizin hızını artırarak kullanıcı deneyimini iyileştirin ve arama motorlarında daha iyi sıralamalar elde edin.
+
+6. **[Facebook & Instagram Dynamic Ads: Dynamic Retargeting Course](https://www.udemy.com/course/facebook-dynamic-ads/?couponCode=LUCKYWATERRABBIT1)**
+
+   Bu kurs, Facebook ve Instagram'da dinamik yeniden hedefleme reklamlarını nasıl oluşturacağınızı öğretir. Hedef kitlenizi daha etkili bir şekilde yeniden hedefleyerek reklam performansınızı artırın ve daha iyi sonuçlar elde edin.
+
+7. **[Learn Embarcadero Borland C++ Builder in 1 hour](https://www.udemy.com/course/embarcadero-c-builder/?couponCode=JUNE24FREE)**
+
+   Bu kurs, Embarcadero Borland C++ Builder'ı 1 saat içinde öğrenmenizi sağlar. C++ programlama dilini kullanarak hızlı bir şekilde Windows uygulamaları geliştirmek için gerekli temel becerileri edinin.
 
 
-
-5. **Digital Marketing Strategist. Unlock your career growth**
-   - [Kurs Linki](https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DMSFREE2706)
-   - Açıklama: Bu kurs, dijital pazarlama stratejilerini kapsamlı bir şekilde ele almaktadır. Kariyerinizi dijital pazarlama alanında ilerletmek ve strateji oluşturma becerilerinizi geliştirmek için bu kursu tercih edebilirsiniz.
-
-6. **Social Media Marketing Strategy 2023: Launch Your SMM!**
-   - [Kurs Linki](https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMM2706)
-   - Açıklama: Bu kurs, sosyal medya pazarlama stratejilerini öğrenmek isteyenlere yöneliktir. Sosyal medya platformlarında etkili bir şekilde pazarlama yapmak ve markanızı büyütmek için bu kursu inceleyebilirsiniz.
-
-7. **Prompt Engineering for ChatGPT: From Zero to Hero**
-   - [Kurs Linki](https://www.udemy.com/course/prompt-engineering/?couponCode=REALDISCOUNT)
-   - Açıklama: Bu kurs, ChatGPT için Prompt Mühendisliği konusunda kapsamlı bir eğitim sunmaktadır. Yapay zeka modeli GPT'yi etkili bir şekilde kullanmak ve Prompt tasarlama becerilerinizi geliştirmek için bu kursu tercih edebilirsiniz.
-
-8. **Become 100% Confident RPA UiPath Developer- Build 8 Projects**
-   - [Kurs Linki](https://www.udemy.com/course/go-from-zero-to-hero-build-rpa-uipath-projects-from-scratch/?couponCode=2A30FA4B9C651DCBE4E5)
-   - Açıklama: Bu kurs, RPA (Robotic Process Automation) alanında yetkin bir UiPath geliştirici olmanızı sağlar. Pratik projeler üzerinden RPA becerilerinizi geliştirmek ve kariyerinizi ilerletmek için bu kursu tercih edebilirsiniz.
-
-9. **Mastering of Plumbing Systems: From Pipes to Principles 2023**
-    - [Kurs Linki](https://www.udemy.com/course/mastering-of-plumbing-systems-from-pipes-to-principles2023/?couponCode=0782D7F57E42B8EFBA8C)
-    - Açıklama: Bu kapsamlı kurs, su tesisatı sistemlerini temel prensiplerinden başlayarak detaylı bir şekilde ele almaktadır. Su tesisatı konusundaki bilginizi güçlendirmek ve uzmanlaşmak için bu kursu inceleyebilirsiniz.
-
-...
