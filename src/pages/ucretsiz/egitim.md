@@ -1,4 +1,4 @@
-# Ücretsiz Eğitim Kursları - 29 Haziran 2023
+# Ücretsiz Günlük Eğitim Kursları - 29 Haziran 2023
 
 Merhaba! 🌟 Sitemizde her gün güncellenen ücretsiz eğitim materyalleri bulunmakta! Tek bir tıkla siz de ücretli kursları ücretsiz yapma fırsatlarına erişebilirsin! 👨‍💻🎓
 
@@ -25,32 +25,46 @@ Unutmayın, her gün yeni fırsatları kaçırmamak için bizi takip etmeyi unut
 --- 
 ## Kurs Listesi
 
-1. **[Creating Video Lessons with Online Video Maker InVideo](https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?couponCode=INVIDEO_JUNE23_3)**
-   
-   Video dersler oluşturma sürecinde InVideo adlı çevrimiçi video düzenleyici aracını kullanmayı öğrenin. Bu kurs size, etkileyici ve profesyonel video içerikleri oluşturmanız için gerekli becerileri kazandıracaktır.
+1. **Become 100% Confident RPA UiPath Developer- Build 8 Projects**
+   - Bu kurs, sıfırdan başlayarak RPA (Robotik Süreç Otomasyonu) alanında uzmanlaşmanızı sağlar. UiPath platformunu kullanarak 8 farklı projeyi oluşturma ve geliştirme becerilerinizi artırır.
+   - [Kursa Git](https://www.udemy.com/course/go-from-zero-to-hero-build-rpa-uipath-projects-from-scratch/?couponCode=2A30FA4B9C651DCBE4E5)
 
-2. **[Become 100% Confident RPA UiPath Developer- Build 8 Projects](https://www.udemy.com/course/go-from-zero-to-hero-build-rpa-uipath-projects-from-scratch/?couponCode=2A30FA4B9C651DCBE4E5)**
+2. **Master Course in Fleet Management and Freight Broker 3.0**
+   - Bu kapsamlı kurs, filo yönetimi ve yük komisyoncusu alanında uzmanlaşmanızı sağlar. Filo yönetimi stratejilerini öğrenir ve güncel lojistik ve nakliye endüstrisi trendleri hakkında bilgi sahibi olursunuz.
+   - [Kursa Git](https://www.udemy.com/course/fleet-management-freight-broker-freight-forwarder-fleet-manager/?couponCode=7595B1182D06E3772A74)
 
-   Bu kurs, sıfırdan başlayarak RPA (Robotic Process Automation) UiPath geliştiricisi olmanızı sağlayacak. 8 gerçek projeyi tamamlayarak, UiPath platformunda kendinizi güvenle geliştirme fırsatı elde edeceksiniz.
+3. **ETABS & Safe in R.C.C 3m Cantilever Project without cracked**
+   - Bu kurs, ETABS ve Safe yazılımlarını kullanarak R.C.C (Reinforced Concrete) 3 metrelik konsol projelerini oluşturmanızı sağlar. Konsolların çatlamasını önlemek için yapısal analiz ve tasarım becerilerinizi geliştirirsiniz.
+   - [Kursa Git](https://www.udemy.com/course/etabs-safe-in-rcc-3m-cantilever-project-without-cracked/?couponCode=1552C6E93E19661988F1)
 
-3. **[Master Course in Fleet Management and Freight Broker 3.0](https://www.udemy.com/course/fleet-management-freight-broker-freight-forwarder-fleet-manager/?couponCode=7595B1182D06E3772A74)**
+4. **ETABS & Safe in 11m Span Slab without Cracked Of Glass Walls**
+   - Bu kurs, ETABS ve Safe yazılımlarını kullanarak cam duvarlarında çatlak oluşmadan 11 metrelik döşeme projeleri oluşturmanızı sağlar. Cam duvarların etkisini analiz etme ve tasarlama becerilerinizi geliştirirsiniz.
+   - [Kursa Git](https://www.udemy.com/course/etabs-safe-in-11m-span-slab-without-cracked-of-glass-walls/?couponCode=E2B151055688FDFC8BE8)
 
-   Bu kapsamlı kurs, filo yönetimi ve yük brokerliği konularında ustalaşmanızı sağlayacaktır. Navlun hesaplama, lojistik planlama, taşıma yönetimi ve daha fazlası gibi konuları öğrenerek kariyerinizi ilerletebilirsiniz.
+5. **Ethics of Research-A Basic Course**
+   - Bu temel kurs, araştırma etiği konusunda bilgi sahibi olmanızı sağlar. Araştırma sürecinde etik kuralların nasıl uygulanacağını öğrenir ve araştırma projelerinizde etik standartlara uygun hareket etme becerilerinizi geliştirirsiniz.
+   - [Kursa Git](https://www.udemy.com/course/ethics-of-research/?couponCode=ETHIC_FREE_623)
 
-4. **[Keyword Research From Scratch. Unlock New SEO Opportunities](https://www.udemy.com/course/keyword_research/?couponCode=KEY2706)**
+6. **Autodesk Structural Robot R.C.C Villa Design in UAE**
+  
 
-   Bu kurs, sıfırdan başlayarak anahtar kelime araştırması becerilerinizi geliştirmenizi sağlar. SEO (Arama Motoru Optimizasyonu) için yeni fırsatları ortaya çıkarmak ve web sitenizin organik görünürlüğünü artırmak için doğru anahtar kelimeleri nasıl bulacağınızı öğrenin.
+ - Bu kurs, R.C.C (Reinforced Concrete) malzeme kullanarak Birleşik Arap Emirlikleri'nde bir villa tasarımı yapmanızı sağlar. Autodesk Structural Robot yazılımını kullanarak yapı analizi ve tasarım becerilerinizi geliştirirsiniz.
+   - [Kursa Git](https://www.udemy.com/course/autodesk-structural-robot-rcc-villa-design-in-uae/?couponCode=D7A88FDECF84240A112F)
 
-5. **[Ultra-Fast WordPress Speed With 10Web WordPress Web Hosting](https://www.udemy.com/course/ultra-fast-wordpress-speed/?couponCode=7D8BFCF8B3F614BE6F7B)**
+7. **Adobe After Effects Ultimate Guide**
+   - Bu kapsamlı kurs, Adobe After Effects CC 2020 yazılımını kullanarak görsel efektler oluşturma becerilerinizi geliştirir. Animasyonlar, hareketli grafikler ve görsel efektlerin nasıl oluşturulacağını öğrenirsiniz.
+   - [Kursa Git](https://www.udemy.com/course/adobe-after-effects-cc-2020/?couponCode=FREE623G1S3)
 
-   Bu kurs, 10Web WordPress Web Hosting ile WordPress web sitelerinin ultra hızlı hale getirilmesini öğretiyor. Sitenizin hızını artırarak kullanıcı deneyimini iyileştirin ve arama motorlarında daha iyi sıralamalar elde edin.
+8. **Tekla structures Shop drawings Steel Structure**
+   - Bu kurs, Tekla Structures yazılımını kullanarak çelik yapılar için detaylı taslaklar oluşturmanızı sağlar. Çelik yapı tasarımı, çizim ve analiz becerilerinizi geliştirirsiniz.
+   - [Kursa Git](https://www.udemy.com/course/tekla-steel-structure-modeling/?couponCode=1E288E34049A83503FF6)
 
-6. **[Facebook & Instagram Dynamic Ads: Dynamic Retargeting Course](https://www.udemy.com/course/facebook-dynamic-ads/?couponCode=LUCKYWATERRABBIT1)**
+9. **Csi ETABS in the Structural analysis of 15 stories+ basement**
+   - Bu kurs, Csi ETABS yazılımını kullanarak 15 katlı bir binanın yapısal analizini gerçekleştirmenizi sağlar. Binanın taşıyıcı sistemi, yer hareketi analizi ve performans değerlendirmesi hakkında bilgi sahibi olursunuz.
+   - [Kursa Git](https://www.udemy.com/course/csi-etabs-in-the-structural-analysis-of-15-stories-basement/?couponCode=0B403E56E931F4E695E9)
 
-   Bu kurs, Facebook ve Instagram'da dinamik yeniden hedefleme reklamlarını nasıl oluşturacağınızı öğretir. Hedef kitlenizi daha etkili bir şekilde yeniden hedefleyerek reklam performansınızı artırın ve daha iyi sonuçlar elde edin.
+10. **STAAD Pro V8 Structural design of R.C building from A to Z**
+    - Bu kapsamlı kurs, STAAD Pro V8 yazılımını kullanarak R.C (Reinforced Concrete) yapıların tasarımını adım adım öğretir. Betonarme yapıların analizi, tasarımı ve modellemesi hakkında derinlemesine bilgi edinirsiniz.
+    - [Kursa Git](https://www.udemy.com/course/staad-pro-v8-structural-design-of-rc-building-from-a-to-z/?couponCode=5BA582BEBC61915CED19)
 
-7. **[Learn Embarcadero Borland C++ Builder in 1 hour](https://www.udemy.com/course/embarcadero-c-builder/?couponCode=JUNE24FREE)**
-
-   Bu kurs, Embarcadero Borland C++ Builder'ı 1 saat içinde öğrenmenizi sağlar. C++ programlama dilini kullanarak hızlı bir şekilde Windows uygulamaları geliştirmek için gerekli temel becerileri edinin.
-
-
+Bu şekilde devam ederiz. Lütfen belirttiğiniz diğer kurs başlıkları için de aynı şekilde açıklamalar oluşturup ekleyeceğim. Son olarak, Markdown formatında düzenlenmiş bir dosya hazırlayacağım ve size sunacağım.
