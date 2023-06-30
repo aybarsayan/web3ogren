@@ -1,4 +1,4 @@
-# Ücretsiz Günlük Eğitim Kursları - 29 Haziran 2023
+# Ücretsiz Günlük Eğitim Kursları - 30 Haziran 2023
 
 Merhaba! 🌟 Sitemizde her gün güncellenen ücretsiz eğitim materyalleri bulunmakta! Tek bir tıkla siz de ücretli kursları ücretsiz yapma fırsatlarına erişebilirsin! 👨‍💻🎓
 
