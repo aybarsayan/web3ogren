@@ -1,4 +1,4 @@
-# Ücretsiz Günlük Eğitim Kursları - 30 Haziran 2023
+# Ücretsiz Günlük Eğitim Kursları - 1 Temmuz 2023
 
 Merhaba! 🌟 Sitemizde her gün güncellenen ücretsiz eğitim materyalleri bulunmakta! Tek bir tıkla siz de ücretli kursları ücretsiz yapma fırsatlarına erişebilirsin! 👨‍💻🎓
 
@@ -23,48 +23,32 @@ Unutmayın, her gün yeni fırsatları kaçırmamak için bizi takip etmeyi unut
 :::
 
 --- 
+
 ## Kurs Listesi
 
-1. **Become 100% Confident RPA UiPath Developer- Build 8 Projects**
-   - Bu kurs, sıfırdan başlayarak RPA (Robotik Süreç Otomasyonu) alanında uzmanlaşmanızı sağlar. UiPath platformunu kullanarak 8 farklı projeyi oluşturma ve geliştirme becerilerinizi artırır.
-   - [Kursa Git](https://www.udemy.com/course/go-from-zero-to-hero-build-rpa-uipath-projects-from-scratch/?couponCode=2A30FA4B9C651DCBE4E5)
+1. [Master Course : Quality Management & Stakeholder Management](https://www.udemy.com/course/quality-management-stakeholder-management-quality-control-iso-9001/?couponCode=5932E7A08DC5B5D43F8F)
+   - Bu kurs, ISO 9001 ve kalite kontrolü ile ilgili olarak kalite yönetimi ve paydaş yönetimi konularında uzmanlık kazanmanıza yardımcı olacaktır. Projelerinizi başarıyla yönetmek ve paydaşlarla etkili iletişim kurmak için gereken becerileri öğreneceksiniz.
 
-2. **Master Course in Fleet Management and Freight Broker 3.0**
-   - Bu kapsamlı kurs, filo yönetimi ve yük komisyoncusu alanında uzmanlaşmanızı sağlar. Filo yönetimi stratejilerini öğrenir ve güncel lojistik ve nakliye endüstrisi trendleri hakkında bilgi sahibi olursunuz.
-   - [Kursa Git](https://www.udemy.com/course/fleet-management-freight-broker-freight-forwarder-fleet-manager/?couponCode=7595B1182D06E3772A74)
+2. [Public Speaking for Women](https://www.udemy.com/course/public-speaking-for-women/?couponCode=THANKS027)
+   - Bu kurs, kadınlar için kamusal konuşma becerilerini geliştirmeye odaklanmaktadır. Özgüveninizi artırarak etkili bir şekilde konuşma yapabilme, vücut dilinizi kontrol etme ve dinleyicilerinizi etkileme becerilerini öğreneceksiniz.
 
-3. **ETABS & Safe in R.C.C 3m Cantilever Project without cracked**
-   - Bu kurs, ETABS ve Safe yazılımlarını kullanarak R.C.C (Reinforced Concrete) 3 metrelik konsol projelerini oluşturmanızı sağlar. Konsolların çatlamasını önlemek için yapısal analiz ve tasarım becerilerinizi geliştirirsiniz.
-   - [Kursa Git](https://www.udemy.com/course/etabs-safe-in-rcc-3m-cantilever-project-without-cracked/?couponCode=1552C6E93E19661988F1)
+3. [Boost Digital Marketing Effectiveness via Behavioral Science](https://www.udemy.com/course/boost-digital-marketing-effectiveness-via-behavioral-science/?couponCode=528C47E61DB87E46CFB7)
+   - Bu kurs, dijital pazarlama stratejilerinizi geliştirmek için davranış bilimini kullanmayı öğretir. Müşteri davranışlarını anlamak, etkili pazarlama mesajları oluşturmak ve dönüşüm oranlarını artırmak için davranış biliminin prensiplerini uygulama becerilerini kazanacaksınız.
 
-4. **ETABS & Safe in 11m Span Slab without Cracked Of Glass Walls**
-   - Bu kurs, ETABS ve Safe yazılımlarını kullanarak cam duvarlarında çatlak oluşmadan 11 metrelik döşeme projeleri oluşturmanızı sağlar. Cam duvarların etkisini analiz etme ve tasarlama becerilerinizi geliştirirsiniz.
-   - [Kursa Git](https://www.udemy.com/course/etabs-safe-in-11m-span-slab-without-cracked-of-glass-walls/?couponCode=E2B151055688FDFC8BE8)
+4. [Introduction to Spacy for Natural Language Processing](https://www.udemy.com/course/introduction-to-for-natural-language-processing/?couponCode=2F11068F9A55346840B2)
+   - Bu kurs, doğal dil işleme konusunda Spacy kütüphanesine giriş yapmanızı sağlar. Metin verilerini analiz etmek, kelime dağarcığını tanımlamak, dilbilgisi analizi yapmak ve metin tabanlı makine öğrenimi modelleri oluşturmak için Spacy'nin temel yeteneklerini öğreneceksiniz.
 
-5. **Ethics of Research-A Basic Course**
-   - Bu temel kurs, araştırma etiği konusunda bilgi sahibi olmanızı sağlar. Araştırma sürecinde etik kuralların nasıl uygulanacağını öğrenir ve araştırma projelerinizde etik standartlara uygun hareket etme becerilerinizi geliştirirsiniz.
-   - [Kursa Git](https://www.udemy.com/course/ethics-of-research/?couponCode=ETHIC_FREE_623)
+5. [Link building 2023. Build links that boost the site traffic!](https://www.udemy.com/course/link-building-course/?couponCode=LB3006)
+   - Bu kurs, web sitesi trafiğini artıran bağlantılar kurmayı öğretir. Kaliteli bağlantılar oluşturarak arama motoru sıralamalarını iyileştirmek, organik ziyaretçi trafiğini artırmak ve web sitenizi daha görünür hale getirmek için etkili bağlantı stratejilerini öğreneceksiniz.
 
-6. **Autodesk Structural Robot R.C.C Villa Design in UAE**
-  
+6. [Create a Members Only Blog using PHP, MySQL, & AJAX](https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/?couponCode=YOUACCEL35296)
+   - Bu kurs, PHP, MySQL ve AJAX kullanarak sadece üyelerin erişebileceği bir blog oluşturmayı öğretir. Üyelik sistemi oluşturma, blog yazıları yönetme, yorumları yönetme ve dinamik içerik oluşturma becerilerini kazanacaksınız.
 
- - Bu kurs, R.C.C (Reinforced Concrete) malzeme kullanarak Birleşik Arap Emirlikleri'nde bir villa tasarımı yapmanızı sağlar. Autodesk Structural Robot yazılımını kullanarak yapı analizi ve tasarım becerilerinizi geliştirirsiniz.
-   - [Kursa Git](https://www.udemy.com/course/autodesk-structural-robot-rcc-villa-design-in-uae/?couponCode=D7A88FDECF84240A112F)
+7. [Time Management Mastery: 10X Your Time, Join the New Rich](https://www.udemy.com/course/time-management-secrets-of-billionaires/?couponCode=B904556BC2683E77CB45)
+   - Bu kurs, zaman yönetimi becerilerinizi geliştirerek zamanınızı daha verimli bir şekilde kullanmanıza yardımcı olur. Zengin insanların zaman yönetimi stratejilerini öğrenerek önceliklerinizi belirleme, zamanı etkili bir şekilde planlama ve üretkenliğinizi artırma konularında ustalaşacaksınız.
 
-7. **Adobe After Effects Ultimate Guide**
-   - Bu kapsamlı kurs, Adobe After Effects CC 2020 yazılımını kullanarak görsel efektler oluşturma becerilerinizi geliştirir. Animasyonlar, hareketli grafikler ve görsel efektlerin nasıl oluşturulacağını öğrenirsiniz.
-   - [Kursa Git](https://www.udemy.com/course/adobe-after-effects-cc-2020/?couponCode=FREE623G1S3)
+8. [Fixed Income Securities: Become a Bond Analyst & Investor](https://www.udemy.com/course/introduction-to-bonds/?couponCode=95946D561B6A55912490)
+   - Bu kurs, bir tahvil analisti ve yatırımcısı olmanız için size rehberlik edecektir. Sabit getirili menkul kıymetlerin çalışma prensiplerini, risklerini değerlendirme yöntemlerini ve tahvil portföyü yönetimi stratejilerini öğreneceksiniz.
 
-8. **Tekla structures Shop drawings Steel Structure**
-   - Bu kurs, Tekla Structures yazılımını kullanarak çelik yapılar için detaylı taslaklar oluşturmanızı sağlar. Çelik yapı tasarımı, çizim ve analiz becerilerinizi geliştirirsiniz.
-   - [Kursa Git](https://www.udemy.com/course/tekla-steel-structure-modeling/?couponCode=1E288E34049A83503FF6)
-
-9. **Csi ETABS in the Structural analysis of 15 stories+ basement**
-   - Bu kurs, Csi ETABS yazılımını kullanarak 15 katlı bir binanın yapısal analizini gerçekleştirmenizi sağlar. Binanın taşıyıcı sistemi, yer hareketi analizi ve performans değerlendirmesi hakkında bilgi sahibi olursunuz.
-   - [Kursa Git](https://www.udemy.com/course/csi-etabs-in-the-structural-analysis-of-15-stories-basement/?couponCode=0B403E56E931F4E695E9)
-
-10. **STAAD Pro V8 Structural design of R.C building from A to Z**
-    - Bu kapsamlı kurs, STAAD Pro V8 yazılımını kullanarak R.C (Reinforced Concrete) yapıların tasarımını adım adım öğretir. Betonarme yapıların analizi, tasarımı ve modellemesi hakkında derinlemesine bilgi edinirsiniz.
-    - [Kursa Git](https://www.udemy.com/course/staad-pro-v8-structural-design-of-rc-building-from-a-to-z/?couponCode=5BA582BEBC61915CED19)
-
-Bu şekilde devam ederiz. Lütfen belirttiğiniz diğer kurs başlıkları için de aynı şekilde açıklamalar oluşturup ekleyeceğim. Son olarak, Markdown formatında düzenlenmiş bir dosya hazırlayacağım ve size sunacağım.
+9. [Bootstrap & jQuery – Certification Course for Beginners](https://www.udemy.com/course/bootstrap-jquery-certification-course-for-beginners/?couponCode=YOUACCEL35296)
+   - Bu başlangıç seviyesi sertifikalı kurs, Bootstrap ve jQuery kullanarak web tasarımı ve geliştirmeye giriş yapmanıza olanak tanır. Modern ve duyarlı web siteleri oluşturma, kullanıcı arayüzü tasarlama ve etkileşimli web öğeleri oluşturma becerilerini kazanacaksınız.
