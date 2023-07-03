@@ -1,4 +1,4 @@
-# Ücretsiz Günlük Eğitim Kursları - 2 Temmuz 2023
+# Ücretsiz Günlük Eğitim Kursları - 3 Temmuz 2023
 
 Merhaba! 🌟 Sitemizde her gün güncellenen ücretsiz eğitim materyalleri bulunmakta! Tek bir tıkla siz de ücretli kursları ücretsiz yapma fırsatlarına erişebilirsin! 👨‍💻🎓
 
