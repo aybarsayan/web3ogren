@@ -24,7 +24,7 @@ Unutmayın, her gün yeni fırsatları kaçırmamak için bizi takip etmeyi unut
 
 --- 
 
-## Kurs Listesi
+## Kurs Listesi
 
 1. **Building a Stronger You: Developing Self-Confidence for Business**
    - [Kurs Linki](https://www.udemy.com/course/building-a-stronger-you-developing-self-confidence-for-bus/?couponCode=BFD97FB856CFCA06B0CA)
