@@ -120,6 +120,10 @@ const config = {
                 to: '/docs/category/pseudo-kod-giri%C5%9F-1',
                 label: 'Pseudo Kod'
               },
+              {
+                to: '/docs/excel/giris/Exel%20Hakkında',
+                label: 'Excel'
+              },
             ]
           },
           {
@@ -188,6 +192,7 @@ const config = {
                 to: '/docs/ton/introduction',
                 label: 'The Open Network (TON)'
               },
+              
             ]
           },
           {
