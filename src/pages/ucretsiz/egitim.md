@@ -1,4 +1,4 @@
-# Ücretsiz Günlük Eğitim Kursları - 8 Temmuz 2023
+# Ücretsiz Günlük Eğitim Kursları - 9 Temmuz 2023
 
 Merhaba! 🌟 Sitemizde her gün güncellenen ücretsiz eğitim materyalleri bulunmakta! Tek bir tıkla siz de ücretli kursları ücretsiz yapma fırsatlarına erişebilirsin! 👨‍💻🎓
 
@@ -23,67 +23,87 @@ Unutmayın, her gün yeni fırsatları kaçırmamak için bizi takip etmeyi unut
 :::
 
 --- 
-
 ## Kurs Listesi
 
-1. [Accounting-Bonds Payable, Notes Payable, Liabilities](https://www.udemy.com/course/accounting-bonds-payable-notes-payable-liabilities/?couponCode=522FDC18361A5AAEE76E)
-   - Bu kurs, muhasebe konusunda özellikle tahvil borçları, senetler ve yükümlülükler hakkında kapsamlı bir bilgi sağlar.
+1. [Innovating with Biomathematics](https://www.udemy.com/course/innovating-with-biomathematics/?couponCode=1BE0839D05AC733BE009)
+   
+   Bu kurs, biomatematikle yenilikçi çalışmalara giriş yapmanızı sağlar. Biyoloji ve matematik disiplinlerini birleştirerek biyolojik süreçlerin matematiksel modellerini oluşturmayı ve analiz etmeyi öğreneceksiniz.
 
-2. [Master Course in Facility Management 2.0](https://www.udemy.com/course/facility-management-office-maintenance-services/?couponCode=8ED9B8723E3B69B937EF)
-   - Bu kapsamlı kurs, tesis yönetimi konusunda ofis bakım hizmetlerine odaklanır ve size geniş bir perspektif sunar.
+2. [Genetics from mendel to Era of microarray classical Genetics](https://www.udemy.com/course/genetics-from-mendel-to-era-of-microarray-classical-genetics/?couponCode=27D1E6C6BE3101D91CCD)
+   
+   Bu kurs, Mendel'den mikroarray klasik genetiğin çağına kadar genetik konusunda temel bilgileri içerir. Genetik prensiplerini ve genetik analiz yöntemlerini anlamak için bir temel sağlar.
 
-3. [Build Your Best Cold Email Strategy!](https://www.udemy.com/course/cold-marketing-strategy/?couponCode=COLD607)
-   - Bu kurs, etkili bir soğuk e-posta stratejisi oluşturmanıza yardımcı olur ve pazarlama becerilerinizi geliştirir.
+3. [Sales management – streams, frameworks and processes](https://www.udemy.com/course/sales-management-streams-frameworks-and-processes/?couponCode=07B7F57D4557CEC16397)
+   
+   Bu kurs, satış yönetimi konusunda derinlemesine bir anlayış sağlar. Satış stratejileri, çerçeveler ve süreçler hakkında bilgi edinecek ve etkili satış ekipleri oluşturmayı öğreneceksiniz.
 
-4. [Blogging and Influencer Marketing](https://www.udemy.com/course/blogging-and-influencer-marketing/?couponCode=BLOGFREE607)
-   - Bu kurs, bloglama ve etkileyici pazarlama konularında temel bilgiler sunar ve online varlığınızı büyütmenize yardımcı olur.
+4. [The Complete Talking Head Video Production Masterclass](https://www.udemy.com/course/the-complete-talking-head-video-production-masterclass/?couponCode=8FD58BDBE16038C31FF1)
+   
+   Bu kurs, konuşmacı videosu prodüksiyonu konusunda kapsamlı bir anlayış sağlar. Konuşmacı videoları oluşturmanın tüm yönlerini öğrenecek ve profesyonel videolar üretebileceksiniz.
 
-5. [Google Analytics Certification. How to Pass the Exam](https://www.udemy.com/course/google-analytics-certification-how-to-pass-the-exam/?couponCode=FREE607GAC)
-   - Bu kurs, Google Analytics sertifikasyonu için sınavı nasıl geçeceğinizi öğretir ve dijital pazarlama becerilerinizi geliştirir.
+5. [Master Course in Business Model and Business Model Canvas](https://www.udemy.com/course/business-model-business-model-canvas-business-growth-innovation/?couponCode=6E407BF6E4C540C92FC2)
+   
+   Bu kurs, iş modeli ve iş modeli canvas konularında derinlemesine bilgi sağlar. İş modellerini anlamak, yenilikçi fikirler geliştirmek ve iş stratejilerini optimize etmek için bu kursu takip edebilirsiniz.
 
-6. [Google Ads 2023: How to Drive Sales With PPC!](https://www.udemy.com/course/google-ads-for-beginners-how-to-drive-sales-with-ppc/?couponCode=ADSFREE607)
-   - Bu kurs, PPC (Tıklama Başına Ödeme) reklamlarıyla satışları nasıl artıracağınızı öğretir ve dijital reklamcılık konusunda bilgi verir.
+6. [Master Course in Business Continuity Management](https://www.udemy.com/course/business-continuity-management-iso-22301-bcms-bcp/?couponCode=A1E6185B6EF6B8357DCC)
+   
+   Bu kurs, iş sürekliliği yönetimi konusunda size kapsamlı bir rehberlik sağlar. İş sürekliliği planlamasını, felaket yönetimini ve risk analizini öğrenerek işlerin sürekliliğini sağlamada önemli bir rol oynayabilirsiniz.
 
-7. [Altcoins – Investing In Altcoins & ICOs!](https://www.udemy.com/course/altcoins-investing-in-altcoins-icos/?couponCode=B8400C166F3B878AA930)
-   - Bu kurs, alternatif kripto para birimlerine (Altcoin) ve ICO'lara yatırım yapma konusunda rehberlik eder.
+7. [Master Course in Business Budgeting](https://www.udemy.com/course/business-budgeting-financial-planning-financial-analysis/?couponCode=ECC59A0730277A610F40)
+   
+   Bu kurs, iş bütçelemesi konusunda derinlemesine bir anlayış sağlar. Finansal planlama, bütçe oluşturma ve finansal analiz gibi becerileri öğrenerek işletmenizin mali performansını yönetebilirsiniz.
 
-8. [Build an Amazon Affiliate E-Commerce Store from Scratch](https://www.udemy.com/course/build-an-amazon-affiliate-e-commerce-store-from-scratch/?couponCode=YOUACCEL87707)
-   - Bu kurs, baştan sona bir Amazon ortaklık e-ticaret mağazası oluşturmanızı sağlar ve çevrimiçi gelir elde etmenize yardımcı olur.
+8. [Master Course in Early Childhood Education](https://www.udemy.com/course/early-childhood-education-teacher-training-child-psychology/?couponCode=C6C27601B8ECFC2EA7AC)
+   
+   Bu kurs, erken çocukluk eğitimi konusunda size kapsamlı bir rehberlik sağlar. Çocuk psikolojisi, öğretme teknikleri ve erken çocukluk gelişimi hakkında bilgi edinerek çocukların eğitimine katkıda bulunabilirsiniz.
 
-9. [Mastering Network Security: Defending Against Cyber Threats](https://www.udemy.com/course/master-network-security/?couponCode=NET_SEC_2023_TOP)
-   - Bu kapsamlı kurs, siber tehditlere karşı savunma konusunda ağ güvenliği becerilerinizi geliştirmenize yardımcı olur.
+9. [Master Course in Earned Value Management (EVM)](https://www.udemy.com/course/earned-value-management-evm-project-management-pmp/?couponCode=E5127E0B740748DBC099)
+   
+   Bu kurs, kazanılmış değer yönetimi konusunda size derin bir anlayış sağlar. Proje yönetimi süreçlerinde kazanılmış değer analizini kullanarak proje performansını izlemeyi ve değerlendirmeyi öğrenebilirsiniz.
 
-10. [Become an Expert on Mortgage Credit Reports](https://www.udemy.com/course/become-an-expert-on-mortgage-credit-reports/?couponCode=JULYFREE)
-    - Bu kurs, konut kredisi kredi raporları konusunda uzmanlaşmanıza yardımcı olur ve finansal analiz becerilerinizi geliştirir.
+10. [Master Course in Business Etiquette](https://www.udemy.com/course/business-etiquette-email-etiquette-corporate-etiquette/?couponCode=59A06F266E73969FE1E9)
+    
+    Bu kurs, iş etiketi konusunda size kapsamlı bir rehberlik sağlar. İşyerinde uygun davranışlar, e-posta etiketi ve kurumsal etik gibi konuları öğrenerek iş ilişkilerinizi geliştirebilirsiniz.
 
-11. [Innovating with Biomathematics](https://www.udemy.com/course/innovating-with-biomathematics/?couponCode=1BE0839D05AC733BE009)
-    - Bu kurs, biyomatematik alanında yenilikçi fikirler geliştirmenize yardımcı olur ve biyoloji ile matematik arasındaki ilişkiyi keşfeder.
+11. [Master course in Organizational Behavior and Design](https://www.udemy.com/course/organizational-behavior-organizational-design/?couponCode=ACED2EDDCB5FA227AC42)
+    
+    Bu kurs, örgütsel davranış ve tasarım konularında size derinlemesine bir anlayış sağlar. Kurumsal kültür, liderlik ve örgüt yapısı gibi konuları öğrenerek işletmelerin performansını iyileştirebilirsiniz.
 
-12. [Vocal Presentation Skills From Hollywood Legends](https://www.udemy.com/course/vocal-presentation-skills-from-broadcasters-hollywood-legends/?couponCode=VPSFHLEXPJUL112023)
-    - Bu kurs, ünlü Hollywood seslendirme sanatçılarından vokal sunum becerilerini öğretir ve iletişim becerilerinizi geliştirir.
+12. [Master Course in Business Branding and Brand Management](https://www.udemy.com/course/business-branding-brand-management/?couponCode=454F6006EA4959CE7C45)
+    
+    Bu kurs, iş markalama ve marka yönetimi konularında size kapsamlı bir rehberlik sağlar. Marka stratejileri, marka iletişimi ve marka yönetimi prensiplerini öğrenerek işletmenizin marka değerini artırabilirsiniz.
 
-13. [Public Speaking: Eliminate Verbal Tics, Uh, Um, Er, Ya Know](https://www.udemy.com/course/speech-therapy-eliminate-verbal-tics-uh-um-er-ya-know/?couponCode=861B79F2A1C232F40176)
-    - Bu kurs, sözlü ticsleri ortadan kaldırmayı ve akıcı bir şekilde konuşmayı öğretir ve sunum becerilerinizi geliştirir.
+13. [Master Course in Corporate Social Responsibility (CSR)](https://www.udemy.com/course/corporate-social-responsibility-csr-environmental-sustainability/?
 
-14. [How To Identify Fake News and Fight Misinformation](https://www.udemy.com/course/how-to-identify-fake-news-and-fight-misinformation/?couponCode=JULY2023)
-    - Bu kurs, sahte haberleri nasıl tanıyacağınızı ve yanlış bilgilendirme ile nasıl mücadele edeceğinizi öğretir.
+couponCode=E7BA7EF5E2D77892FF01)
+   
+   Bu kurs, kurumsal sosyal sorumluluk (CSR) konusunda size derinlemesine bir anlayış sağlar. Çevresel sürdürülebilirlik, etik iş uygulamaları ve toplumsal sorumluluk konularında bilgi edinerek işletmenizin sürdürülebilirlik çabalarını yönetebilirsiniz.
 
-15. [Car Coolant System: Learning every aspect of Water Cooling](https://www.udemy.com/course/car-coolant-system-learning-every-aspect-of-water-cooling/?couponCode=CAR_REPAIR_2023)
-    - Bu kurs, araç soğutma sistemleri hakkında her yönüyle bilgi sağlar ve otomotiv bakım becerilerinizi geliştirir.
+14. [Master Course in Social Entrepreneurship 2.0](https://www.udemy.com/course/social-entrepreneurship-nonprofit-startup-social-work/?couponCode=5544826F5F5B3803CC5F)
+   
+   Bu kurs, sosyal girişimcilik konusunda size kapsamlı bir rehberlik sağlar. Kar amacı gütmeyen kuruluşlar, sosyal inovasyon ve toplumsal değişim için iş modelleri oluşturmayı öğrenebilirsiniz.
 
-16. [Sales management – streams, frameworks and processes](https://www.udemy.com/course/sales-management-streams-frameworks-and-processes/?couponCode=07B7F57D4557CEC16397)
-    - Bu kurs, satış yönetimi konusunda farklı yaklaşımları, çerçeveleri ve süreçleri öğretir ve satış becerilerinizi geliştirir.
+15. [Master Course of Executive Coaching](https://www.udemy.com/course/executive-coaching-leadership/?couponCode=9C72D0E19CB8B730B3BF)
+    
+    Bu kurs, yönetici koçluğu konusunda size derinlemesine bir anlayış sağlar. Liderlik becerilerini geliştirmek, yöneticilere rehberlik etmek ve performanslarını artırmak için bu kursu takip edebilirsiniz.
 
-17. [The Complete Talking Head Video Production Masterclass](https://www.udemy.com/course/the-complete-talking-head-video-production-masterclass/?couponCode=8FD58BDBE16038C31FF1)
-   - Bu kapsamlı kurs, konuşmacı görüntüsü odaklı video üretimi konusunda size tam bir rehberlik sağlar.
+16. [Master Course in Logistics and Supply Chain Management 2.0](https://www.udemy.com/course/logistics-and-suppy-chain-management/?couponCode=E219F68AD9FCCF70ED57)
+    
+    Bu kurs, lojistik ve tedarik zinciri yönetimi konusunda size kapsamlı bir rehberlik sağlar. Lojistik süreçlerini optimize etmek, tedarik zinciri performansını iyileştirmek ve lojistik operasyonları yönetmek için bu kursu takip edebilirsiniz.
 
-18. [Master Course in Business Model and Business Model Canvas](https://www.udemy.com/course/business-model-business-model-canvas-business-growth-innovation/?couponCode=6E407BF6E4C540C92FC2)
-    - Bu kurs, iş modeli ve iş modeli taslağı konularında kapsamlı bir eğitim sunar ve iş fikirlerinizi geliştirmenize yardımcı olur.
+17. [Master course of Amazon Cognito](https://www.udemy.com/course/amazon-cognito-master-course/?couponCode=6F29938E395175B9C16C)
+    
+    Bu kurs, Amazon Cognito hakkında size derinlemesine bir anlayış sağlar. Kimlik doğrulama, yetkilendirme ve kullanıcı yönetimi için Amazon Cognito'yu kullanmayı öğrenebilirsiniz.
 
-19. [Master Course in Business Continuity Management](https://www.udemy.com/course/business-continuity-management-iso-22301-bcms-bcp/?couponCode=A1E6185B6EF6B8357DCC)
-    - Bu kapsamlı kurs, iş sürekliliği yönetimi konusunda ISO 22301 standardı temelinde size rehberlik eder ve kriz durumlarında işinizi korumanıza yardımcı olur.
+18. [Master Course of Lean Startup and IT Startup](https://www.udemy.com/course/the-lean-startup-it-startup-master-course/?couponCode=1062987CE6D80FD0B199)
+    
+    Bu kurs, Lean Startup ve IT Startup konularında size kapsamlı bir rehberlik sağlar. Yenilikçi fikirleri hızlı bir şekilde piyasaya sürmek, MVP (Minimum Viable Product) oluşturmak ve işletme büyümesini yönetmek için bu kursu takip edebilirsiniz.
 
-20. [Master Course in Business Budgeting](https://www.udemy.com/course/business-budgeting-financial-planning-financial-analysis/?couponCode=ECC59A0730277A610F40)
-    - Bu kurs, iş bütçelemesi, finansal planlama ve finansal analiz konularında temel bilgiler sunar ve iş performansınızı iyileştirmenize yardımcı olur.
+19. [Master Course of Rapid Application Development](https://www.udemy.com/course/rapid-application-development/?couponCode=8142C06E7FE789AC0A53)
+    
+    Bu kurs, hızlı uygulama geliştirme konusunda size derinlemesine bir anlayış sağlar. Hızlı prototipleme, kod oluşturma ve yazılım geliştirme süreçlerini hızlandırmayı öğrenerek uygulama geliştirmenizi kolaylaştırabilirsiniz.
 
----
+20. [Master Course of Facebook Training](https://www.udemy.com/course/master-course-of-facebook-training/?couponCode=5109688B29D266D70A0F)
+    
+    Bu kurs, Facebook pazarlama ve reklamcılığı konusunda size kapsamlı bir rehberlik sağlar. Facebook reklam kampanyaları oluşturmak, hedef kitleyi tanımak ve etkili Facebook pazarlama stratejilerini kullanmak için bu kursu takip edebilirsiniz.
+
