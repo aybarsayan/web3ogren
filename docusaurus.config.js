@@ -196,6 +196,20 @@ const config = {
             ]
           },
           {
+            type: 'dropdown',
+            label: 'Bootcamp',
+            items: [
+              { 
+                to: '/docs/bootcamp/agoric/Agoric%20ve%20Hardaned%20Giriş',
+                label: "Agoric'e giriş"
+              },
+              { 
+                to: '/docs/bootcamp/agoric-chainboard/lectureOne',
+                label: 'Agoric Chainboard Academy '
+              },
+            ]
+          },
+          {
             href: '/ucretsiz/egitim',
             label: 'Ücretsiz Eğitim Materyalleri',
             position: 'left',
