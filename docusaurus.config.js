@@ -135,6 +135,10 @@ const config = {
                 label: 'Algorand'
               },
               {
+                to: '/docs/zkpass/Hakkında',
+                label: 'zkPass'
+              },
+              {
                 to: '/docs/gearprotocol/intro',
                 label: 'Gear Technologies'
               },

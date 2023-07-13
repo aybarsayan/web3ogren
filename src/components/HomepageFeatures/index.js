@@ -148,6 +148,17 @@ const FeatureList1 = [
     ),
     href: '/docs/inter/Inter%20Protocol%20System%20Overview'
   },
+  {
+    title: 'zkPass',
+    Svg: require('@site/static/img/zkpass.svg').default,
+    description: (
+      <>
+        zkpass, kullanıcıların güvenliğini artırmak için biyometrik verileri kullanan
+        bir kimlik doğrulama sistemidir. Hassas ve etkili bir güvenlik çözümüdür.
+      </>
+    ),
+    href: '/docs/zkpass/Hakkında'
+  },
 
 ];
 
