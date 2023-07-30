@@ -214,8 +214,8 @@ const config = {
             ]
           },
           {
-            href: '/ucretsiz/egitim',
-            label: 'Ücretsiz Eğitim Materyalleri',
+            href: '/tercih',
+            label: 'Tercih',
             position: 'left',
           },
 
