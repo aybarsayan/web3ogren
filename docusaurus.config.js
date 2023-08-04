@@ -214,6 +214,16 @@ const config = {
             ]
           },
           {
+            type: 'dropdown',
+            label: 'Your Book',
+            items: [
+              { 
+                to: '/docs/your-book/connext/foreword',
+                label: "Connext"
+              },
+            ]
+          },
+          {
             href: '/tercih',
             label: 'Tercih',
             position: 'left',
