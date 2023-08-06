@@ -229,6 +229,10 @@ const config = {
                 to: '/docs/your-book/covalentapi/foreword',
                 label: "Covalent API"
               },
+              { 
+                to: '/docs/your-book/moonbeam/foreword',
+                label: "Moonbeam"
+              },
             ]
           },
           {
