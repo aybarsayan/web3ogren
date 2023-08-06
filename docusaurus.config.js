@@ -221,6 +221,10 @@ const config = {
                 to: '/docs/your-book/connext/foreword',
                 label: "Connext"
               },
+              { 
+                to: '/docs/your-book/agoric/foreword',
+                label: "Agoric"
+              },
             ]
           },
           {
