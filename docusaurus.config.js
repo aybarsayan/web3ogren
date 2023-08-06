@@ -225,6 +225,10 @@ const config = {
                 to: '/docs/your-book/agoric/foreword',
                 label: "Agoric"
               },
+              { 
+                to: '/docs/your-book/covalentapi/foreword',
+                label: "Covalent API"
+              },
             ]
           },
           {
