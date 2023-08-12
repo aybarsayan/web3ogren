@@ -28,6 +28,17 @@ const FeatureList1 = [
     href: '/docs/ton/introduction'
   },
   {
+    title: 'Centrifuge',
+    Svg: require('@site/static/img/centrifuge.svg').default,
+    description: (
+      <>
+        Centrifuge, gerçek dünya varlıklarını tokenleştirerek 
+        DeFi'ye entegre eden bir protokoldür. Varlık menkul kıymetleştirmesi ve likidite sağlama imkanı sunar.
+      </>
+    ),
+    href: '/docs/centrifuge/giriş'
+  },
+  {
     title: 'StarkNet',
     Svg: require('@site/static/img/starknet.svg').default,
     description: (

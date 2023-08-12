@@ -139,6 +139,10 @@ const config = {
                 label: 'zkPass'
               },
               {
+                to: '/docs/centrifuge/giriş',
+                label: 'Centrifuge'
+              },
+              {
                 to: '/docs/gearprotocol/intro',
                 label: 'Gear Technologies'
               },
