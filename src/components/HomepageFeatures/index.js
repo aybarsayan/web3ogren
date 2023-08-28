@@ -50,6 +50,17 @@ const FeatureList1 = [
     href: '/docs/starknet/Starnet%20Nedir'
   },
   {
+    title: 'InvArch',
+    Svg: require('@site/static/img/invarch.svg').default,
+    description: (
+      <>
+        InvArch, fikri mülkiyeti (IP) tokenize etmek için bir protokol sunar. Polkadot kullanarak çapraz zincir doğrulama yapar. 
+        Güncellenebilir bir IP yönetimi sağlar.
+      </>
+    ),
+    href: '/docs/invarch/InvArch%20nedir'
+  },
+  {
     title: 'Polygon',
     Svg: require('@site/static/img/polygon.svg').default,
     description: (
