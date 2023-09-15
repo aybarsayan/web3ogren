@@ -6,12 +6,12 @@ import LogoSlider from './logoslider';
 const FeatureList1 = [
   
   {
-    title: 'Gear Technologies',
-    Svg: require('@site/static/img/gear.svg').default,
+    title: 'Lisk Network',
+    Svg: require('@site/static/img/lisk.svg').default,
     description: (
       <>
-        Gear Protocol, herkesin bir dApp'i birkaç dakika 
-        içinde geliştirmesini ve çalıştırmasını sağlayan Substrate tabanlı Rust destekleyen bir akıllı sözleşme platformudur. 
+        Lisk Ağı, tüm blockchain lerin Lisk aracılığıyla birbiriyle iletişim için 
+        genel çapraz zincir mesajlarını kullanacaktır. Bu iletişime etkileşimlilik denir. 
       </>
     ),
     href: '/docs/gearprotocol/intro'

@@ -135,16 +135,16 @@ const config = {
                 label: 'Algorand'
               },
               {
+                to: '/docs/lisk/Neden%20lisk',
+                label: 'Lisk'
+              },
+              {
                 to: '/docs/zkpass/Hakkında',
                 label: 'zkPass'
               },
               {
                 to: '/docs/centrifuge/giriş',
                 label: 'Centrifuge'
-              },
-              {
-                to: '/docs/gearprotocol/intro',
-                label: 'Gear Technologies'
               },
               {
             
