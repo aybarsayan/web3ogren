@@ -239,12 +239,7 @@ const config = {
               },
             ]
           },
-          {
-            href: '/tercih',
-            label: 'Tercih',
-            position: 'left',
-          },
-
+          
           {to: '/blog', label: 'İş İlanı', position: 'left'},
           {
             href: 'https://github.com/WidgetVRP',
