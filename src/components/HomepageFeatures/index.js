@@ -17,6 +17,17 @@ const FeatureList1 = [
     href: '/docs/gearprotocol/intro'
   },
   {
+    title: 'KILT Protocol',
+    Svg: require('@site/static/img/kilt.svg').default,
+    description: (
+      <>
+KILT, kurumsal ve tüketiciler için öz-yönetimli, doğrulanabilir credantial yayınlama 
+konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.  
+      </>
+    ),
+    href: '/docs/kilt/ho%C5%9Fgeldin'
+  },
+  {
     title: 'The Open Network (TON)',
     Svg: require('@site/static/img/Tonlogo.svg').default,
     description: (
