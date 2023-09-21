@@ -1,4 +1,9 @@
-# Claimer 🦸‍♂️
+---
+id: claimer
+title: Claimer 🦸‍♂️
+---
+
+# Claimer 
 
 Bu kısımda birlikte `Claimer` bireyinin yaptığı işlemleri adım adım gerçekleştireceğiz. 🚀
 
