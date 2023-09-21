@@ -143,6 +143,10 @@ const config = {
                 label: 'zkPass'
               },
               {
+                to: '/docs/kilt/ho%C5%9Fgeldin',
+                label: 'Kilt'
+              },
+              {
                 to: '/docs/centrifuge/giriş',
                 label: 'Centrifuge'
               },
