@@ -138,11 +138,11 @@ Fonksiyonun içerisine girildiğinde hem credential oluşturabilir hemde bu Cred
 ```typescript title="attestCredential.ts"
 const credential = generateCredential(claimerDid, {
   age: 19,
-  name: 'İrem Karabaş'
+  name: 'Göktuğ Ayan'
 })
 ```
 
-İlk olarak, `generateCredential` fonksiyonu ile bir kimlik bilgisi oluşturulur. Bu kimlik bilgisi, iddia sahibinin DID'ini (`claimerDid`) ve iddia içeriğini (`age: 19, name: 'İrem Karabaş'`) alır.
+İlk olarak, `generateCredential` fonksiyonu ile bir kimlik bilgisi oluşturulur. Bu kimlik bilgisi, iddia sahibinin DID'ini (`claimerDid`) ve iddia içeriğini (`age: 19, name: 'Göktuğ Ayan'`) alır.
 #### Kimlik Bilgisini Onaylama
 
 ```typescript title="attestCredential.ts"
