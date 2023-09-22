@@ -2,6 +2,8 @@
 
 Hey hoş geldiniz! KILT Protocol'un heyecan verici dünyasına derin bir dalış yapmak üzere hazır mısınız? 🤓 Bu tutorialda, KILT'teki `claim` yolculuğunu kapsamlı bir şekilde keşfedeceğiz.
 
+![alternative text](../../static/img/kilt/architecture.png "Genel Bakış")
+
 ## 🎭 Ana Aktörler: Kim Kimdir? 🎭
 
 Bir kahraman hikayesi olmazsa olmaz üç kilit karakterimiz var:
@@ -27,6 +29,8 @@ KILT'ın büyük amacı "Dağıtılmış Güven" oluşturmaktır. Ama bu kelimel
   
 - **DID Gerekir Mi?** Hayır, onlar bağımsız süper kahramanlardır! 🚫⛓️
 
+![alternative text](../../static/img/kilt/claimer.jpeg "claimer")
+
 ### 🕵️‍♂️ Attester: Güvenin Bekçisi 🕵️‍♂️
 
 - **Kimdir?** Kimlik kartınızı damgalayan adam! 👮‍♂️
@@ -37,6 +41,8 @@ KILT'ın büyük amacı "Dağıtılmış Güven" oluşturmaktır. Ama bu kelimel
   
 - **Neden Önemli?** Güvenleri sağlarlar, böylece siz de işleri halledebilirsiniz! 🤝
 
+![alternative text](../../static/img/kilt/attester.jpeg "claimer")
+
 ### 🧐 Verifier: Sherlock Holmes 🧐
 
 - **Kimdir?** Sizin kim olduğunuzu anlamaya çalışan dedektif! 🔍
@@ -46,6 +52,7 @@ KILT'ın büyük amacı "Dağıtılmış Güven" oluşturmaktır. Ama bu kelimel
 - **DID Gerekir Mi?** Hayır, ama onlar da kendi kaynaklarına güvenirler. 📚
   
 - **Neden Önemli?** Çünkü onlar, her şeyin yolunda olduğunu teyit ederler! ✅
+![alternative text](../../static/img/kilt/verifier.jpeg "claimer")
 
 ---
 
@@ -99,7 +106,7 @@ Bu yapıda sadece `claimer` ve `Verifier` mekanizmalarının yer aldığını g�
 - Ev sahibi belgenin doğruluğunu belgenin hash değerini zincirdeki hash değeri ile karşılaştırarak onayladı. 
 - `Attester`'a da güvendiğinden dolayı işlemi onayladı veee Harika! Anahtar bizim.
 
-:::coution
+:::caution
 Gördüğünüz bu sistemde ev sahibinin bize güvenmesine gerek kalmadı. Çünkü daha önce iş yaptığı veya makamından dolayı saygı duyduğu `attester` bireyine güvendi ve imzası ile bizlere anahtarımızı verdi. 
 
 Bu işlem her ne kadar Attester'a duyulan güven ile ortaya çıksa da ikinci aşamada `attester`'ın yer almamasından dolayı kendisinin haberi olmadı. Gizlilik güvenle sağlandı.

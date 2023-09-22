@@ -16,6 +16,16 @@ Bu kısımda Attester rolündeki bireyimiz 🕵️‍♂️ `Credential`'ı işl
 
 `attestCredential` fonksiyonu `Attester`'ın DID'sini kendi içerisine almaktadır. 📌 Tüm belgeler hazır olduğunda `Claimer`'dan elde ettiğimiz `credential`'ı attest edebiliriz. 📝 Bu `credential` zincire eklendiğinden `revoke` edilene kadar geçerli sayılmaktadır. 🔗🔒
 
+:::info Nedir bu Revoke?
+KILT SDK, halka açık kimlik bilgileriyle ilgili bazı süper işlevlere sahip. 🚀
+
+- **Kimlik Bilgilerini İptal Etme ve Kaldırma 🚫📜**: Kimlik bilgisi tanımlayıcısı, halka açık kimlik bilgileri üzerinde birçok işlem yapmak için kahramanımız! 🦸‍♂️ Bazı durumlarda, bir kimlik bilgisini iptal ederken zincirde bırakmak isteyebiliriz. Ancak bazen de, "Hadi bu kimlik bilgisini hem iptal edelim hem de kaldıralım!" diyebiliriz. İlk durumda, depozito geri gelmez çünkü kimlik bilgisi hâlâ zincirde. Ama ikincisinde, tüm bilgi silinir ve depozito geri döner! 💸
+
+- **Bir Kimlik Bilgisini İptal Etmeme 🔄**: Eğer bir kimlik bilgisini iptal ettik ama zincirden kaldırmadıysak, onu tekrar canlandırabiliriz! 🌱 Örneğin, bir sürücü belgesi bir süreliğine "askıya alındı" olarak işaretlenebilir ama sonra tekrar aktif hale getirilebilir. 🚗💨
+
+- **Depozitoyu Geri Almak 💰**: Şimdi, bu kısım ilginç! 🤓 Tüm bu işlemler için genellikle kimlik bilgisi onaylayıcısına ihtiyaç duyarız. Ancak, bir kimlik bilgisini kaldırmak ve depozitoyu geri almak için bu kuralı bir kenara bırakabiliriz. Bu işlemde sadece depozitoyu ödeyen kişiye ihtiyaç vardır. 🎉
+:::
+
 ### İçe Aktarılan Modüller ve Fonksiyonlar
 
 ```typescript title="attestCredential.ts"
@@ -152,6 +162,7 @@ Onaylanmış kimlik bilgisi döndürülür.
 Bu fonksiyon, bir kimlik bilgisinin nasıl oluşturulacağını ve onaylanacağını adım adım gösterir. Genellikle, bir kullanıcı arayüzü veya API üzerinden bu tür işlemler tetiklenir.
 
 :::info İki Fonksiyon Neden Yazdık Ya?
+
 **`attestCredential` Fonksiyonu**
 
 Bu fonksiyon, bir kimlik bilgisini (credential) onaylamak için kullanılır. Yani, bu fonksiyon bir kimlik bilgisini alır ve onu blockchain'e yazarak onaylar. Bu, kimlik bilgisinin doğruluğunu kesinleştirmek için gereklidir. Bu fonksiyon genellikle bir onaylayıcı (attester) tarafından çağrılır.
@@ -159,6 +170,8 @@ Bu fonksiyon, bir kimlik bilgisini (credential) onaylamak için kullanılır. Ya
  **`attestingFlow` Fonksiyonu**
 
 Bu fonksiyon, kimlik bilgisinin onaylanması için gereken tüm adımları içerir. İlk olarak, bir kimlik bilgisi oluşturur (`generateCredential` fonksiyonu ile). Daha sonra, bu kimlik bilgisini `attestCredential` fonksiyonu ile onaylar. Bu, genellikle bir uygulama akışı içinde, örneğin bir kullanıcı arayüzü üzerinden, gerçekleşir.
+
+![alternative text](../../static/img/kilt/spiderman.png "Welcome")
 
 **Neden İkisine de İhtiyaç Duyuyoruz?**
 

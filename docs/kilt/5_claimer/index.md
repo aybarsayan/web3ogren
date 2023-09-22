@@ -7,6 +7,8 @@ title: Claimer 🦸‍♂️
 
 Bu kısımda birlikte `Claimer` bireyinin yaptığı işlemleri adım adım gerçekleştireceğiz. 🚀
 
+![Alt text](../../../static/img/kilt/claim.png)
+
 :::info 🤔 Claimer mı? O ne ola ki? 🤔
 
 - Bir Claimer, kimliği veya yetenekleri hakkında bir iddia veya beyanda bulunan bir birey veya kurumdur. 🗣️ Bu iddialarını kanıtlamak için kimlik bilgilerini kullanabilir, ve bu bilgiler üçüncü taraf kurumlar tarafından doğrulanabilir. 💪
@@ -22,9 +24,9 @@ Bu kısımda birlikte `Claimer` bireyinin yaptığı işlemleri adım adım ger�
 
 ## 🗺️ Yol Haritası 🗺️
 
-1. İlk adımda, DID oluşturacağız. 🆔 Bu DID'ler, Attester için oluşturduğumuz DID'lerden biraz farklı olacak. Detaylarıyla inceleyeceğiz. 🕵️‍♀️
-2. Sonrasında bir `Claim` oluşturacağız, bu iddiayı onaylatmak için bir talep açacağız ve onaylanmış iddia üzerinden bir `credential` oluşturacağız. 📜🔏
-3. Ve son olarak, bu belgeleri Verifier bireyine teslim edeceğiz. 🤝
+1. **Özel DID Oluşturma ve İnceleme:** İlk adımda, DID oluşturacağız. 🆔 Bu DID'ler, Attester için oluşturduğumuz DID'lerden biraz farklı olacak. Detaylarıyla inceleyeceğiz. 🕵️‍♀️
+2. **Claim Hazırlama, Onaylatma ve Credential Oluşturma:** Sonrasında bir `Claim` oluşturacağız, bu iddiayı onaylatmak için bir talep açacağız ve onaylanmış iddia üzerinden bir `credential` oluşturacağız. 📜🔏
+3. **Belgelerin Verifier'a Teslimi:** Ve son olarak, bu belgeleri Verifier bireyine teslim edeceğiz. 🤝
 
 ## 📂 Dosya Mimarisi 📂
 

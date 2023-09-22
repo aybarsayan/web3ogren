@@ -1,5 +1,7 @@
 # Hoşgeldiniz! 👋🏻🌟
 
+![alternative text](../../static/img/kilt/kilt%20welcome.png "Welcome")
+
 Merhaba güzel insan! ✨
 
 Bu eğitimde şunları öğreneceğiz: 📚🔍
