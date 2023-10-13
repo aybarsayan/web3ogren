@@ -1,0 +1,38 @@
+/* TurizmMeslekleri.module.css */
+
+.noUnderline {
+    text-decoration: none;
+  }
+  
+  .darkText {
+    color: #333; /* İstediğiniz bir renk kodu */
+  }
+  
+  .cardContainer {
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 15px; /* Kartlar arasında boşluk oluşturmak için */
+    display: flex;
+    flex-direction: column; /* İçeriği dikey olarak hizalayın */
+  }
+  
+  .cardContent {
+    text-align: center;
+    padding: 20px;
+    flex-grow: 1; /* Bu, tüm kartların eşit boyutta olmasını sağlar */
+  }
+  
+  .emojiDisplay {
+    font-size: 6rem;
+    margin-bottom: 20px;
+  }
+  
+  .container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 4 sütunlu bir grid oluşturmak için */
+    gap: 30px; /* Sütunlar ve satırlar arasında boşluk oluşturmak için */
+    margin: 0 auto; /* Konteyneri sayfanın ortasına yerleştirmek için */
+    max-width: 1000px; /* Konteynerin maksimum genişliği */
+    padding: 15px; /* Konteynerin etrafındaki boşluğu ayarlamak için */
+  }
+  
