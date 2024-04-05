@@ -135,7 +135,7 @@ const config = {
                 label: 'Algorand'
               },
               {
-                to: '/docs/lisk/Neden%20lisk',
+                to: 'docs/lisk/liskhakkında/Lisk%20Giriş',
                 label: 'Lisk'
               },
               {

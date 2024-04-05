@@ -14,7 +14,7 @@ const FeatureList1 = [
         genel çapraz zincir mesajlarını kullanacaktır. Bu iletişime etkileşimlilik denir. 
       </>
     ),
-    href: '/docs/gearprotocol/intro'
+    href: 'docs/lisk/liskhakkında/Lisk%20Giriş'
   },
   {
     title: 'KILT Protocol',

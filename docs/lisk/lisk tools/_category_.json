@@ -1,0 +1,8 @@
+{
+  "label": "Lisk Araçları",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Lisk düğümleri, diğer tarafların isteklerde bulunarak blockchain ile etkileşimde bulunmasına izin veren bir RPC API'si sunar."
+  }
+}
