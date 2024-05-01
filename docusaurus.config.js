@@ -94,6 +94,10 @@ const config = {
             label: 'Programlama Dilleri',
             items: [
               { 
+                to: '/docs/llama/llma%20nedir',
+                label: 'Meta LLAMA'
+              },
+              { 
                 to: '/docs/rust/Rust%20ile%20Programlamaya%20Giriş',
                 label: 'Rust'
               },

@@ -197,15 +197,15 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
 
 const FeatureList2 = [
   {
-    title: 'Bilgisayar Bilimleri',
-    Svg: require('@site/static/img/network.svg').default,
+    title: 'Meta LLAMA',
+    Svg: require('@site/static/img/meta-1.svg').default,
     description: (
       <>
-          Bilgisayar biliminin temel alanları hesaplama, otomasyon ve bilgi çalışmasıdır. 
-          Bilgisayar bilimi, teorik disiplinlerden pratik disiplinlere kadar uzanır. 
+          Yapay zeka modelleri ve kaynakları içeren bir platform 
+          aracılığıyla erişimi geliştiricilerin bir sonraki inovasyon dalgasını şekillendirmesine olanak tanır.
       </>
     ),
-    href: '/docs/bilgisayar/Algoritmalar/Algoritmalara%20Giriş'
+    href: '/docs/llama/llma%20nedir'
   },
   {
     title: 'Rust',
