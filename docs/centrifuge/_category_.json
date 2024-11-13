@@ -1,8 +1,0 @@
-{
-  "label": "Centrifuge",
-  "position": 5,
-  "link": {
-    "type": "generated-index",
-    "description": "Centrifuge, gerçek dünya varlıklarının doğal olarak zincirde merkezi olmayan bir şekilde finansmanını sağlayan alt yapıdır ve borç verenlerle borç alanların gereksiz aracılarsız işlem yapmasına olanak tanıyan tamamen şeffaf bir piyasa oluşturur. Varlık havuzları tamamen teminat altındadır, likidite sağlayıcılar yasal olarak başvurabilir ve protokol, ipoteklerden faturalara, mikro kredilendirmeden tüketici finansmanına kadar varlıklar için havuzlarla varlık sınıfı konusunda tarafsızdır. Sonuç olarak, protokol, tüm dünyadaki işletmeler için borçlanma maliyetini düşürmeyi amaçlarken, DeFi kullanıcılarına dalgalı kripto piyasalarıyla ilişkisiz teminatlı getiri sabit bir kaynak sağlar. Tokenleştirme, gizlilik, yönetim ve likidite entegrasyonları arasında tüm yapılandırılmış kredi piyasasını zincire getirerek Centrifuge, daha şeffaf, uygun fiyatlı ve sınırsız bir finansal sistem inşa ediyor."
-  }
-}

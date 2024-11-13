@@ -1,8 +1,0 @@
-{
-  "label": "Lisk",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Lisk, yan zincirlerle etkileşimliliği için tasarlanmış açık kaynaklı bir web3 uygulama platformudur. JavaScript SDK'sı, geliştiricilere kendi Lisk uyumlu blockchain'lerini başlatmak için doğrudan bir yol sunar. Lisk blockchain'inin yerel kripto parası LSK token'dir ve ağı, Delege Edilmiş Kanıt (Delegated Proof of Stake) ile fikir birliğini sağlar."
-  }
-}

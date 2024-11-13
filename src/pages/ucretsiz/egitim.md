@@ -1,8 +1,8 @@
-# Ücretsiz Günlük Eğitim Kursları - 10 Temmuz 2023
+# Ücretsiz Eğitim Meteryalleri - 27 Haziran 2023
 
-Merhaba! 🌟 Sitemizde her gün güncellenen ücretsiz eğitim materyalleri bulunmakta! Tek bir tıkla siz de ücretli kursları ücretsiz yapma fırsatlarına erişebilirsin! 👨‍💻🎓
+Merhaba! 🌟 Sitemizde her gün güncellenen ücretsiz eğitim meteryalleri bulunmakta! Tek bir tıkla siz de ücretli kursları ücretsiz yapma fırsatlarına erişebilirsin! 👨‍💻🎓
 
-Sitemizde çeşitli konularda geniş bir içerik sunuyoruz. Teknoloji, programlama, tasarım, işletme, pazarlama ve daha fazlası için ücretsiz eğitimlerimiz mevcuttur. 📚💡 **[Tüm içeriklere buradan ulaşabilirsin](https://web3ogren.com/docs/category/bilgisayar-bilimleri)**
+Sitemizde çeşitli konularda geniş bir içerik sunuyoruz. Teknoloji, programlama, tasarım, işletme, pazarlama ve daha fazlası için ücretsiz eğitimlerimiz mevcuttur. 📚💡 **[Tüm içeriklere şuradan ulaşabilirsin](https://web3ogren.com/docs/category/bilgisayar-bilimleri)**
 
 :::tip
 Düzenli olarak sitemizi ziyaret etmenizi öneririz. Her gün yayınlanan ücretsiz eğitim kuponları sayesinde istediğiniz alanda kendinizi geliştirebilirsiniz. Üstelik, bu kuponları kullanarak maliyeti minimum seviyede tutabilirsiniz. 💰
@@ -11,11 +11,11 @@ Düzenli olarak sitemizi ziyaret etmenizi öneririz. Her gün yayınlanan ücret
 Büyük bir bütçe ayırmadan öğrenme imkanı elde edebilir ve becerilerinizi geliştirebilirsiniz. 🚀🌈
 
 :::caution
-Sitemize hemen göz atın ve ücretsiz eğitim materyallerinin tadını çıkarın! Buradayız ve sizi desteklemek için varız. Daha iyi bir gelecek için kendinizi geliştirin, yeni yetenekler edinin ve hayallerinizi gerçekleştirin. ✨
+Sitemize hemen göz atın ve ücretsiz eğitim meteryallerinin tadını çıkarın! Buradayız ve sizi desteklemek için varız. Daha iyi bir gelecek için kendinizi geliştirin, yeni yetenekler edinin ve hayallerinizi gerçekleştirin. ✨
 
 Sitemizi gezmek için aşağıdaki bağlantıyı kullanabilirsiniz:
 
-🔗 [Sitemizi Gezmek İçin](https://web3ogren.com)
+🔗 [Sitemizi Gezmek](https://web3ogren.com)
 :::
 
 :::info
@@ -26,162 +26,99 @@ Unutmayın, her gün yeni fırsatları kaçırmamak için bizi takip etmeyi unut
 
 ## Kurs Listesi
 
-1. [Innovating with Biomathematics](https://www.udemy.com/course/innovating-with-biomathematics/?couponCode=1BE0839D05AC733BE009)
-   
-   Biomatematik ile yenilik yapmayı öğrenin ve biyolojik sistemlerin matematiksel modellemesinde nasıl kullanabileceğinizi keşfedin.
+- [Oracle Primavera P6: Your First Lesson!](https://www.udemy.com/course/primavera-p6-training-for-beginners/?couponCode=2262CC41844AA6DFE424)
+  
+    Oracle Primavera P6 için ilk dersiniz! Bu kurs ile Oracle Primavera P6'nın temellerini öğrenin ve proje yönetim becerilerinizi geliştirin.
 
-2. [Genetics from mendel to Era of microarray classical Genetics](https://www.udemy.com/course/genetics-from-mendel-to-era-of-microarray-classical-genetics/?couponCode=27D1E6C6BE3101D91CCD)
+- [The BEST Bitcoin Trading Course for ALL Levels! (2023)](https://www.udemy.com/course/best-bitcoin-trading-course/?couponCode=154F31E941B7DDD0931B)
+  
+    Her seviyeden kullanıcılar için EN İYİ Bitcoin ticaret kursu! Bu kurs ile Bitcoin ticaretinin temellerini öğrenin ve ticaret becerilerinizi geliştirin.
 
-   Mendel'den Mikroarray Klasik Genetiğe kadar Genetik alanında kapsamlı bir eğitim alın.
+- [Learn Embarcadero Borland C++ Builder in 1 hour](https://www.udemy.com/course/embarcadero-c-builder/?couponCode=JUNE24FREE)
+  
+    Embarcadero Borland C++ Builder'ı 1 saatte öğrenin! Bu kurs ile C++ Builder kullanarak hızlı bir şekilde uygulama geliştirmeyi öğrenin.
 
-3. [Sales management – streams, frameworks and processes](https://www.udemy.com/course/sales-management-streams-frameworks-and-processes/?couponCode=07B7F57D4557CEC16397)
+- [speak Arabic like natives](https://www.udemy.com/course/speak-arbic-like-natives/?couponCode=55D64B889B40C4018B3F)
+  
+    Yerli gibi Arapça konuşun! Bu kurs ile Arapça dilini etkili bir şekilde öğrenin ve akıcı bir şekilde konuşmaya başlayın.
 
-   Satış yönetimi için stratejiler, çerçeveler ve süreçler hakkında detaylı bir kılavuz.
+- [Master Course in Fleet Management and Freight Broker 3.0](https://www.udemy.com/course/fleet-management-freight-broker-freight-forwarder-fleet-manager/?couponCode=7595B1182D06E3772A74)
+  
+    Filo yönetimi ve Navlun Komisyoncusu alanında Uzman Kursu 3.0! Bu kurs ile filo yönetimi ve lojistik becerilerinizi geliştirin ve sektörde uzmanlaşın.
 
-4. [The Complete Talking Head Video Production Masterclass](https://www.udemy.com/course/the-complete-talking-head-video-production-masterclass/?couponCode=8FD58BDBE16038C31FF1)
+- [Master Course in Corporate Governance and IT Governance 2.0](https://www.udemy.com/course/corporate-governance-it-governance-stakeholders-management/?couponCode=01B8C338830CE45CCFF9)
+  
+    Kurumsal yönetişim ve IT yönetişimi alanında Uzman Kursu 2.0! Bu kurs ile kurumsal yönetişim ve IT yönetimi konularında bilgi sahibi olun ve becerilerinizi geliştirin.
 
-   Konuşmacı başlıklı video prodüksiyonunda ustalaşın ve etkileyici videolar oluşturun.
+- [Genetics from mendel to Era of microarray classical Genetics](https://www.udemy.com/course/genetics-from-mendel-to-era-of-microarray-classical-genetics/?couponCode=E113DA0CC1564E3CDC99)
+  
+    Mendel'den Mikrodizi Klasik Genetiği Dönemine Genetik! Bu kurs ile genetik alanında temel kavramları öğrenin ve genetik araştırmalara giriş yapın.
 
-5. [Master Course in Logistics and Supply Chain Management 2.0](https://www.udemy.com/course/logistics-and-suppy-chain-management/?couponCode=E219F68AD9FCCF70ED57)
+- [A Transformational Journey through the Letter of Hebrews](https://www.udemy.com/course/a-transformational-journey-through-the-letter-of-hebrews/?couponCode=JUNEFREE)
+  
+    İbraniler Mektubu ile Dönüşümsel Bir Yolculuk! Bu kurs ile İbraniler Mektubu'nu daha iyi anlamak için kapsamlı bir inceleme yapın.
 
-   Lojistik ve Tedarik Zinciri Yönetimi konusunda kapsamlı bir eğitim alarak profesyonel becerilerinizi geliştirin.
+- [3D Printing Design Skills for Special Needs People](https://www.udemy.com/course/special-needs-people-digital-tech-training/?couponCode=86443C4114F8A4B224EF)
+  
+    Özel İhtiyaçları Olan Kişiler İçin 3D Baskı Tasarım Becerileri! Bu kurs ile özel ihtiyaçlara sahip kişiler için 3D baskı tasarımı yapmayı öğrenin.
 
-6. [Omnichannel Sales & Service Management with AI & Chat Bots](https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=3F991A74951A8D44DBEC)
+- [Methodologies In Ethical Hacking](https://www.udemy.com/course/methodologies-in-ethical-hacking/?couponCode=E13EE6D21F18FBD483E7)
+  
+    Etik Hackerlikte Yöntemler! Bu kurs ile etik hackerlik için kullanılan metodolojileri öğrenin ve siber güvenlik becerilerinizi geliştirin.
 
-   Yapay Zeka ve Sohbet Botları ile Omnichannel Satış ve Hizmet Yönetimi konusunda uzmanlaşın.
+- [Learn 2D Animation Making for Special Needs People in 2023](https://www.udemy.com/course/learn-2d-animation-making-for-special-needs-people/?couponCode=77DEF22696FBD8BACE56)
+  
+    Özel İhtiyaçları Olan Kişiler İçin 2D Animasyon Yapmayı Öğrenin! Bu kurs ile özel ihtiyaçlara sahip kişiler için 2D animasyon yapmayı öğrenin.
 
-7. [Learn & Develop Winning Value Proposition for your business](https://www.udemy.com/course/learn-develop-winning-value-proposition-for-your-business/?couponCode=E38E594FF8049BEDFBFB)
+- [Keyword Research From Scratch. Unlock New SEO Opportunities](https://www.udemy.com/course/keyword_research/?couponCode=KEY2706)
+  
+    Sıfırdan Anahtar Kelime Araştırması Yapın. Yeni SEO Fırsatlarını Keşfedin! Bu kurs ile anahtar kelime araştırması yapmayı öğrenin ve SEO stratejilerinizi geliştirin.
 
-   İşiniz için kazanan bir değer teklifi oluşturmayı öğrenin ve geliştirin.
+- [Crystal Agile Framework: A Complete Guide 2023](https://www.udemy.com/course/crystal-agile-framework-a-complete-guide/?couponCode=JUNE001)
+  
+    Crystal Agile Framework: Kapsamlı Rehber 2023! Bu kurs ile Crystal Agile Framework hakkında kapsamlı bir bilgi edinin ve proje yönetimi becerilerinizi geliştirin.
 
-8. [Video Production – Inexpensive Talking Head Video – Business](https://www.udemy.com/course/video-production-inexpensive-talking-head-video-business/?couponCode=A3404372EA18E42FF224)
+- [C++ And Java Training Crash Course 2022](https://www.udemy.com/course/c-and-java-training-crash-course-2022/?couponCode=875AAE17B53F79F33587)
+  
+    C++ ve Java Eğitimi Hızlı Kursu 2022! Bu kurs ile C++ ve Java programlama dillerini hızlı bir şekilde öğrenin ve temel becerilerinizi geliştirin.
 
-   İşiniz için düşük maliyetli konuşmacı başlıklı video prodüksiyonu yapmayı öğrenin.
+- [Practical Hacking and Pentesting Course for Beginners](https://www.udemy.com/course/practical-hacking-pentesting-guide/?couponCode=445E3D14ED044F38D432)
+  
+    Başlangıç İçin Uygulamalı Hacking ve Pentesting Kursu! Bu kurs ile pratik hacking ve pentesting be
 
-9. [Plumbing Water Supply System 2023 – From A to Z](https://www.udemy.com/course/mechanical-engineering-full-water-supply-system-a-z/?couponCode=BEF1166552B8275E777F)
+cerilerinizi geliştirin ve siber güvenlik alanında uzmanlaşın.
 
-   Su tesisatı sistemlerini baştan sona öğrenin ve mekanik mühendislik alanında uzmanlaşın.
+- [Self Discipline Will Change Your Life for GOOD](https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=SELFDISCIPLINE20)
+  
+    Öz Disiplin Hayatınızı İyiye Değiştirecek! Bu kurs ile öz disiplin becerilerinizi geliştirin ve hedeflerinize daha etkili bir şekilde ulaşın.
 
-10. [Networking for Real Estate Investors For Profits & Funds](https://www.udemy.com/course/networking-for-real-estate-investors/?couponCode=NFREIPFEXPJUL112023)
+- [Agile, Scrum & Kanban Practice Tests & Interview Questions](https://www.udemy.com/course/agile-scrum-kanban-practice-tests-and-interview-questions/?couponCode=JUNE001)
+  
+    Agile, Scrum ve Kanban Uygulama Testleri ve Mülakat Soruları! Bu kurs ile Agile, Scrum ve Kanban metodolojileri hakkında pratik testler yapın ve mülakatlara hazırlanın.
 
-    Kar ve Fonlar İçin Gayrimenkul Yatırımcılarına Yönelik Ağ Kurmayı Öğrenin.
+- [Practical Next.js & React – Build a Real WebApp with Next.js](https://www.udemy.com/course/practical-nextjs/?couponCode=BD4EDB07DE44850489D1)
+  
+    Uygulamalı Next.js ve React - Next.js ile Gerçek Bir Web Uygulaması Oluşturma! Bu kurs ile Next.js ve React kullanarak gerçek bir web uygulaması geliştirin.
 
-11. [On-Camera Charisma for YouTube Stars – YouTube Marketing](https://www.udemy.com/course/the-ultimate-90-minute-on-camera-media-training-course/?couponCode=7E73BC7F64AD917F5AFA)
+- [Memory Leaks 101: Your Guide to Fixing Them in Web Apps](https://www.udemy.com/course/identify-and-fix-javascript-memory-leaks/?couponCode=8AC3CD1395E443EA8A8A)
+  
+    Bellek Sızıntıları 101: Web Uygulamalarında Düzeltme Rehberiniz! Bu kurs ile web uygulamalarındaki bellek sızıntılarını tespit edin ve düzeltme becerilerinizi geliştirin.
 
-    YouTube yıldızları için Kamera Önü Karizması - YouTube Pazarlaması konusunda uzmanlaşın.
+- [Flourish Studio Masterclass: Create Animated Visualizations](https://www.udemy.com/course/flourish-studio-masterclass-create-animated-visualizations/?couponCode=JUNE001)
+  
+    Flourish Studio Masterclass: Animasyonlu Görselleştirmeler Oluşturma! Bu kurs ile Flourish Studio kullanarak animasyonlu görselleştirmeler yapmayı öğrenin.
 
-12. [Instagram Marketing 2021: Growth and Promotion on Instagram](https://www.udemy.com/course/instagram-marketing-2021-growth-and-promotion-on-instagram/?couponCode=F733FE2C9E6883C5EAC3)
+- [Web5 Fundamentals – A New Evolution of Web & Data Ownership](https://www.udemy.com/course/web5-fundamentals-a-new-evolution-of-web-and-data-ownership/?couponCode=JUNE001)
+  
+    Web5 Temelleri - Web ve Veri Sahipliğinin Yeni Bir Evrimi! Bu kurs ile Web5'in temellerini öğrenin ve web ve veri sahipliğinin evrimini keşfedin.
 
-    Instagram'da büyüme ve tanıtım için Instagram Pazarlaması konusunda uzmanlaşın.
+- [Plumbing Water Supply System 2023 – From A to Z](https://www.udemy.com/course/mechanical-engineering-full-water-supply-system-a-z/?couponCode=96A3DF2337F2394E1F86)
+  
+    Tesisat Su Temini Sistemi 2023 - A'dan Z'ye! Bu kurs ile tesisat su temini sistemi hakkında kapsamlı bir bilgi edinin ve mühendislik becerilerinizi geliştirin.
 
-13. [HVAC Ductwork Quantity Take off for Quantity Surveyors](https://www.udemy.com/course/hvac-duct-quantity-take-off-for-quantity-surveyors/?couponCode=HVAC4UJULY23)
+- [LeetCode in Java: Algorithms Coding Interview Questions](https://www.udemy.com/course/leetcode-in-java-algorithms-coding-interview-questions/?couponCode=JUNE001)
+  
+    Java'da LeetCode: Algoritma Kodlama Mülakat Soruları! Bu kurs ile LeetCode üzerindeki algoritma kodlama sorularını çözerek mülakatlara hazırlanın.
 
-    Miktar Mühendisleri için HVAC Kanal Sistemi Miktar Tespiti konusunda eğitim alın.
 
-14. [The Ultimate ChatGPT Generative AI Course](https://www.udemy.com/course/the-ultimate-chatgpt-generative-ai-course/?couponCode=426D64408634172B9343)
-
-    ChatGPT ile ilgili en kapsamlı Generatif Yapay Zeka kursunu alın ve yeteneklerinizi geliştirin.
-
-15. [The Website Blueprint – Planning for a web design project](https://www.udemy.com/course/planning-for-a-web-design-project/?couponCode=C0D3940273B402234701)
-
-    Web tasarım projesi için planlama yapmayı öğrenin ve başarılı bir web sitesi oluşturun.
-
-16. [Construction Health and Safety Management](https://www.udemy.com/course/construction-health-and-safety-management/?couponCode=9627D98D01AD995A0282)
-
-    İnşaat Sağlık ve Güvenlik Yönetimi konusunda profesyonel bir eğitim alarak iş güvenliği becerilerinizi geliştirin.
-
-17. [Become an Expert on Mortgage Credit Reports](https://www.udemy.com/course/become-an-expert-on-mortgage-credit-reports/?couponCode=JULYFREE)
-
-    Konut Kredisi Kredi Raporları konusunda uzmanlaşın ve müşterilere yönelik kredi değerlendirmesi yapmayı öğrenin.
-
-18. [Squarespace Essentials: Ultimate Squarespace Beginners Guide](https://www.udemy.com/course/squarespace-basics-for-website-managers/?couponCode=6C39B0C69B4A65693A52)
-
-    Squarespace ile başarılı web sitesi yönetimi için gerekli olan temel bilgileri öğrenin.
-
-19. [Forex Trading Kursları: The Ultimate 5 Minute Forex Scalping System](https://www.udemy.com/course/forex-trading-high-probability-day-trading-scalping-system/?couponCode=7FF8480E085C22E1822A)
-
-   Forex ticaretine giriş yapın ve yüksek olasılıklı günlük ticaret ve skalping stratejilerini öğrenin.
-
-20. [Master Squarespace Email Campaigns Like a Pro!](https://www.udemy.com/course/getting-started-with-squarespace-email-campaigns/?couponCode=9E1BCFF4A280A3326458)
-
-    Profesyonel olarak Squarespace E-posta Kampanyalarını yönetmeyi ve etkili pazarlama stratejilerini öğrenin.
-
-21. [Creating Website without Coding for Special Needs People](https://www.udemy.com/course/creating-website-without-coding-for-special-needs-people/?couponCode=DF691E47029F9B2CB937)
-
-    Kodlama gerektirmeden özel ihtiyaçlara sahip bireyler için web sitesi oluşturmayı öğrenin.
-
-22. [Master Course in Facility Management 2.0](https://www.udemy.com/course/facility-management-office-maintenance-services/?couponCode=8ED9B8723E3B69B937EF)
-
-    Tesis Yönetimi konusunda kapsamlı bir eğitim alın ve işyeri bakım hizmetlerinde uzmanlaşın.
-
-23. [3D Printing Design Skills for Special Needs People](https://www.udemy.com/course/special-needs-people-digital-tech-training/?couponCode=8EFCFC87B64F995E8C53)
-
-    Özel ihtiyaçlara sahip bireyler için 3D baskı tasarım becerilerini öğrenin.
-
-24. [Mastering English Idioms: Essential for ESL Communication](https://www.udemy.com/course/mastering-idioms/?couponCode=B4FD522DFE3623550CCB)
-
-    ESL iletişimi için temel İngilizce deyimleri öğrenin ve dil becerilerinizi geliştirin.
-
-25. [Master Any Language with ChatGPT: Boost Your Language Skills](https://www.udemy.com/course/master-any-language-with-chatgpt-boost-your-language-skills/?couponCode=1E7EE9B0C90D29A0B558)
-
-    ChatGPT ile herhangi bir dilde ustalaşın ve dil becerilerinizi geliştirin.
-
-26. [Cinematography Masterclass: The Complete Videography Guide](https://www.udemy.com/course/cinematography-masterclass/?couponCode=CINEMA7)
-
-    Sinematografi alanında kapsamlı bir kılavuzla videografi becerilerinizi geliştirin.
-
-27. [Learn 2D Animation Making for Special Needs People in 2023](https://www.udemy.com/course/learn-2d-animation-making-for-special-needs-people/?couponCode=94A4CF786B4882CE31D5)
-
-    Özel ihtiyaçlara sahip bireyler için 2D animasyon yapmayı öğrenin.
-
-28. [Build Your Best Cold Email Strategy!](https://www.udemy.com/course/cold-marketing-strategy/?couponCode=COLD607)
-
-    En iyi Soğuk E-posta Stratejinizi oluşturun ve başarılı pazarlama kampanyaları yapın.
-
-29. [Optical Character Recognition (OCR) MasterClass in Python](https://www.udemy.com/course/optical-character-recognition-ocr-masterclass-in-python/?couponCode=3034278E3DF84ABF6F09)
-
-    Python ile Optik Karakter Tanıma (OCR) konusunda ustalaşın ve görüntülerden metin çıkarma becerilerinizi geliştirin.
-
-30. [Open AI’s Generative Pre-trained Transformer (GPT3 + GPT4)](https://www.udemy.com/course/open-ais-generative-pre-trained-transformer-3-gpt3/?couponCode=2023GPT3)
-
-    OpenAI'nin Generative Pre-trained Transformer (GPT3 + GPT4) modelini kullanmayı öğrenin ve metin oluşturma becerilerinizi geliştirin.
-
-31. [Blogging and Influencer Marketing](https://www.udemy.com/course/blogging-and-influencer-marketing/?couponCode=BLOGFREE607)
-
-    Bloglama ve Influencer Pazarlaması konusunda uzmanlaşın ve başarılı bir çevrimiçi varlık oluşturun.
-
-32. [Postgraduate Executive Diploma: Consumer Lending Business](https://www.udemy.com/course/consumer_lending/?couponCode=051A2761BB6675FDB3B6)
-
-    Tüketici Kredisi İşletmeleri konusunda Yüksek Lisans Yönetici Diploması alın.
-
-33. [Introduction to the Music Business – course online](https://www.udemy.com/course/introduction-to-the-music-business-course-online/?couponCode=64E352CC23C1D762B3E5)
-
-    Müzik İşine Giriş - çevrimiçi bir kurs aracılığıyla müzik endüstrisi hakkında temel bilgiler edinin.
-
-34. [Canadian Securities Course CSC® Part 2 Exam Preparation](https://www.udemy.com/course/canadian-securities-course-csc-part-2-exam-prep/?couponCode=F796834D49A035F5BF29)
-
-    Canadian Securities Course CSC® Part 2 sınavına hazırlık yapın ve finansal hizmetler sektöründe uzmanlaşın.
-
-35. [Preparation to Java SE 11 Developer Exam: 1Z0-819 & 1Z0-817](https://www.udemy.com/course/oracle-certification-java-11-learnit/?couponCode=38FDFE0B1F72BCD5DC28)
-
-    Java SE 11 Geliştirici Sınavına hazırlık yapın ve Java programlama becerilerinizi geliştirin.
-
-36. [Favicon Grabber Using JavaScript](https://www.udemy.com/course/favicon-grabber/?couponCode=E9483A52300B293A6016)
-
-    JavaScript kullanarak Favicon Almayı öğrenin ve web geliştirme becerilerinizi geliştirin.
-
-37. [Multimedia and Graphic designing Course for Special Needs](https://www.udemy.com/course/graphic-designing-course-for-special-needs-people/?couponCode=C8049B4D024DCC98916A)
-
-    Özel ihtiyaçlara sahip bireyler için Multimedya ve Grafik Tasarımı kursunu alın ve yaratıcı yeteneklerinizi geliştirin.
-
-38. [Reverse Engineering .NET For Beginners (Visual Basic)](https://www.udemy.com/course/net-reverse-engineering/?couponCode=76D7E30374E6B1F07E06)
-
-    Başlangıç ​​seviyesi için .NET'in Tersine Mühendisliği konusunda eğitim alın ve yazılım analizi becerilerinizi geliştirin.
-
-39. [Google Ads 2023: How to Drive Sales With PPC!](https://www.udemy.com/course/google-ads-for-beginners-how-to-drive-sales-with-ppc/?couponCode=ADSFREE607)
-
-    PPC (Tıklama başına ödeme) ile Satışları Artırma konusunda Google Ads'i kullanmayı öğrenin ve etkili reklam kampanyaları oluşturun.
-
-40. [YouTube Marketing, Adobe Premier Pro & ChatGPT + VidIQ Guide](https://www.udemy.com/course/youtube-marketing-2022/?couponCode=LUCKYWATERRABBIT5)
-
-    YouTube Pazarlaması, Adobe Premier Pro, ChatGPT ve VidIQ Rehberi ile ilgili kapsamlı bir eğitim alın ve YouTube kanalınızı büyütün.
+Bu kursları inceleyebilir ve ilgi alanlarınıza uygun olanları seçerek kaydolabilirsiniz. İyi öğrenmeler!

@@ -6,26 +6,15 @@ import LogoSlider from './logoslider';
 const FeatureList1 = [
   
   {
-    title: 'Lisk Network',
-    Svg: require('@site/static/img/lisk.svg').default,
+    title: 'Gear Technologies',
+    Svg: require('@site/static/img/gear.svg').default,
     description: (
       <>
-        Lisk Ağı, tüm blockchain lerin Lisk aracılığıyla birbiriyle iletişim için 
-        genel çapraz zincir mesajlarını kullanacaktır. Bu iletişime etkileşimlilik denir. 
+        Gear Protocol, herkesin bir dApp'i birkaç dakika 
+        içinde geliştirmesini ve çalıştırmasını sağlayan Substrate tabanlı Rust destekleyen bir akıllı sözleşme platformudur. 
       </>
     ),
-    href: 'docs/lisk/liskhakkında/Lisk%20Giriş'
-  },
-  {
-    title: 'KILT Protocol',
-    Svg: require('@site/static/img/kilt.svg').default,
-    description: (
-      <>
-KILT, kurumsal ve tüketiciler için öz-yönetimli, doğrulanabilir credantial yayınlama 
-konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.  
-      </>
-    ),
-    href: '/docs/kilt/ho%C5%9Fgeldin'
+    href: '/docs/gearprotocol/intro'
   },
   {
     title: 'The Open Network (TON)',
@@ -39,17 +28,6 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     href: '/docs/ton/introduction'
   },
   {
-    title: 'Centrifuge',
-    Svg: require('@site/static/img/centrifuge.svg').default,
-    description: (
-      <>
-        Centrifuge, gerçek dünya varlıklarını tokenleştirerek 
-        DeFi'ye entegre eden bir protokoldür. Varlık menkul kıymetleştirmesi ve likidite sağlama imkanı sunar.
-      </>
-    ),
-    href: '/docs/centrifuge/giriş'
-  },
-  {
     title: 'StarkNet',
     Svg: require('@site/static/img/starknet.svg').default,
     description: (
@@ -59,17 +37,6 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
       </>
     ),
     href: '/docs/starknet/Starnet%20Nedir'
-  },
-  {
-    title: 'InvArch',
-    Svg: require('@site/static/img/invarch.svg').default,
-    description: (
-      <>
-        InvArch, fikri mülkiyeti (IP) tokenize etmek için bir protokol sunar. Polkadot kullanarak çapraz zincir doğrulama yapar. 
-        Güncellenebilir bir IP yönetimi sağlar.
-      </>
-    ),
-    href: '/docs/invarch/InvArch%20nedir'
   },
   {
     title: 'Polygon',
@@ -181,31 +148,20 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     ),
     href: '/docs/inter/Inter%20Protocol%20System%20Overview'
   },
-  {
-    title: 'zkPass',
-    Svg: require('@site/static/img/zkpass.svg').default,
-    description: (
-      <>
-        zkpass, kullanıcıların güvenliğini artırmak için biyometrik verileri kullanan
-        bir kimlik doğrulama sistemidir. Hassas ve etkili bir güvenlik çözümüdür.
-      </>
-    ),
-    href: '/docs/zkpass/Hakkında'
-  },
 
 ];
 
 const FeatureList2 = [
   {
-    title: 'Meta LLAMA',
-    Svg: require('@site/static/img/meta-1.svg').default,
+    title: 'Bilgisayar Bilimleri',
+    Svg: require('@site/static/img/network.svg').default,
     description: (
       <>
-          Yapay zeka modelleri ve kaynakları içeren bir platform 
-          aracılığıyla erişimi geliştiricilerin bir sonraki inovasyon dalgasını şekillendirmesine olanak tanır.
+          Bilgisayar biliminin temel alanları hesaplama, otomasyon ve bilgi çalışmasıdır. 
+          Bilgisayar bilimi, teorik disiplinlerden pratik disiplinlere kadar uzanır. 
       </>
     ),
-    href: '/docs/llama/llma%20nedir'
+    href: '/docs/bilgisayar/Algoritmalar/Algoritmalara%20Giriş'
   },
   {
     title: 'Rust',

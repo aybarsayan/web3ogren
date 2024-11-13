@@ -1,8 +1,0 @@
-{
-  "label": "InvArch",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Bireylerin fikri mülkiyetini (IP) fikri mülkiyet dosyaları (IPFs) olarak belirlemelerine ve saklamalarına, IPFs'yi IP Kümeleri adı verilen koleksiyonlara birleştirmelerine ve bir IP Kümesine bağlı programlanabilir IP Token'larını kullanmalarına izin veren bir protokol için konsepti tanıtmaktadır. Bu tasarım, bu yeni token'ların sosyal, iş, finansal ve yönetim işlem kullanışlılığından yararlanmasını sağlar."
-  }
-}
