@@ -74,16 +74,16 @@ const config = {
             type: 'dropdown',
             label: 'Öğren',
             items: [
-              { 
+              {
                 to: '/docs/ogren/temelblokzincir/Blokzincir%20ve%20Web3%20Ekosistemi',
                 label: 'Temel Blokzincir Eğitimi'
               },
-              { 
+              {
                 to: '/docs/category/algoritmalar-1',
                 label: 'Bilgisayar Bilimleri'
               },
               {
-                
+
                 to: '/docs/ogren/otuzsoru/Ag',
                 label: '30 Soruda Öğren'
               },
@@ -93,22 +93,22 @@ const config = {
             type: 'dropdown',
             label: 'Programlama Dilleri',
             items: [
-              { 
+              {
                 to: '/docs/rust/Rust%20ile%20Programlamaya%20Giriş',
                 label: 'Rust'
               },
               {
-                
+
                 to: '/docs/solidity/Solidty%20Nedir',
                 label: 'Solidity'
               },
               {
-                
+
                 to: '/docs/algo/Pyteal/Akıllı%20Kontrat',
                 label: 'Pyteal'
               },
               {
-                
+
                 to: '/docs/bilgisayar/Nesne%20Yönelimli%20Programlama/Java%20Dili%20İle%20Tanışma',
                 label: 'Java'
               },
@@ -135,12 +135,12 @@ const config = {
                 label: 'Gear Technologies'
               },
               {
-            
-                to: '/docs/agoric/Agoric%20Nedir',
+
+                to: '/docs/agoric-doc/what-is-agoric',
                 label: 'Agoric'
               },
               {
-                
+
                 to: '/docs/connext/Nedir',
                 label: 'Connext'
               },
@@ -149,49 +149,49 @@ const config = {
                 label: 'Covalent API'
               },
               {
-                
+
                 to: '/docs/polygon/Polygon%20Nedir',
                 label: 'Polygon'
               },
               {
-                
+
                 to: '/docs/starknet/Starnet%20Nedir',
                 label: 'StarkNet'
               },
               {
-                
+
                 to: '/docs/scilla/Scilla%20Nedir',
                 label: 'Scilla'
               },
               {
-                
+
                 to: '/docs/robonomics/Robonomics%20Nedir',
                 label: 'Robonomics'
               },
               {
-                
+
                 to: '/docs/manta/Manta%20Nedir/Manta%20Network%20Nedir',
                 label: 'Manta Network'
               },
               {
-                
+
                 to: '/docs/solona/Solana%20Nedir',
                 label: 'Solana'
               },
               {
-                
+
                 to: '/docs/inter/Inter%20Protocol%20System%20Overview',
                 label: 'Inter Protocol'
               },
               {
-                
+
                 to: '/docs/ton/introduction',
                 label: 'The Open Network (TON)'
               },
             ]
           },
-        
-          {to: '/blog', label: 'İş İlanı', position: 'left'},
+
+          { to: '/blog', label: 'İş İlanı', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -247,7 +247,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-        additionalLanguages: ['powershell','rust','sql','java','python'],
+        additionalLanguages: ['powershell', 'rust', 'sql', 'java', 'python'],
       },
     }),
 };

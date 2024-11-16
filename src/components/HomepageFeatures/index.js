@@ -4,14 +4,14 @@ import styles from './styles.module.css';
 import LogoSlider from './logoslider';
 
 const FeatureList1 = [
-  
+
   {
     title: 'Gear Technologies',
     Svg: require('@site/static/img/gear.svg').default,
     description: (
       <>
-        Gear Protocol, herkesin bir dApp'i birkaç dakika 
-        içinde geliştirmesini ve çalıştırmasını sağlayan Substrate tabanlı Rust destekleyen bir akıllı sözleşme platformudur. 
+        Gear Protocol, herkesin bir dApp'i birkaç dakika
+        içinde geliştirmesini ve çalıştırmasını sağlayan Substrate tabanlı Rust destekleyen bir akıllı sözleşme platformudur.
       </>
     ),
     href: '/docs/gearprotocol/intro'
@@ -21,7 +21,7 @@ const FeatureList1 = [
     Svg: require('@site/static/img/Tonlogo.svg').default,
     description: (
       <>
-        TON, merkezi olmayan bir internet platformudur. 
+        TON, merkezi olmayan bir internet platformudur.
         Bileşenleri arasında TON Blok Zinciri, TON DNS, TON Depolama ve TON Siteleri bulunur. TON, temel protokolüdür.
       </>
     ),
@@ -32,7 +32,7 @@ const FeatureList1 = [
     Svg: require('@site/static/img/starknet.svg').default,
     description: (
       <>
-        Starknet, Ethereum'un güvenli bir şekilde ölçeklenmesini ve hesaplama için 
+        Starknet, Ethereum'un güvenli bir şekilde ölçeklenmesini ve hesaplama için
         ölçeksiz dapp'ler oluşturmasını sağlayan merkezi olmayan bir katman-2 ağıdır.
       </>
     ),
@@ -43,7 +43,7 @@ const FeatureList1 = [
     Svg: require('@site/static/img/polygon.svg').default,
     description: (
       <>
-        Polygon, blockchain ağlarının bağlanmasını ve ölçeklenmesini 
+        Polygon, blockchain ağlarının bağlanmasını ve ölçeklenmesini
         sağlayan bir blockchain platformudur. Ethereum ile uyumlu çok zincirli ekosistem hedefler.
       </>
     ),
@@ -54,8 +54,8 @@ const FeatureList1 = [
     Svg: require('@site/static/img/covalent.svg').default,
     description: (
       <>
-        Covalent, farklı blok zinciri ağlarındaki verilere gerek şeffaf erişilebilirlik, 
-        gerekse kullanım kolaylığı getirmek için ortak bir API sağlar. 
+        Covalent, farklı blok zinciri ağlarındaki verilere gerek şeffaf erişilebilirlik,
+        gerekse kullanım kolaylığı getirmek için ortak bir API sağlar.
       </>
     ),
     href: '/docs/covalent/Covelent Nedir'
@@ -66,7 +66,7 @@ const FeatureList1 = [
     description: (
       <>
         Algorand blokzincir üçgeni adını verdiğimiz hız, güvenlik ve merkeziyetsizlik
-        konularını tek başına en verimli şekilde çözmeyi hedefleyen merkeziyetsiz ağdır. 
+        konularını tek başına en verimli şekilde çözmeyi hedefleyen merkeziyetsiz ağdır.
       </>
     ),
     href: '/docs/algo/Algorand%20Nedir'
@@ -76,18 +76,18 @@ const FeatureList1 = [
     Svg: require('@site/static/img/agoric.svg').default,
     description: (
       <>
-        Agoric, güvenli akıllı sözleşmeleri Hardened JavaScript 
+        Agoric, güvenli akıllı sözleşmeleri Hardened JavaScript
         ile yürütme platformudur. Modüler sözleşmeler oluşturma ve işlemlerin güvenliğini artırma imkanı sağlar.
       </>
     ),
-    href: '/docs/agoric/Agoric%20Nedir'
+    href: '/docs/agoric-doc/what-is-agoric'
   },
   {
     title: 'Solana',
     Svg: require('@site/static/img/solana.svg').default,
     description: (
       <>
-        Solana, enerji verimli, yıldırım hızında ve son derece ucuz olmasıyla 
+        Solana, enerji verimli, yıldırım hızında ve son derece ucuz olmasıyla
         yaygın, ana akım kullanım için tasarlandı. Blockchain'i insanlara getirin.
       </>
     ),
@@ -98,7 +98,7 @@ const FeatureList1 = [
     Svg: require('@site/static/img/robonomics.svg').default,
     description: (
       <>
-        Robonomics, kullanıcı uygulamaları, IoT ve karmaşık robotlar arasında 
+        Robonomics, kullanıcı uygulamaları, IoT ve karmaşık robotlar arasında
         atomik işlemler ile bilgi alışverişini sağlayan IoT için açık kaynaklı bir platformdur.
       </>
     ),
@@ -109,7 +109,7 @@ const FeatureList1 = [
     Svg: require('@site/static/img/connext.svg').default,
     description: (
       <>
-        Connext, geliştiricilerin tam anlamıyla anlamlı, güvenli etki alanları 
+        Connext, geliştiricilerin tam anlamıyla anlamlı, güvenli etki alanları
         arası uygulamalar oluşturmasını sağlayan merkezi olmayan bir protokoldür.
       </>
     ),
@@ -120,7 +120,7 @@ const FeatureList1 = [
     Svg: require('@site/static/img/manta.svg').default,
     description: (
       <>
-        Manta Network, Ethereum ve Polkadot gibi farklı blockchain ağları ile 
+        Manta Network, Ethereum ve Polkadot gibi farklı blockchain ağları ile
         entegre olabilen veri güvenliği çözümleri sunan bir protokol olarak tasarlanmıştır.
       </>
     ),
@@ -131,7 +131,7 @@ const FeatureList1 = [
     Svg: require('@site/static/img/scilla.svg').default,
     description: (
       <>
-        Scilla, Zilliqa ağındaki akıllı sözleşmelerin programlanmasında kullanılan bir dildir. 
+        Scilla, Zilliqa ağındaki akıllı sözleşmelerin programlanmasında kullanılan bir dildir.
         Scilla dili, Haskell, OCaml ve Python gibi dillerden ilham almıştır.
       </>
     ),
@@ -142,8 +142,8 @@ const FeatureList1 = [
     Svg: require('@site/static/img/inter.svg').default,
     description: (
       <>
-        Inter Stable Token (IST), Agoric zincirindeki zincirler arası ekosistem için gelişen, 
-        kripto para birimi destekli, merkezi olmayan, istikrarlı bir belirteçtir. 
+        Inter Stable Token (IST), Agoric zincirindeki zincirler arası ekosistem için gelişen,
+        kripto para birimi destekli, merkezi olmayan, istikrarlı bir belirteçtir.
       </>
     ),
     href: '/docs/inter/Inter%20Protocol%20System%20Overview'
@@ -157,8 +157,8 @@ const FeatureList2 = [
     Svg: require('@site/static/img/network.svg').default,
     description: (
       <>
-          Bilgisayar biliminin temel alanları hesaplama, otomasyon ve bilgi çalışmasıdır. 
-          Bilgisayar bilimi, teorik disiplinlerden pratik disiplinlere kadar uzanır. 
+        Bilgisayar biliminin temel alanları hesaplama, otomasyon ve bilgi çalışmasıdır.
+        Bilgisayar bilimi, teorik disiplinlerden pratik disiplinlere kadar uzanır.
       </>
     ),
     href: '/docs/bilgisayar/Algoritmalar/Algoritmalara%20Giriş'
@@ -168,8 +168,8 @@ const FeatureList2 = [
     Svg: require('@site/static/img/rust.svg').default,
     description: (
       <>
-        Rust son derece hızlı ve bellek açısından verimlidir: çalışma zamanı 
-        veya çöp toplayıcı olmadan, performans açısından kritik hizmetlere güç 
+        Rust son derece hızlı ve bellek açısından verimlidir: çalışma zamanı
+        veya çöp toplayıcı olmadan, performans açısından kritik hizmetlere güç
         sağlayabilir.
       </>
     ),
@@ -180,35 +180,35 @@ const FeatureList2 = [
     Svg: require('@site/static/img/solidity.svg').default,
     description: (
       <>
-        Solidity, çeşitli blockchain platformlarında, en önemlisi Ethereum'da akıllı 
+        Solidity, çeşitli blockchain platformlarında, en önemlisi Ethereum'da akıllı
         sözleşmeler uygulamak için nesne yönelimli bir programlama dilidir.
       </>
     ),
     href: '/docs/solidity/Solidty%20Nedir'
   },
-  
+
 ]
 
 
 
 
-function Feature({Svg, title, description, href}) {
+function Feature({ Svg, title, description, href }) {
   return (
-    
+
     <div className={clsx('col col--4')}>
       <div className={styles.eleman}>
-      <div className={styles.card}>
-        <div className="text--center">
-          
-          <Svg className={styles.featureSvg} role="img" />
+        <div className={styles.card}>
+          <div className="text--center">
+
+            <Svg className={styles.featureSvg} role="img" />
+          </div>
+          <div className="text--center padding-horiz--md">
+            <a href={href} >
+              <h3>{title}</h3>
+              <p>{description}</p>
+            </a>
+          </div>
         </div>
-        <div className="text--center padding-horiz--md">
-          <a href= {href} >
-            <h3>{title}</h3>
-            <p>{description}</p>
-          </a>
-      </div>
-      </div>
       </div>
     </div>
   );
