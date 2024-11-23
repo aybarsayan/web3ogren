@@ -4,14 +4,14 @@ import styles from './styles.module.css';
 import LogoSlider from './logoslider';
 
 const FeatureList1 = [
-  
+
   {
     title: 'Lisk Network',
     Svg: require('@site/static/img/lisk.svg').default,
     description: (
       <>
-        Lisk Ağı, tüm blockchain lerin Lisk aracılığıyla birbiriyle iletişim için 
-        genel çapraz zincir mesajlarını kullanacaktır. Bu iletişime etkileşimlilik denir. 
+        Lisk Ağı, tüm blockchain lerin Lisk aracılığıyla birbiriyle iletişim için
+        genel çapraz zincir mesajlarını kullanacaktır. Bu iletişime etkileşimlilik denir.
       </>
     ),
     href: 'docs/lisk/liskhakkında/Lisk%20Giriş'
@@ -21,8 +21,8 @@ const FeatureList1 = [
     Svg: require('@site/static/img/kilt.svg').default,
     description: (
       <>
-KILT, kurumsal ve tüketiciler için öz-yönetimli, doğrulanabilir credantial yayınlama 
-konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.  
+        KILT, kurumsal ve tüketiciler için öz-yönetimli, doğrulanabilir credantial yayınlama
+        konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
       </>
     ),
     href: '/docs/kilt/ho%C5%9Fgeldin'
@@ -32,18 +32,18 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/Tonlogo.svg').default,
     description: (
       <>
-        TON, merkezi olmayan bir internet platformudur. 
+        TON, merkezi olmayan bir internet platformudur.
         Bileşenleri arasında TON Blok Zinciri, TON DNS, TON Depolama ve TON Siteleri bulunur. TON, temel protokolüdür.
       </>
     ),
-    href: '/docs/ton/introduction'
+    href: '/docs/tonv2/documentation/smart-contracts/Hadi%20Ba%C5%9Flayal%C4%B1m/ide-plugins'
   },
   {
     title: 'Centrifuge',
     Svg: require('@site/static/img/centrifuge.svg').default,
     description: (
       <>
-        Centrifuge, gerçek dünya varlıklarını tokenleştirerek 
+        Centrifuge, gerçek dünya varlıklarını tokenleştirerek
         DeFi'ye entegre eden bir protokoldür. Varlık menkul kıymetleştirmesi ve likidite sağlama imkanı sunar.
       </>
     ),
@@ -54,7 +54,7 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/starknet.svg').default,
     description: (
       <>
-        Starknet, Ethereum'un güvenli bir şekilde ölçeklenmesini ve hesaplama için 
+        Starknet, Ethereum'un güvenli bir şekilde ölçeklenmesini ve hesaplama için
         ölçeksiz dapp'ler oluşturmasını sağlayan merkezi olmayan bir katman-2 ağıdır.
       </>
     ),
@@ -65,7 +65,7 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/invarch.svg').default,
     description: (
       <>
-        InvArch, fikri mülkiyeti (IP) tokenize etmek için bir protokol sunar. Polkadot kullanarak çapraz zincir doğrulama yapar. 
+        InvArch, fikri mülkiyeti (IP) tokenize etmek için bir protokol sunar. Polkadot kullanarak çapraz zincir doğrulama yapar.
         Güncellenebilir bir IP yönetimi sağlar.
       </>
     ),
@@ -76,7 +76,7 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/polygon.svg').default,
     description: (
       <>
-        Polygon, blockchain ağlarının bağlanmasını ve ölçeklenmesini 
+        Polygon, blockchain ağlarının bağlanmasını ve ölçeklenmesini
         sağlayan bir blockchain platformudur. Ethereum ile uyumlu çok zincirli ekosistem hedefler.
       </>
     ),
@@ -87,8 +87,8 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/covalent.svg').default,
     description: (
       <>
-        Covalent, farklı blok zinciri ağlarındaki verilere gerek şeffaf erişilebilirlik, 
-        gerekse kullanım kolaylığı getirmek için ortak bir API sağlar. 
+        Covalent, farklı blok zinciri ağlarındaki verilere gerek şeffaf erişilebilirlik,
+        gerekse kullanım kolaylığı getirmek için ortak bir API sağlar.
       </>
     ),
     href: '/docs/covalent/Covelent Nedir'
@@ -99,7 +99,7 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     description: (
       <>
         Algorand blokzincir üçgeni adını verdiğimiz hız, güvenlik ve merkeziyetsizlik
-        konularını tek başına en verimli şekilde çözmeyi hedefleyen merkeziyetsiz ağdır. 
+        konularını tek başına en verimli şekilde çözmeyi hedefleyen merkeziyetsiz ağdır.
       </>
     ),
     href: '/docs/algo/Algorand%20Nedir'
@@ -109,7 +109,7 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/agoric.svg').default,
     description: (
       <>
-        Agoric, güvenli akıllı sözleşmeleri Hardened JavaScript 
+        Agoric, güvenli akıllı sözleşmeleri Hardened JavaScript
         ile yürütme platformudur. Modüler sözleşmeler oluşturma ve işlemlerin güvenliğini artırma imkanı sağlar.
       </>
     ),
@@ -120,7 +120,7 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/solana.svg').default,
     description: (
       <>
-        Solana, enerji verimli, yıldırım hızında ve son derece ucuz olmasıyla 
+        Solana, enerji verimli, yıldırım hızında ve son derece ucuz olmasıyla
         yaygın, ana akım kullanım için tasarlandı. Blockchain'i insanlara getirin.
       </>
     ),
@@ -131,7 +131,7 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/robonomics.svg').default,
     description: (
       <>
-        Robonomics, kullanıcı uygulamaları, IoT ve karmaşık robotlar arasında 
+        Robonomics, kullanıcı uygulamaları, IoT ve karmaşık robotlar arasında
         atomik işlemler ile bilgi alışverişini sağlayan IoT için açık kaynaklı bir platformdur.
       </>
     ),
@@ -142,7 +142,7 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/connext.svg').default,
     description: (
       <>
-        Connext, geliştiricilerin tam anlamıyla anlamlı, güvenli etki alanları 
+        Connext, geliştiricilerin tam anlamıyla anlamlı, güvenli etki alanları
         arası uygulamalar oluşturmasını sağlayan merkezi olmayan bir protokoldür.
       </>
     ),
@@ -153,7 +153,7 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/manta.svg').default,
     description: (
       <>
-        Manta Network, Ethereum ve Polkadot gibi farklı blockchain ağları ile 
+        Manta Network, Ethereum ve Polkadot gibi farklı blockchain ağları ile
         entegre olabilen veri güvenliği çözümleri sunan bir protokol olarak tasarlanmıştır.
       </>
     ),
@@ -164,7 +164,7 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/scilla.svg').default,
     description: (
       <>
-        Scilla, Zilliqa ağındaki akıllı sözleşmelerin programlanmasında kullanılan bir dildir. 
+        Scilla, Zilliqa ağındaki akıllı sözleşmelerin programlanmasında kullanılan bir dildir.
         Scilla dili, Haskell, OCaml ve Python gibi dillerden ilham almıştır.
       </>
     ),
@@ -175,8 +175,8 @@ konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
     Svg: require('@site/static/img/inter.svg').default,
     description: (
       <>
-        Inter Stable Token (IST), Agoric zincirindeki zincirler arası ekosistem için gelişen, 
-        kripto para birimi destekli, merkezi olmayan, istikrarlı bir belirteçtir. 
+        Inter Stable Token (IST), Agoric zincirindeki zincirler arası ekosistem için gelişen,
+        kripto para birimi destekli, merkezi olmayan, istikrarlı bir belirteçtir.
       </>
     ),
     href: '/docs/inter/Inter%20Protocol%20System%20Overview'
@@ -201,8 +201,8 @@ const FeatureList2 = [
     Svg: require('@site/static/img/meta-1.svg').default,
     description: (
       <>
-          Yapay zeka modelleri ve kaynakları içeren bir platform 
-          aracılığıyla erişimi geliştiricilerin bir sonraki inovasyon dalgasını şekillendirmesine olanak tanır.
+        Yapay zeka modelleri ve kaynakları içeren bir platform
+        aracılığıyla erişimi geliştiricilerin bir sonraki inovasyon dalgasını şekillendirmesine olanak tanır.
       </>
     ),
     href: '/docs/llama/llma%20nedir'
@@ -212,8 +212,8 @@ const FeatureList2 = [
     Svg: require('@site/static/img/rust.svg').default,
     description: (
       <>
-        Rust son derece hızlı ve bellek açısından verimlidir: çalışma zamanı 
-        veya çöp toplayıcı olmadan, performans açısından kritik hizmetlere güç 
+        Rust son derece hızlı ve bellek açısından verimlidir: çalışma zamanı
+        veya çöp toplayıcı olmadan, performans açısından kritik hizmetlere güç
         sağlayabilir.
       </>
     ),
@@ -224,35 +224,35 @@ const FeatureList2 = [
     Svg: require('@site/static/img/solidity.svg').default,
     description: (
       <>
-        Solidity, çeşitli blockchain platformlarında, en önemlisi Ethereum'da akıllı 
+        Solidity, çeşitli blockchain platformlarında, en önemlisi Ethereum'da akıllı
         sözleşmeler uygulamak için nesne yönelimli bir programlama dilidir.
       </>
     ),
     href: '/docs/solidity/Solidty%20Nedir'
   },
-  
+
 ]
 
 
 
 
-function Feature({Svg, title, description, href}) {
+function Feature({ Svg, title, description, href }) {
   return (
-    
+
     <div className={clsx('col col--4')}>
       <div className={styles.eleman}>
-      <div className={styles.card}>
-        <div className="text--center">
-          
-          <Svg className={styles.featureSvg} role="img" />
+        <div className={styles.card}>
+          <div className="text--center">
+
+            <Svg className={styles.featureSvg} role="img" />
+          </div>
+          <div className="text--center padding-horiz--md">
+            <a href={href} >
+              <h3>{title}</h3>
+              <p>{description}</p>
+            </a>
+          </div>
         </div>
-        <div className="text--center padding-horiz--md">
-          <a href= {href} >
-            <h3>{title}</h3>
-            <p>{description}</p>
-          </a>
-      </div>
-      </div>
       </div>
     </div>
   );

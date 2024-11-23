@@ -1,0 +1,1 @@
+_şu bağlantıya göz atın: _
