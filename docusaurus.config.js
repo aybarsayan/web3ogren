@@ -42,7 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/aybarsayan',
         },
         blog: {
           showReadingTime: true,
@@ -94,6 +94,10 @@ const config = {
             label: 'Programlama Dilleri',
             items: [
               {
+                to: '/docs/llama/llma%20nedir',
+                label: 'Meta LLAMA'
+              },
+              {
                 to: '/docs/rust/Rust%20ile%20Programlamaya%20Giriş',
                 label: 'Rust'
               },
@@ -136,7 +140,7 @@ const config = {
               },
               {
 
-                to: '/docs/agoric-doc/what-is-agoric',
+                to: '/docs/agoric/Agoric%20Nedir',
                 label: 'Agoric'
               },
               {
@@ -185,18 +189,56 @@ const config = {
               },
               {
 
-                to: '/docs/ton/introduction',
+                to: '/docs/tonv2/documentation/smart-contracts/Hadi%20Ba%C5%9Flayal%C4%B1m/ide-plugins',
                 label: 'The Open Network (TON)'
+              },
+
+            ]
+          },
+          {
+            type: 'dropdown',
+            label: 'Bootcamp',
+            items: [
+              {
+                to: '/docs/bootcamp/agoric/Agoric%20ve%20Hardaned%20Giriş',
+                label: "Agoric'e giriş"
+              },
+              {
+                to: '/docs/bootcamp/agoric-chainboard/lectureOne',
+                label: 'Agoric Chainboard Academy '
+              },
+            ]
+          },
+          {
+            type: 'dropdown',
+            label: 'Your Book',
+            items: [
+              {
+                to: '/docs/your-book/connext/foreword',
+                label: "Connext"
+              },
+              {
+                to: '/docs/your-book/agoric/foreword',
+                label: "Agoric"
+              },
+              {
+                to: '/docs/your-book/covalentapi/foreword',
+                label: "Covalent API"
+              },
+              {
+                to: '/docs/your-book/moonbeam/foreword',
+                label: "Moonbeam"
               },
             ]
           },
 
           { to: '/blog', label: 'İş İlanı', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/aybarsayan',
             label: 'GitHub',
             position: 'right',
           },
+
         ],
       },
       footer: {
@@ -237,7 +279,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/WidgetVRP',
+                href: 'https://github.com/aybarsayan',
               },
             ],
           },

@@ -10,11 +10,22 @@ const FeatureList1 = [
     Svg: require('@site/static/img/gear.svg').default,
     description: (
       <>
-        Gear Protocol, herkesin bir dApp'i birkaç dakika
-        içinde geliştirmesini ve çalıştırmasını sağlayan Substrate tabanlı Rust destekleyen bir akıllı sözleşme platformudur.
+        Lisk Ağı, tüm blockchain lerin Lisk aracılığıyla birbiriyle iletişim için
+        genel çapraz zincir mesajlarını kullanacaktır. Bu iletişime etkileşimlilik denir.
       </>
     ),
-    href: '/docs/gearprotocol/intro'
+    href: 'docs/lisk/liskhakkında/Lisk%20Giriş'
+  },
+  {
+    title: 'KILT Protocol',
+    Svg: require('@site/static/img/kilt.svg').default,
+    description: (
+      <>
+        KILT, kurumsal ve tüketiciler için öz-yönetimli, doğrulanabilir credantial yayınlama
+        konusunda bir kimlik protokolüdür. DID'ler üzerine yoğunlaşmıştır.
+      </>
+    ),
+    href: '/docs/kilt/ho%C5%9Fgeldin'
   },
   {
     title: 'The Open Network (TON)',
@@ -25,7 +36,18 @@ const FeatureList1 = [
         Bileşenleri arasında TON Blok Zinciri, TON DNS, TON Depolama ve TON Siteleri bulunur. TON, temel protokolüdür.
       </>
     ),
-    href: '/docs/ton/introduction'
+    href: '/docs/tonv2/documentation/smart-contracts/Hadi%20Ba%C5%9Flayal%C4%B1m/ide-plugins'
+  },
+  {
+    title: 'Centrifuge',
+    Svg: require('@site/static/img/centrifuge.svg').default,
+    description: (
+      <>
+        Centrifuge, gerçek dünya varlıklarını tokenleştirerek
+        DeFi'ye entegre eden bir protokoldür. Varlık menkul kıymetleştirmesi ve likidite sağlama imkanı sunar.
+      </>
+    ),
+    href: '/docs/centrifuge/giriş'
   },
   {
     title: 'StarkNet',
@@ -37,6 +59,17 @@ const FeatureList1 = [
       </>
     ),
     href: '/docs/starknet/Starnet%20Nedir'
+  },
+  {
+    title: 'InvArch',
+    Svg: require('@site/static/img/invarch.svg').default,
+    description: (
+      <>
+        InvArch, fikri mülkiyeti (IP) tokenize etmek için bir protokol sunar. Polkadot kullanarak çapraz zincir doğrulama yapar.
+        Güncellenebilir bir IP yönetimi sağlar.
+      </>
+    ),
+    href: '/docs/invarch/InvArch%20nedir'
   },
   {
     title: 'Polygon',
@@ -157,8 +190,8 @@ const FeatureList2 = [
     Svg: require('@site/static/img/network.svg').default,
     description: (
       <>
-        Bilgisayar biliminin temel alanları hesaplama, otomasyon ve bilgi çalışmasıdır.
-        Bilgisayar bilimi, teorik disiplinlerden pratik disiplinlere kadar uzanır.
+        Yapay zeka modelleri ve kaynakları içeren bir platform
+        aracılığıyla erişimi geliştiricilerin bir sonraki inovasyon dalgasını şekillendirmesine olanak tanır.
       </>
     ),
     href: '/docs/bilgisayar/Algoritmalar/Algoritmalara%20Giriş'
