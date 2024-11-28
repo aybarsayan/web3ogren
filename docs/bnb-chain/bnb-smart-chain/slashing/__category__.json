@@ -1,0 +1,8 @@
+{
+  "label": "Kesme",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Slashing kategorisi, BSC ağındaki validatörlerin kötü niyetli eylemlerini cezalandıran mekanizmaları ve slashing durumlarını detaylandırmaktadır. Bu içerikler, slashing süreçleri, cezaların uygulanması ve etkili izleme yöntemleri gibi konularda bilgi sunarak, doğrulayıcıların performansını ve güvenilirliğini artırmayı hedefler."
+  }
+}

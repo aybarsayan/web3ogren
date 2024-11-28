@@ -1,0 +1,8 @@
+{
+  "label": "Veri Arşivi",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Veri arşiv katmanı, BNB Greenfield ile tarihsel blockchain verilerine erişim ve arşivleme süreçlerini basit ve güvenilir bir şekilde sağlayarak kullanıcıların veri analizi ve verimliliğini artırmayı amaçlar. BlobHub ve BlockHub gibi çözümler, EIP4844 blob'ları kullanarak verilerin erişilebilirliğini artırırken, Light Peer ise BSC blockchain verilerini daha verimli hale getirmek için tasarlanmıştır. Bu katman, verilerin korunması ve erişim kolaylığı sağlama konusundaki önemli rolü ile dikkat çekmektedir."
+  }
+}

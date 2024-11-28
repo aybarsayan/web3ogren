@@ -1,0 +1,8 @@
+{
+  "label": "Veri Depolama",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Veri depolama kategorisi, BNB Greenfield platformunda veri yönetimi süreçlerini ve bu süreçlerin veri bütünlüğü ve erişilebilirliği üzerindeki etkilerini ele alan belgeleri içermektedir. Bu içerikler, temel depolama modellerinden basit depolama hizmetlerine, yedeklilik stratejilerinden güvenlik izinlerine kadar geniş bir yelpazede, geliştiricilere güçlü ve erişilebilir veri çözümleri sunmayı amaçlamaktadır."
+  }
+}

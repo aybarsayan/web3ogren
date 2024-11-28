@@ -1,0 +1,8 @@
+{
+  "label": "Api'ler Ve Sdk'ler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "APIs ve SDK'lar kategorisi, BNB Greenfield'ın sunduğu resmi API ve SDK kaynakları hakkında bilgi sunmaktadır. Kullanıcılar, Go ve JavaScript gibi farklı dillerdeki kılavuzlar aracılığıyla veri depolama, izin yönetimi ve merkeziyetsiz depolama gibi hizmetlere erişim sağlamayı öğrenebilirler. Bu belgeler, kurulum ve kullanım süreçlerini açıklayarak geliştiricilerin projelerinde BNB Greenfield olanaklarını etkin bir şekilde kullanmalarını hedefler."
+  }
+}

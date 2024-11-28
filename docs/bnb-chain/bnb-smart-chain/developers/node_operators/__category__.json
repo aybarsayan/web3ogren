@@ -1,0 +1,8 @@
+{
+  "label": "Düğüm Operatörleri",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"node_operators\" kategorisi, BNB Akıllı Zinciri üzerindeki düğüm yönetimi ve geliştirme süreçlerine odaklanarak, arşiv, hızlı ve tam düğümlerin kurulumu, bakımı ve yapılandırılması hakkında ayrıntılı kaynaklar sunmaktadır. Bu içerikler, geliştiricilere düğüm performansını artırma ve ağ bağlantısını optimize etme konularında rehberlik ederken, Docker kullanarak düğüm çalıştırma ve Geth güncellemeleri gibi pratik bilgiler de içermektedir."
+  }
+}

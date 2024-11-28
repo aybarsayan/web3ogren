@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Web3 Teknolojileri Derneği',
-  tagline: 'Öğren, Geliştir, Eğit',
+  title: 'Web3ogren',
+  tagline: "Türkiye'nin En Büyük Dökümantasyon Havuzu!",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -54,6 +54,18 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        sitemap: {
+          lastmod: 'date',
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+          createSitemapItems: async (params) => {
+            const { defaultCreateSitemapItems, ...rest } = params;
+            const items = await defaultCreateSitemapItems(rest);
+            return items.filter((item) => !item.url.includes('/page/'));
+          },
+        },
       }),
     ],
   ],
@@ -62,7 +74,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/web3ogren-banner.jpg',
       navbar: {
         title: 'Web3 Öğren',
         logo: {
@@ -288,7 +300,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © Web3 Teknolojileri Derneği Built with Docusaurus.`,
+        copyright: `Copyright © Web3ogren Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

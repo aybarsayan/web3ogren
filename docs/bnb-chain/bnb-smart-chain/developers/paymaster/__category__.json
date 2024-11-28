@@ -1,0 +1,8 @@
+{
+  "label": "Ödeme Yöneticisi",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Paymaster kategorisi, harici sahipli hesap (EOA) cüzdanları için gaz ücreti sponsorluğu sağlayarak kullanıcı deneyimini artırmayı amaçlayan BSC üzerinde geliştirilmiş bir çözüm sunar. Bu kategori, cüzdan uygulamaları arasında standart API entegrasyonlarıyla gazsız işlem gönderim deneyimlerini ve geliştiricilere yönelik rehberlik ile birlikte, kullanıcıların kripto para transferlerini daha sorunsuz hale getiren teknik belgeler ve kılavuzlar içermektedir."
+  }
+}

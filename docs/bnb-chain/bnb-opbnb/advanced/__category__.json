@@ -1,0 +1,8 @@
+{
+  "label": "Gelişmiş",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"İleri seviye\" kategorisi, opBNB üzerindeki uygulama geliştirme ve bağımsız düğüm çalıştırma süreçlerine dair kapsamlı rehberler sunar. Bu içerikler, akıllı sözleşme dağıtımından yerel geliştirme ortamlarının kurulumu, node konfigürasyonu ve performans optimizasyonuna kadar, kullanıcıların blockchain tabanlı projelerini başarıyla hayata geçirebilmeleri için gereken bilgi ve adımları detaylandırır."
+  }
+}

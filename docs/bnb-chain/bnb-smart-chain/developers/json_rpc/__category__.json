@@ -1,0 +1,8 @@
+{
+  "label": "Json_Rpc",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "json_rpc kategorisi, BSC ile ilgili JSON-RPC uç noktaları ve API'lerin kullanımını detaylandırarak kullanıcıların blok zinciri verilerini daha etkili bir şekilde yönetmelerine yardımcı olmayı amaçlamaktadır. Bu belgeler, BNB Akıllı Zincir ile etkileşim sağlamak için ihtiyaç duyulan teknik bilgileri sunarak geliştiricilere pratik ve ekonomik çözümler sunmaktadır."
+  }
+}

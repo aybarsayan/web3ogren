@@ -1,0 +1,8 @@
+{
+  "label": "Enerji Yönetimi",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "BSC MEV kategorisi, BNB Chain üzerindeki Madenci Çıkarılabilir Değer (MEV) entegrasyonu, koruma stratejileri ve yapılandırma gereksinimleri hakkında kapsamlı bilgi sunar. Kullanıcılara MEV'nin önemi, entegrasyon süreçleri ve güvenlik önlemleri ile ilgili rehberlik etmenin yanı sıra, validator ve builder entegrasyonları için gerekli teknik detayları da içerir. Bu içerikler, kullanıcıların MEV pazarını daha iyi anlamalarını ve işlem güvenliklerini artırmalarını sağlamak amacıyla tasarlanmıştır."
+  }
+}

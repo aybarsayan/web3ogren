@@ -1,0 +1,8 @@
+{
+  "label": "Dosya Yönetimi",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Dosya yönetimi kategorisi, BNB Greenfield SDK kullanarak dosya yönetim araçları geliştirme ve testnet ile etkileşim kurma konularında kapsamlı bilgiler sunar. Kullanıcılara dosya yükleme süreçlerini, toplu yükleme yöntemlerini ve API entegrasyonlarını adım adım göstererek kendi projelerini hayata geçirmeleri için gerekli kaynakları sağlar."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Ağ Uç Noktası",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Ağ uç noktaları kategorisi, BNB Greenfield ana ve test ağları için RPC uç noktaları, açık API'ler ve DCellar uygulaması gibi kritik bilgiler sunarak kullanıcıların ağla etkileşimde bulunmalarını ve projelere erişmelerini kolaylaştırmayı amaçlamaktadır. Bu içerik, Greenfield ağına dair önemli bilgileri ve kaynakları derleyerek geliştiricilere ve kullanıcı topluluğuna destek sağlamaktadır."
+  }
+}

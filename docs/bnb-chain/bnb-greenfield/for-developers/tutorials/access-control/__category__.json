@@ -1,0 +1,8 @@
+{
+  "label": "Erişim Kontrolü",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Erişim kontrolü kategorisi, BNB Greenfield platformunda nesne ve kova izinlerini yönetmek için gerekli olan araçlar ve kılavuzları sunar. Bu içerikler, kullanıcıların CLI ve SDK gibi yöntemlerle uygulama kurulumunu, grup ve politika yönetimini ve çapraz zincir etkileşimlerini anlamalarına yardımcı olmayı hedefler."
+  }
+}
