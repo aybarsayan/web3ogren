@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Web3ogren',
-  tagline: "Türkiye'nin En Büyük Dökümantasyon Havuzu!",
+  title: 'Web3 Öğren',
+  tagline: "Türkiye'nin En Büyük Dökümantasyon Platformu 🎉",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -49,22 +49,10 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/aybarsayan',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-        },
-        sitemap: {
-          lastmod: 'date',
-          changefreq: 'weekly',
-          priority: 0.5,
-          ignorePatterns: ['/tags/**'],
-          filename: 'sitemap.xml',
-          createSitemapItems: async (params) => {
-            const { defaultCreateSitemapItems, ...rest } = params;
-            const items = await defaultCreateSitemapItems(rest);
-            return items.filter((item) => !item.url.includes('/page/'));
-          },
         },
       }),
     ],
@@ -205,10 +193,14 @@ const config = {
               },
               {
 
-                to: '/docs/tonv2/documentation/smart-contracts/Hadi%20Ba%C5%9Flayal%C4%B1m/ide-plugins',
+                to: '/docs/ton/introduction',
                 label: 'The Open Network (TON)'
               },
+              {
 
+                to: '/docs/bnb-chain/Bnb%20Chain%20Nedir',
+                label: 'BNB Smart Chain'
+              },
             ]
           },
           {

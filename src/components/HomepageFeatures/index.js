@@ -36,7 +36,7 @@ const FeatureList1 = [
         Bileşenleri arasında TON Blok Zinciri, TON DNS, TON Depolama ve TON Siteleri bulunur. TON, temel protokolüdür.
       </>
     ),
-    href: '/docs/tonv2/documentation/smart-contracts/Hadi%20Ba%C5%9Flayal%C4%B1m/ide-plugins'
+    href: '/docs/ton/introduction'
   },
   {
     title: 'Centrifuge',

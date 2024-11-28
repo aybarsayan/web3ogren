@@ -1,8 +1,0 @@
-{
-  "label": "Ağ",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "TON Projesi kendi eşler arası ağ protokollerini kullanır."
-  }
-}
