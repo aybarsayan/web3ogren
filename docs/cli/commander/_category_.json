@@ -1,0 +1,8 @@
+{
+  "label": "Commander",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Commander\" kategorisi, komut satırı argümanları, seçenekleri ve yaşam döngüleri gibi konularda detaylı bilgiler sunarak kullanıcıların kullanımdan kaldırılan özellikler ve alternatif yaklaşımlar hakkında daha iyi anlamalarına yardımcı olmayı amaçlamaktadır. Bu içerikler, işlemlerin nasıl yürütüldüğüne dair süreçleri açıklamakta ve kullanıcıların geliştirme süreçlerinde karşılaşabilecekleri belirsizlikleri gidermeye yönelik öneriler içermektedir."
+  }
+}

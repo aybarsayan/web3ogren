@@ -1,0 +1,8 @@
+{
+  "label": "Rehber",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Bu kategori, Vue.js ile ilgili geliştirme süreçlerini kolaylaştırmak amacıyla Vue CLI kullanımı üzerine rehberlik sağlamaktadır. İçerikler; tarayıcı uyumluluğu, proje oluşturma, yapı hedefleri, dağıtım yöntemleri ve CSS entegrasyonu gibi konularda temel bilgilere odaklanarak kullanıcıların projelerini daha etkin bir şekilde yönetmelerine yardımcı olur."
+  }
+}

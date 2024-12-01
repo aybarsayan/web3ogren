@@ -1,0 +1,8 @@
+{
+  "label": "V5",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "v5 kategorisi, fast-xml-parser kütüphanesi kullanarak JavaScript'te XML ayrıştırma ve çıktı oluşturucu özelleştirmeleri gibi konuları kapsamaktadır. Bu bölüm, kullanıcıların ayrıştırıcıları ve çıktı formatlarını etkin bir şekilde yönetmelerine yardımcı olacak yapılandırma seçenekleri ve örnekler sunmaktadır."
+  }
+}

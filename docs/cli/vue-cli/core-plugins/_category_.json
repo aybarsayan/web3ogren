@@ -1,0 +1,8 @@
+{
+  "label": "Core Eklentiler",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Vue CLI için temel eklentileri içeren bu kategori, geliştiricilerin projelerini yapılandırmalarını ve geliştirme süreçlerini iyileştirmelerini sağlamak amacıyla çeşitli araçlar ve test yöntemleri sunar. Babel, TypeScript, ESLint, PWA, e2e testleri gibi konularda rehberlik eden içerikler, kod kalitesini artırmak ve uygulama performansını optimize etmek için gerekli bilgileri sağlar."
+  }
+}

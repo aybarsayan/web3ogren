@@ -1,0 +1,8 @@
+{
+  "label": "Entegrasyonlar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Entegrasyon kategorisi, PM2'nin Heroku platformuyla entegrasyonunu adım adım açıklayarak kullanıcıların uygulama dağıtım sürecindeki en iyi uygulamaları ve izlenmesi gereken adımları öğrenmelerine yardımcı olan kaynaklar sunmaktadır. Bu içerik, özellikle Node.js geliştirme ortamlarında Heroku kullanımını kolaylaştırmayı amaçlamaktadır."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Geliştirici-Api",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Geliştirici API'si, TypeScript dosyalarının `tsx` ile Node.js üzerinde geliştirilmesini kolaylaştırmayı amaçlayan kaynakları bir araya getirir. Bu kategori, CommonJS ve ESM modları ile ilgili belge ve yönergeler sunarak, dinamik içe aktarma yöntemleri, modül yönetimi ve çalışma zamanı kayıt işlevleri gibi konularda derinlemesine bilgi sağlar."
+  }
+}

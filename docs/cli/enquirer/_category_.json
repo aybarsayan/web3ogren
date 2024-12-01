@@ -1,0 +1,8 @@
+{
+  "label": "Enquirer",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Enquirer kategorisi, JavaScript projelerinde kullanıcı etkileşimlerini yönetmeye yönelik araçların ve bileşenlerin detaylı bir incelemesini sunar. Belgeler, Enquirer kütüphanesinin kurulumu, özel isteklerin oluşturulması, tuş vuruşu olaylarının kaydedilmesi ve özelleştirilmiş komut yönetimi gibi konularda bilgi vererek, geliştiricilere kullanıcı deneyimini zenginleştirme imkanı sağlar."
+  }
+}

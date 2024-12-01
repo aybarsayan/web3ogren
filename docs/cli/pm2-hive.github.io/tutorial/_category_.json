@@ -1,0 +1,8 @@
+{
+  "label": "Eğitim",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Bu kategori, dağıtım süreçlerini optimize etmek ve olası hataları önlemek amacıyla PM2, Nginx ve çeşitli transpilatörler kullanarak uygulama dağıtımına dair kapsamlı rehberler sunmaktadır. Kılavuzlar, uygulama yönetimi ve sunucu yapılandırması konularında kaynaklar sağlayarak, geliştiricilerin daha etkili ve güvenli bir şekilde projelerini hayata geçirmelerine yardımcı olur."
+  }
+}

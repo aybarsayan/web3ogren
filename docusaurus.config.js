@@ -128,6 +128,10 @@ const config = {
                 to: '/docs/excel/giris/Exel%20Hakkında',
                 label: 'Excel'
               },
+              {
+                to: '/docs/category/javascript-cli-ara%C3%A7lar%C4%B1',
+                label: 'Javascript Cli Paketleri'
+              },
             ]
           },
           {

@@ -1,0 +1,8 @@
+{
+  "label": "Api",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "api kategorisi, komut satırı arayüzü (CLI) oluşturma sürecinde kullanılan yerleşik fonksiyonlar, sınıflar ve seçenekler hakkında detaylı bilgi sunarak geliştiricilerin daha etkili ve verimli CLI uygulamaları geliştirmelerine yardımcı olmayı amaçlamaktadır. Çeşitli yöntemler ve seçeneklerin kullanımıyla ilgili açıklamalar, kodu basitleştiren yardımcı fonksiyonlar ve yapılandırma özelliklerini kapsayarak, kullanıcıların verimli komutlar tanımlamalarını sağlamaktadır."
+  }
+}

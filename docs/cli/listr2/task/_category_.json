@@ -1,0 +1,8 @@
+{
+  "label": "Görev",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Görev kategorisi, Listr kütüphanesinde görevlerin programatik olarak oluşturulması, yönetimi ve hata yönetimi süreçleri gibi konuları kapsayan belgeleri içermektedir. Kullanıcılara görevlerin yapılandırılması, alt görevlerin kullanımı, çıktı yönetimi ve belirli koşullara bağlı atlama mekanizmaları hakkında detaylı bilgiler sunarak, yazılım geliştirme süreçlerini optimize etme amacı taşımaktadır."
+  }
+}

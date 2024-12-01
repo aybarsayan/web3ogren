@@ -1,0 +1,8 @@
+{
+  "label": "Depo",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Repository kategorisi, bir kütüphanenin değişiklik geçmişi, katkı süreçleri, otomatik sürümleme ve topluluk destek fırsatları hakkında detaylı bilgiler sunmaktadır. Kullanıcıların güncellemeleri takip etmesine ve açık kaynak projelerine katkıda bulunmalarına yardımcı olmayı amaçlar."
+  }
+}

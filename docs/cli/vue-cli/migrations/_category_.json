@@ -1,0 +1,8 @@
+{
+  "label": "Migrations",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Migrasyonlar\" kategorisi, Vue CLI'nin farklı sürümleri arasında geçiş yaparken dikkate alınması gereken önemli değişiklikleri, yeni komutları ve yapılandırma ipuçlarını sunmaktadır. Kullanıcılara, geçiş sürecinde karşılaşabilecekleri yaygın hatalarla ilgili rehberlik sağlayarak, güncelleme işlemlerini daha sorunsuz bir şekilde gerçekleştirmelerine yardımcı olmayı amaçlar."
+  }
+}

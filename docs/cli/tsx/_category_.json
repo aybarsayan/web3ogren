@@ -1,0 +1,8 @@
+{
+  "label": "Tsx",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "tsx kategorisi, TypeScript dosyalarının JavaScript'e derlenmesi, proje başlangıçları, Node.js ile entegrasyonu ve hata ayıklama süreçlerinin açıklanması gibi temel konularda kaynak ve bilgiler sunarak geliştiricilerin TypeScript deneyimini kolaylaştırmayı hedefler. Kullanıcılara modül formatları, tsconfig ayarları ve shell betiği oluşturma gibi çeşitli geliştirme ipuçları ile destek sağlar."
+  }
+}

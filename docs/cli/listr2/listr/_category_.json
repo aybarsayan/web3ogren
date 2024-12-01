@@ -1,0 +1,8 @@
+{
+  "label": "Listeleyici",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Listr kategorisi, `listr2` kütüphanesi ile görev listeleri oluşturma, yönetme ve örnek kullanımlar üzerine kapsamlı bilgiler sunmaktadır. Bu kategori, kullanıcıların `listr2` bağımlılığını kolayca entegre etmelerine, bağlam konseptini anlamalarına ve örneklerle uygulama süreçlerini öğrenmelerine yardımcı olacak kaynaklar sağlamaktadır."
+  }
+}

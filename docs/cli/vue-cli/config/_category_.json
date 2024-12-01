@@ -1,0 +1,8 @@
+{
+  "label": "Yapılandırma",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Config kategorisi, Vue CLI yapılandırma referansını sunarak global ayarlamalar ve projeleriniz için kritik seçenekler hakkında bilgi sağlar. Bu kategori, publicPath, eslint, TypeScript, Jest ve Cypress gibi önemli konuları kapsamaktadır."
+  }
+}

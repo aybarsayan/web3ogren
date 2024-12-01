@@ -1,0 +1,8 @@
+{
+  "label": "Geliştirici Rehberi",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "dev-guide kategorisi, Vue CLI ve eklentileri ile ilgili çeşitli API'lerin kullanımı, yapılandırması ve yönetimi hakkında kapsamlı bilgiler sunar. Geliştiricilerin CLI eklentilerini geliştirme, UI API'lerini entegre etme ve yerelleştirme süreçlerini en iyi şekilde anlamalarına yardımcı olmak için yönlendirmeler ve örneklerle desteklenmiştir."
+  }
+}

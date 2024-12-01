@@ -1,0 +1,8 @@
+{
+  "label": "Javascript CLI Araçları",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "JavaScript CLI araçları, geliştiricilerin komut satırında hızlı ve etkili bir şekilde işlem yapmalarına olanak tanır. Bu araçlar, Node.js ekosistemini kullanarak kolayca oluşturulabilir ve özelleştirilebilir. JavaScript CLI araçları, dosya işlemleri, API çağrıları, süreç otomasyonu gibi birçok görev için idealdir. Modern CLI araçları, kullanımı kolay arabirimler, etkileşimli menüler ve gelişmiş hata yönetimi ile yazılım geliştirme süreçlerini daha verimli hale getirir."
+  }
+}

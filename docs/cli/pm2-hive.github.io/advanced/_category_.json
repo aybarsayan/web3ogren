@@ -1,0 +1,8 @@
+{
+  "label": "Gelişmiş",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Advanced\" kategorisi, bağımsız Node.JS uygulamalarının yönetimi için geliştirilmiş PM2 modülünün işlevlerini ve kullanımını ele alır. Bu kategori, modüllerin NPM deposundan çekilmesi, yönetilmesi, geliştirilmesi ve özelleştirilmesi konularında derinlemesine bilgi sunarak, kullanıcıların uygulama yönetimini optimize etmelerini amaçlar."
+  }
+}

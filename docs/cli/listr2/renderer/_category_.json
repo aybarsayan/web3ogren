@@ -1,0 +1,8 @@
+{
+  "label": "Rendercı",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Renderer kategorisi, Listr uygulamasında çeşitli renderleme seçeneklerini ve türlerini, bunların yapılandırmalarını ve kullanım örneklerini içermektedir. Kullanıcıların terminal çıktısı sağlama ve özelleştirme süreçlerini anlamalarına yardımcı olan belgeler sunulmaktadır."
+  }
+}

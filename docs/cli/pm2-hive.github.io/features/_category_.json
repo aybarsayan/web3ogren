@@ -1,0 +1,8 @@
+{
+  "label": "Özellikler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Features\" kategorisi, PM2'nin uygulama yönetimi, performans artırımı, dağıtım süreçleri ve çevresel değişkenlerin yönetimi gibi temel işlevlerini detaylı bir şekilde inceleyerek, kullanıcıların Node.js uygulamalarını daha verimli bir şekilde yönetmelerine yardımcı olmayı amaçlamaktadır. Bu içerikler, kurulum adımlarından log yönetimine kadar geniş bir yelpazede kapsamlı rehberlik sunmaktadır."
+  }
+}
