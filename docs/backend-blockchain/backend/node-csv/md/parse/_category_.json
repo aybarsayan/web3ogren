@@ -1,0 +1,8 @@
+{
+  "label": "Ayrıştırma",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Parse\" kategorisi, CSV verilerini ayrıştırmak için çeşitli yöntemler, API türleri ve kullanım seçeneklerini ele alan belgeleri kapsamaktadır. Bu içerikler, kullanıcıların CSV Parse kütüphanesini etkili bir şekilde kullanmasını sağlamakla birlikte, hata yönetimi, değişiklik geçmişi ve örneklerle desteklenmiş ayrıştırma süreçleri hakkında bilgi sunmaktadır."
+  }
+}

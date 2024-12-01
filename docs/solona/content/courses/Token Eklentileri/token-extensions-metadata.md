@@ -405,12 +405,12 @@ Metadata uzantısı ile NFT oluşturmak, birkaç ekstra adımla birlikte metadat
 > - Metadata pointer verisi (bu mint'in adresi olacak ve tutarlılık için yapılır)  
 > — **Bu bilgi kritik öneme sahiptir.**
 
-<details>
+
 <summary>**Ekstra Bilgi:**</summary>
   
 Daha fazla metadatanız olacağını düşünüyorsanız, gerekli olan miktardan daha fazla alan ayırmaya gerek yoktur. `createUpdateFieldInstruction` otomatik olarak alanı yeniden tahsis edecektir! Ancak, mint hesabının yeterli kira alması için başka bir `system.transfer` işlemi eklemeniz gerekecektir.
 
-</details>
+
 
 Bunların tümünü program aracılığıyla belirlemek için `@solana/spl-token` kütüphanesinden `getMintLen` ve `pack` fonksiyonlarını kullanırız:
 
@@ -500,7 +500,7 @@ const signature = await sendAndConfirmTransaction(connection, transaction, [
 
 Burada sıralamanın önemi vardır.
 
-<details>
+
 <summary>**Dikkat:**</summary>
 
 `createUpdateFieldInstruction` yalnızca bir alanı günceller. Birden fazla özel alanınız olmasını istiyorsanız, bu yöntemi birden fazla kez çağırmanız gerekecektir. Ayrıca, temel metadata alanlarını güncellemek için aynı yöntemi kullanabilirsiniz:
@@ -515,7 +515,7 @@ const updateMetadataFieldInstructions = createUpdateFieldInstruction({
 });
 ```
 
-</details>
+
 
 ## Laboratuvar
 
@@ -540,12 +540,12 @@ Gerekli tüm bağımlılıklarla başlatılan NodeJS projesinin yanı sıra, `sr
 - `helpers.ts`
 - `index.ts`
 
-<details>
+
 <summary>**Not:**</summary>
 
 Irys kullanarak devnet üzerinde dosyaları yüklüyoruz; bu 100 KiB ile sınırlıdır.
 
-</details>
+
 
 **`helpers.ts`** dosyası bize `uploadOffChainMetadata` adında kullanışlı bir yardımcı işlev sağlar.
 
@@ -778,10 +778,10 @@ const createMintAccountInstruction = SystemProgram.createAccount({
 });
 ```
 
-<details>
+
 <summary><strong>Metadata'daki maliyet hakkında bilgi</strong></summary>
 Metadata'daki bilgi arttıkça maliyeti de o kadar artar.
-</details>
+
 
 Adım 3, `metadata pointer` uzantısını başlatmamızı gerektiriyor. Bunu, metadata hesabının mint'e işaret ettiğini kontrol ederek `createInitializeMetadataPointerInstruction` fonksiyonunu çağırarak yapalım.
 

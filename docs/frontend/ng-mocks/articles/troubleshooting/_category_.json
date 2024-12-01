@@ -1,0 +1,8 @@
+{
+  "label": "Sorun Giderme",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Troubleshooting kategorisi, Angular test süreçlerinde karşılaşılan yaygın hataların ve sorunların nasıl giderileceğine dair kapsamlı bilgiler sunar. Bu içerikler, bileşen çakışmaları, modül yapılandırmaları ve hata mesajları gibi konularda çözümler ve test yazımına yönelik pratik adımlar sağlamaktadır."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Dağıtımlar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Dağıtım kategorisi, ECMAScript modülleri ve IIFE (Immediately Invoked Function Expressions) gibi JavaScript yapılarını destekleyen ve farklı tarayıcı ortamlarına yönelik belgeler sunar. Bu içerikler, modül kullanımı, yapılandırma yöntemleri ve uyumluluk bilgileriyle birlikte, geliştiricilere hedef platformlarına uygun çözümler sağlayarak, JavaScript uygulamalarının verimli bir şekilde geliştirilmesini amaçlar."
+  }
+}

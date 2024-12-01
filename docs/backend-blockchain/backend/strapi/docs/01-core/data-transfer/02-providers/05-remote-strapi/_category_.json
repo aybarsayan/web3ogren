@@ -1,0 +1,8 @@
+{
+  "label": "05-Uzak-Strapi",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "05-remote-strapi kategorisi, uzaktan Strapi sağlayıcıları ile veri transferi süreçlerini anlamayı amaçlar; bu kapsamda WebSocket protokolü kullanarak bağlantı kurma ve uzaktan kaynak ile hedef sağlayıcıların yapılandırma ve kullanımını detaylandıran bilgiler sunar. Strapi ile entegrasyon ve veri aktarımını geliştirmek isteyen kullanıcılar için kapsamlı bir rehber niteliği taşır."
+  }
+}

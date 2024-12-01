@@ -1,0 +1,8 @@
+{
+  "label": "Uçtan Uca",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "e2e kategorisi, uygulama geliştirme ve test süreçlerine yönelik kapsamlı bilgiler sunarak, e2e testlerinin nasıl gerçekleştirileceğini, uygulama şablonlarının güncellenmesini ve veri transferi ile ilgili temel konuları ele almaktadır. Bu belgeler, geliştiricilere otomatik test uygulamaları ve API özelleştirmeleri hakkında pratik rehberlik sağlamayı amaçlamaktadır."
+  }
+}

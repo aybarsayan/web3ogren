@@ -1,0 +1,8 @@
+{
+  "label": "NgTaklitler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "ngMocks kategorisi, Angular uygulamalarında birim testleri için kullanılan ng-mocks kütüphanesinin çeşitli araçlarını ve işlevlerini kapsamaktadır. Bu içerikler, form kontrolü simülasyonundan olay yönetimine, bileşen yapılarını bulma ve yapılandırma optimizasyonuna kadar geniş bir yelpazede, geliştiricilerin test süreçlerini daha etkili bir şekilde yönetmelerine olanak tanır. Kullanıcılar için pratik örnekler ve en iyi uygulamaları içeren belgelerle, Angular testlerini kolaylaştırmayı amaçlar."
+  }
+}

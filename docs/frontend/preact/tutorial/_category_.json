@@ -1,0 +1,8 @@
+{
+  "label": "Eğitim",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Eğitim kategorisi, modern web geliştirme süreçlerinde Preact ve Sanal DOM gibi öncü teknolojileri kullanarak etkileşimli arayüzlerin oluşturulmasını detaylandıran kapsamlı kaynaklar sunar. Bileşen yönetimi, durum güncellemeleri, yan etkiler, hata yönetimi ve performansı artırıcı teknikler gibi konularla kullanıcıların bilgi seviyesini artırmayı ve pratik uygulamalar gerçekleştirmeyi amaçlar."
+  }
+}

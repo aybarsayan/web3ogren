@@ -1,0 +1,8 @@
+{
+  "label": "El Kitabı",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Manual\" kategorisi, Deno Deploy platformunun etkin kullanımı için gerekli bilgi ve kılavuzları sunmaktadır. Kullanım politikaları, dağıtım yönetimi, özel alan adı ekleme, veri tabanı bağlantıları gibi konularda adım adım rehberlik ederek kullanıcıların uygulama geliştirme süreçlerini kolaylaştırmayı amaçlar."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Örnekler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Örnekler\" kategorisi, Node.js'in `fs` modülü kullanarak dosya sistemleri ile etkileşimi ele alan içerikler sunmaktadır. Bu bölümde, dosya okuma ve yazma işlemlerine dair örneklerle birlikte, geliştiricilere pratik uygulama ve tarifler sağlayan bilgiler yer almaktadır."
+  }
+}

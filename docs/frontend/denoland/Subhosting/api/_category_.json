@@ -1,0 +1,8 @@
+{
+  "label": "Api",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "API kategorisi, Subhosting REST API'sinin kimlik doğrulama süreçleri ve Deno Deploy ile subhosting oluşturma konularını kapsamaktadır. Geliştiriciler için gerekli adımları ve kaynakları açıklayarak, projelerin ve sistemlerin etkili bir şekilde yönetilmesini desteklemeyi amaçlamaktadır."
+  }
+}

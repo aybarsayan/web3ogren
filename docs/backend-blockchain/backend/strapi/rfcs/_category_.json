@@ -1,0 +1,8 @@
+{
+  "label": "Rfclər",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "RFCler kategorisi, kamuya açık RFC belgelerinin kapsamını ve önemini vurgularken, kullanıcıların bu belgeleri anlamalarına yardımcı olacak açıklayıcı bilgiler ve ipuçları sunar. Ayrıca, özel alanların Strapi gibi içerik yönetim sistemlerinde nasıl tasarlanıp kullanılacağı hakkında rehberlik eden dokümanlar ve örnekler içerir. Bu içeriklerle, yazılım tasarımı ve veri yönetimi süreçlerini geliştirmek hedeflenmektedir."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Araçlar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"utils\" kategorisi, asenkron verilerle etkileşimde bulunan JavaScript fonksiyonlarını bir araya getirerek geliştiricilere kolaylık sağlar. Bu içerikte, async map, reduce ve pipe gibi yardımcı fonksiyonların detaylı açıklamaları sunulmaktadır."
+  }
+}

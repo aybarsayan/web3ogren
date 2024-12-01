@@ -1,0 +1,8 @@
+{
+  "label": "Anahtarv",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Keyv kategorisi, farklı arka planlarda anahtar-değer depolama için tutarlı bir arayüz sunarak kullanıcıların Keyv'in kurulumu ve kullanımı hakkında rehberlik almasını sağlar. Bu içerik, sürüm geçişleri ve yeni özellikler gibi güncellemelerle birlikte, Keyv'in işlevselliğini ve uygulama süreçlerini detaylandırmaktadır."
+  }
+}

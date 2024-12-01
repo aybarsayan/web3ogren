@@ -1,0 +1,8 @@
+{
+  "label": "Seçenekler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Seçenekler\" kategorisi, CSV verilerinin işlenmesi sırasında değerlerin doğru biçimde çıkarılması ve dönüştürülmesi için kullanılan çeşitli konfigürasyon ayarlarını içerir. Bu belgeler, BOM ekleme, sütun ayarları, ayırıcı belirleme, alıntı ve kaçış karakterlerinin yönetimi gibi temel seçenekleri tanımlayarak, kullanıcıların veri yapılandırmalarını özelleştirmelerine ve güvenli bir şekilde işlemelerine yardımcı olur."
+  }
+}

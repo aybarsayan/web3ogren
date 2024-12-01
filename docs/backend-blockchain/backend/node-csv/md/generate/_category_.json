@@ -1,0 +1,8 @@
+{
+  "label": "Üretme",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"generate\" kategorisi, CSV verilerini oluşturma sürecinde kullanılan çeşitli API'ler, değişiklik günlükleri, dağıtımlar, kullanım örnekleri ve seçenekler hakkında kapsamlı bilgiler sunar. Bu içerik, geliştiricilere Node.js ortamında veri setleri ve akışlar oluşturma için esnek yöntemler ve kaynaklar sağlayarak, projelerinde etkili bir şekilde veri üretimini artırmalarına yardımcı olmayı amaçlar."
+  }
+}

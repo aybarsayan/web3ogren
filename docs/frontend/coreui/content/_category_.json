@@ -1,0 +1,8 @@
+{
+  "label": "İçerik",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Bu kategori, web sitelerinde karşılaşılan 404 hata sayfalarını ele alır; kullanıcıların aradıkları içeriğin bulunamadığını bildirir ve doğru URL'yi kontrol etmeleri veya ana sayfaya dönmeleri için yönlendirmeler sunar. Amaç, kullanıcı deneyimini iyileştirerek arama motorları için optimizasyon sağlamaktır."
+  }
+}

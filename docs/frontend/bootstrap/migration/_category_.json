@@ -1,0 +1,8 @@
+{
+  "label": "Migration",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Göç kategorisi, CoreUI için Bootstrap sürüm geçişlerinde kullanıcıların v3'ten v4'e ve v4'ten v5'e geçiş sürecini kolaylaştırıcı belgeler ve kaynak dosyalarındaki değişiklikleri takip etmelerini sağlar. Bu içerik, bileşen güncellemeleri ve yeni CSS değişkenleri hakkında bilgi sunarak, kullanıcıların en son sürümlere uyum sağlamasına yardımcı olur."
+  }
+}

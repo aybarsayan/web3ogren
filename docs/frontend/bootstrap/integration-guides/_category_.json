@@ -1,0 +1,8 @@
+{
+  "label": "Entegrasyon Kılavuzları",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Entegrasyon Rehberleri kategorisi, CoreUI'nin CSS ve JavaScript bileşenlerini Laravel projelerine ekleme süreçlerini açıklayarak geliştiricilere güvenilir ve resmi yönergeler sunar. Bu içerikler, kullanıcıların projelerinde modern tasarımlar ve işlevsellik elde etmelerine yardımcı olmayı amaçlar."
+  }
+}

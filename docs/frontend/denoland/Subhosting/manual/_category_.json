@@ -1,0 +1,8 @@
+{
+  "label": "Kılavuz",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Manual\" kategorisi, Deno hizmetleriyle ilgili çeşitli konuları kapsayan ve kullanıcıların bu platformları etkin bir şekilde kullanmalarını destekleyen belgelerden oluşmaktadır. Kabul Edilebilir Kullanım Politikası, dağıtım süreçleri, altyapı detayları, uygulama planlaması, fiyatlandırma ve sınırlamalar gibi önemli bilgileri sunarak, Deno kullanımını kolaylaştırmayı amaçlamaktadır."
+  }
+}

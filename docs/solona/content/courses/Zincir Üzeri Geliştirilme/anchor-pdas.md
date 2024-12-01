@@ -658,10 +658,10 @@ describe("anchor-movie-review-program", () => {
 Not edin ki `.accounts` eklemiyoruz. Bunun nedeni, `AnchorProvider`'dan gelen `Wallet`'in otomatik olarak imzalayıcı olarak dahil edilmesi, Anchor'un `SystemProgram` gibi belirli hesapları çıkarsayabilmesi ve Anchor'un talimat argümanı olan `title` ve imzalayıcının genel anahtarından `movieReview` PDA'sını çıkarsayabilmesidir.
 :::
 
-<details>
+
 <summary>Gizli not: `Anchor.toml` dosyasında `seeds = true` ile tohum çıkarmayı açmayı unutmayın.</summary>
 Dikkate almanız gereken önemli bir ayrıntıdır!
-</details>
+
 
 Talimat çalıştıktan sonra, `movieReview` hesabını alıyoruz ve bu hesapta saklanan verilerin beklenen değerlerle eşleşip eşleşmediğini kontrol ediyoruz.
 

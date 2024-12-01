@@ -1,0 +1,8 @@
+{
+  "label": "Veri Aktarımı",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Veri-transfer kategorisi, veri-transferi paketinin özelliklerini kapsamlı bir şekilde özetleyerek kullanıcılara önemli bilgiler ve en iyi uygulamalar sunmayı amaçlamaktadır. Bu bölüm, Typescript başta olmak üzere veri paylaşımında etkili yöntemleri keşfetmek isteyenler için bilgi kaynağıdır."
+  }
+}

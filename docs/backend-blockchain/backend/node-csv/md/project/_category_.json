@@ -1,0 +1,8 @@
+{
+  "label": "Proje",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Proje kategorisi, CSV ile ilgili çeşitli belgeleri içermekte olup, geliştiricilere API kullanımı, değişiklik günlüğü, dağıtım seçenekleri, örnekler ve topluluk katkıları gibi konularda kapsamlı bilgiler sunmaktadır. Bu kategori, yazılımın güvenilir bir şekilde geliştirilmesi ve kullanılmasına yönelik kaynaklar sağlayarak, kullanıcıların ihtiyaç duydukları bilgilere kolayca ulaşmalarını amaçlar."
+  }
+}

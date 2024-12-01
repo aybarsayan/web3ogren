@@ -774,7 +774,7 @@ async def user_wallet(message: types.Message, state: FSMContext):
             keyboard1.add(types.InlineKeyboardButton(text="Tonhub", url=f"https://tonhub.com/transfer/{WALLET}?amount=1000000000&text={air_type}"))
             
             await message.answer(f"{air_type} seçtiniz")
-            await message.answer(f"<code>1</code> toncoin'i adresine gönder \n<code>{WALLET}</code> \nşu yorum ile \n<code>{air_type}</code> \nsenin cüzdanından ({message.text})", reply_markup=keyboard1)
+            await message.answer(f"1 toncoin'i adresine gönder \n{WALLET} \nşu yorum ile \n{air_type} \nsenin cüzdanından ({message.text})", reply_markup=keyboard1)
             await message.answer(f"Ödeme sonrası butona tıklayın", reply_markup=keyboard2)
             
             await DataInput.PayState.set()

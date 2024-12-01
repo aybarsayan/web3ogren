@@ -1,0 +1,8 @@
+{
+  "label": "Şablonlar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Şablonlar\" kategorisi, modern ve duyarlı uygulamalar geliştirmek amacıyla yüksek performanslı ve özelleştirilebilir CoreUI Bootstrap yönetici paneli şablonlarını sunar. Geliştiricilere, bu şablonları kurma, özelleştirme ve genişletme sürecinde rehberlik eden detaylı içerikler ile birlikte, derlenmiş CSS ve JavaScript kaynaklarına erişim, npm ve diğer paket yöneticileri üzerinden entegrasyon gibi olanaklar sağlanmaktadır."
+  }
+}

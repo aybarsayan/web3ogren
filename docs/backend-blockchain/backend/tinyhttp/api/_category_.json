@@ -1,0 +1,8 @@
+{
+  "label": "Api",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Api kategorisi, tinyhttp ile uygulama geliştirme süreçlerine yönelik detaylı belgeler sunarak, middleware, istek ve yanıt nesnelerinin özelliklerini ve yöntemlerini açıklamaktadır. Bu içerikler, geliştiricilere HTTP işlemlerini etkili bir şekilde yönetmek ve hata yönetimi konusunda rehberlik sağlamak amacıyla hazırlanmıştır."
+  }
+}

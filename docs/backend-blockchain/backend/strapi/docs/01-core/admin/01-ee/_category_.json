@@ -1,0 +1,8 @@
+{
+  "label": "01-EE",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "01-ee kategorisi, Strapi'nin kurumsal sürüm özelliklerinin tanıtımını, entegrasyon sürecini ve ilgili teknik bilgileri içeren dokümanları sunmaktadır. Kullanıcılara iş akış yönetimi, denetim kayıtları gibi kritik işlevler hakkında ayrıntılı bilgi ve rehberlik sağlayarak içerik yönetimini geliştirmeyi hedefler."
+  }
+}

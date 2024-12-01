@@ -1,0 +1,8 @@
+{
+  "label": "Veritabanı",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Veritabanı kategorisi, Strapi kullanıcıları için veritabanı paketinin özelliklerini, işlemlerini ve veri yapılarını yönetme süreçlerini kapsayan kapsamlı kaynaklar sunar. Bu bölüm, veritabanı ile ilgili temel bilgiler, kullanım ipuçları ve göç işlemleri gibi önemli konulara dair kavramsal rehberlik yaparak, veritabanı bütünlüğünü koruma ve etkin veri yönetimi sağlama amacı gütmektedir."
+  }
+}

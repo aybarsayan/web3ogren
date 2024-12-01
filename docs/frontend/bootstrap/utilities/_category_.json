@@ -1,0 +1,8 @@
+{
+  "label": "Yardımcı Programlar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Utilities kategorisi, CSS ile web tasarımında sıklıkla kullanılan yardımcı sınıflar ve araçları içerir. Bu kategori, kullanıcıların arka plan renkleri, kenar stilleri, görünüm değerleri, flexbox düzenleri gibi çeşitli görsel unsurları hızlı bir şekilde özelleştirmesine ve dinamik hale getirmesine olanak tanır. Ayrıca, etkileşimler ve bağlantı stilleri için pratik çözümler sunarak kullanıcı deneyimini geliştirmeyi hedefler."
+  }
+}

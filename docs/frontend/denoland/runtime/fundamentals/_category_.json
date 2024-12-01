@@ -1,0 +1,8 @@
+{
+  "label": "Temeller",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Temel Bilgiler\" kategorisi, Deno platformunun yapılandırması, hata ayıklama yöntemleri, HTTP sunucusu yazma, modül ve bağımlılık yönetimi gibi konuları kapsayarak geliştiricilere yönelik temel bilgiler sunar. Bu içerikler, Deno’nun özelliklerini ve kullanımını anlamayı kolaylaştırırken, güvenlik, sürüm yönetimi ve standart kütüphane gibi önemli konulara da odaklanarak yazılım geliştirme sürecinde pratik ve etkili bir rehberlik sağlar."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Yazım",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Yazarlar için rehberlik sağlayan bu \"authoring\" kategorisi, Yeoman ile ilgili jeneratörlerin oluşturulması, hata ayıklama, bağımlılık yönetimi ve kullanıcı etkileşimi gibi temel konuları kapsamaktadır. Geliştiricilerin uygulama geliştirme süreçlerini kolaylaştırmak amacıyla adım adım talimatlar ve bilgilerin sunulduğu bu içerikler, proje yapılandırmalarının yönetiminden test süreçlerine kadar geniş bir yelpazeyi kapsamaktadır."
+  }
+}

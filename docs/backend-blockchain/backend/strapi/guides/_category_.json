@@ -1,0 +1,8 @@
+{
+  "label": "Kılavuzlar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Rehberler kategorisi, yazılım geliştirme ve açık kaynak projelerine katkıda bulunmak isteyen geliştiricilere yönelik pratik bilgiler ve etik standartlar sunarak, topluluk üyelerinin etkili bir şekilde katılım sağlamasına yardımcı olmayı amaçlar. Bu içerikler, Strapi gibi projelerin entegrasyonu ve yönetimi hakkında adım adım talimatlar ile bilgi sağlamaktadır."
+  }
+}

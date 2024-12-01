@@ -1,0 +1,8 @@
+{
+  "label": "Strapi",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Strapi kategorisi, katkıda bulunmak isteyen mühendisler için kapsamlı teknik kavramlar ve geliştirici kılavuzları sunarak Strapi ile ilgili bilgi edinmeyi ve projelerdeki katkıları kolaylaştırmayı amaçlamaktadır. Bu dokümantasyon, Strapi'nin API referanslarını ve uygulama geliştirme süreçlerini derinlemesine keşfetmek isteyenler için değerli bir kaynaktır."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Denoland",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Denoland kategorisi, Deno platformunun belgelerini merkezi bir web sitesinde toplayarak local geliştirme, içerik düzenleme ve katkı süreçleri hakkında önemli bilgiler sunmayı amaçlamaktadır. Bu içerik, kullanıcılar için Deno'yu daha iyi anlamalarına yardımcı olacak örnekler ve kaynaklar içermektedir."
+  }
+}

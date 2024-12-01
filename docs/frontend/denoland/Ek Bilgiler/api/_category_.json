@@ -1,0 +1,8 @@
+{
+  "label": "Api",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "API kategorisi, Deno Deploy platformunda mevcut olan çeşitli API'ların işlevselliğini ve kullanımını detaylı bir şekilde açıklayarak geliştiricilere rehberlik etmeyi amaçlar. Bu içerikte, sıkıştırma, dinamik import, HTTP istekleri ve yanıtları ile dosya sistemi erişimi gibi önemli konular ele alınmakta olup, performans ve verimlilik artışı için en iyi uygulamalar sunulmaktadır."
+  }
+}

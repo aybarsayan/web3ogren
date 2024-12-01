@@ -1,0 +1,8 @@
+{
+  "label": "Yerleşim",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Layout\" kategorisi, CoreUI for Bootstrap kullanarak kullanıcıların içeriği duyarlı ve esnek bir şekilde düzenlemelerine yönelik dökümantasyonu sunmaktadır. Bu kategoride, kırılma noktaları, sütunlar, konteynerler, CSS Grid ve düzen araçları gibi temel yapı taşlarının nasıl kullanılacağı ve özelleştirileceği hakkında kapsamlı bilgiler yer alırken, düzenin farklı cihaz ve görünüm boyutlarına nasıl uyum sağladığına dair pratik örnekler de bulunur."
+  }
+}

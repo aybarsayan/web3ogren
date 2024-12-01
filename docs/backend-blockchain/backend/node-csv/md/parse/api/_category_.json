@@ -1,0 +1,8 @@
+{
+  "label": "Api",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "API kategorisi, veri işleme sürecini optimize etmek için farklı programlama yöntemleri ve yaklaşımlarını sunar; Async iterator, Callback ve Akış API'leri, veri akışlarını verimli bir şekilde yönetirken, Senk API'si ise kullanıcıların tam veri kümelerini kolayca işlemesine olanak tanır. Bu içerikler, teknolojik çözümler ve performans odaklı geliştirme konusunda geliştiricilere önemli kaynaklar sağlar."
+  }
+}

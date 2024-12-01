@@ -390,7 +390,7 @@ Ve aşağıdaki tuşlarla birlikte kullanıcıya rastgele oluşturulmuş bir yor
 ```js
   await ctx.reply(
     `
-Tamam, tek yapmanız gereken ${amount} TON'u <code>${process.env.OWNER_WALLET}</code> cüzdanına <code>${comment}</code> yorumu ile aktarmak.
+Tamam, tek yapmanız gereken ${amount} TON'u ${process.env.OWNER_WALLET} cüzdanına ${comment} yorumu ile aktarmak.
 
 <i>UYARI: Şu anda ${process.env.NETWORK} üzerinde çalışıyorum</i>
 

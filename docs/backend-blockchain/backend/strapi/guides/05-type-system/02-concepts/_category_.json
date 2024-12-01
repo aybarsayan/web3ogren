@@ -1,0 +1,8 @@
+{
+  "label": "02-Kavramlar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "02-konseptler kategorisi, TypeScript dilindeki tür sisteminin temel kavramlarını açıklamakta ve TypeScript'in sunduğu türlerin nasıl kullanıldığını detaylandırmaktadır. Bu içerik, programlama ile ilgilenenlere tiplerin işleyişi hakkında derinlemesine bilgi sunmayı amaçlamaktadır."
+  }
+}

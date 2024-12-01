@@ -1,0 +1,8 @@
+{
+  "label": "Dağıtımlar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Dağıtımlar kategorisi, ECMAScript modüllerinin ve Vanilla JavaScript uygulamalarının farklı tarayıcı ve Node.js ortamlarında nasıl kullanılacağını açıklayan belgeleri içermektedir. Bu içerikler, ESM desteği olan modern tarayıcılardan, eski tarayıcılar için IIFE yapısına kadar çeşitli yöntemler ve en iyi uygulamalar sunarak web geliştirme süreçlerini kolaylaştırmayı hedeflemektedir."
+  }
+}

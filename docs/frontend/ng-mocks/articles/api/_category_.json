@@ -1,0 +1,8 @@
+{
+  "label": "Api",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"api\" kategorisi, Angular uygulamalarında test süreçlerini kolaylaştırmak için mocking ve sahte nesne oluşturma yöntemlerine odaklanmaktadır. İçerikler, MockBuilder ve ng-mocks gibi araçları kullanarak bileşenler, direktifler, hizmetler ve modüller gibi çeşitli bağımlılıkların nasıl etkin bir şekilde mock'lanacağına dair pratik bilgiler ve örnekler sunmaktadır."
+  }
+}

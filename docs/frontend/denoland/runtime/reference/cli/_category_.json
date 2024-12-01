@@ -1,0 +1,8 @@
+{
+  "label": "Komut Satırı Arayüzü",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"cli\" kategorisi, Deno'nun komut satırı arayüzü (CLI) araçları ve komutları hakkında kapsamlı bilgi sunar. Deno'yu projelere eklemek, performans ölçümleri yapmak, tür kontrolü sağlamak ve belge üretmek gibi çeşitli işlemler için kullanım kılavuzları ve yapılandırma seçenekleri içeren belgelerle geliştiricilere rehberlik eder."
+  }
+}

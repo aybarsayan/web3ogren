@@ -1,0 +1,8 @@
+{
+  "label": "Kod Laboratuvarı",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Codelab kategorisi, web uygulamaları geliştirmek için adım adım kılavuzlar sunarak Yeoman, FountainJS, React ve Redux gibi teknolojileri kullanmayı öğretmeyi amaçlamaktadır. Geliştiricilere uygulama yapısını anlamak, yerel depolama entegrasyonu, test süreçleri ve üretim optimizasyonu gibi konularda pratik bilgiler sağlayarak yazılım geliştirme süreçlerini kolaylaştırmayı hedefler."
+  }
+}

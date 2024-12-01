@@ -1,0 +1,8 @@
+{
+  "label": "Eğitimler",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "“Tutorials” kategorisi, yazılım geliştiricilere Deno uygulamalarının dağıtımını, veritabanlarına bağlantı sağlama yöntemlerini ve çeşitli teknik becerileri geliştirecek adım adım rehberler sunar. Bu içerikler, kullanıcıların modern web teknolojileri ve araçlarıyla ilgili pratik bilgileri öğrenmelerine yardımcı olmayı hedefler."
+  }
+}

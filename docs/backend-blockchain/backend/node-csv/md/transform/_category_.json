@@ -1,0 +1,8 @@
+{
+  "label": "Dönüştürme",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Transform\" kategorisi, akış verilerinin dönüştürülmesi ile ilgili çeşitli API'ler, kullanım örnekleri ve parametre seçenekleri hakkında kapsamlı bilgiler sunar. Kullanıcılar, Node.js async ve sync işlevlerini, değişiklik günlüğünü ve dağıtım seçeneklerini keşfederek akış dönüşüm süreçlerini daha etkili bir şekilde yönetebilir. Bu içerikler, geliştiricilere dönüşüm işlemlerinin detaylarını anlamalarına yardımcı olacak araçlar ve bilgiler sağlamaktadır."
+  }
+}

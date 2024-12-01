@@ -1,0 +1,8 @@
+{
+  "label": "01-İlişkiler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"01-relations\" kategorisi, Strapi uygulamanızda veritabanı ilişkilerinin nasıl sıralanacağına dair kavramsal bir rehber sunmaktadır. Bu kategori, sıralama işlemleri için yöntemler ve pratik örneklerle, ilişkilerin daha etkili bir şekilde yönetilmesine yardımcı olmayı amaçlar."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Hadi Başlayalım",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"getting_started\" kategorisi, Deno kullanmaya başlamak için gerekli adımları ve bilgileri sunar. Bu içerikler, komut satırı arayüzü kullanımı, proje oluşturma süreçleri ve uygun geliştirme ortamının kurulumu gibi konulara odaklanarak, kullanıcıların Deno ile etkili bir şekilde çalışabilmesi için rehberlik eder."
+  }
+}

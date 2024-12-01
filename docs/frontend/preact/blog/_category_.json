@@ -1,0 +1,8 @@
+{
+  "label": "Blog",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Blog kategorisi, Preact ve ilgili teknolojilerin kullanımıyla geliştirilen uygulamaların optimizasyonuna yönelik makaleler içerir. Bu içerikler, sinyallerden ön işleme tekniklerine kadar çeşitli konularda derinlemesine bilgi sunarak, geliştiricilere performans artırma ve kullanıcı deneyimini iyileştirme konusunda rehberlik etmeyi amaçlar."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Referans",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Referans kategorisi, Deno'nun gelişmiş özellikleri ve araçları hakkında kapsamlı teknik belgeler sunarak kullanıcıların projelerinde etkili bir şekilde Deno kullanmalarına yardımcı olmayı amaçlar. Bu içerikler, sürekli entegrasyon süreçlerinden API kullanımına, ortam değişkenlerinden dil sunucusu entegrasyonuna kadar geniş bir yelpazede bilgi sağlar."
+  }
+}

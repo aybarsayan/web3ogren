@@ -1,0 +1,8 @@
+{
+  "label": "Komutlar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"commands\" kategorisi, Strapi'nin CLI (Komut Satırı Arayüzü) aracılığıyla sunulan çeşitli komutları detaylandırarak geliştiricilere rehberlik etmeyi amaçlamaktadır. Bu içerikler, özellikle `build` ve `develop` komutlarının kullanımı, seçenekleri ve süreçleri üzerinde durarak, Strapi uygulamalarının geliştirilmesi ve yönetilmesi konularında önemli bilgiler sağlar."
+  }
+}

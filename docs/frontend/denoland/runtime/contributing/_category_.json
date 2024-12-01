@@ -1,0 +1,8 @@
+{
+  "label": "Katkıda Bulunma",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Katkıda Bulunma\" kategorisi, Deno projesine katkıda bulunma yöntemlerini ve yazılım geliştirme süreçlerini açıklayan kaynaklar sunmaktadır. Deno'nun mimarisi, kaynak yönetimi, performans profilleme, stil kılavuzu ve topluluk katılımı gibi konulara dair rehberler ve bilgiler içerir, bu sayede geliştiricilere Deno ekosisteminde aktif bir rol almayı teşvik eder."
+  }
+}

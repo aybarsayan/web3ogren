@@ -1,0 +1,8 @@
+{
+  "label": "Özelleştir",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Customize\" kategorisi, CoreUI'nin Bootstrap ile birlikte sunduğu özelleştirme seçeneklerini keşfetmenizi sağlar. Renk modlarından bileşenlerin responsive tasarımı ve CSS değişkenlerinin kullanımı gibi konularla, projelerinizi dilediğiniz gibi tema, stil ve davranışlarına yönelik geniş bir yelpazede kişiselleştirmenize olanak tanır."
+  }
+}

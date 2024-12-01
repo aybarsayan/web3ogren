@@ -1,0 +1,8 @@
+{
+  "label": "Tinyhttp",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "tinyhttp, web uygulamaları geliştirmek için modern bir framework olup, kullanıcıların hızlı bir başlangıç yapmalarını sağlamak amacıyla güçlü veritabanı entegrasyonları ve dağıtım yöntemleri hakkında kapsamlı bilgiler sunar. MongoDB ve sunucusuz platformlarla birlikte middleware, routing, hata yönetimi gibi temel kavramlara odaklanarak, geliştiricilerin uygulama yazım sürecini kolaylaştırır."
+  }
+}

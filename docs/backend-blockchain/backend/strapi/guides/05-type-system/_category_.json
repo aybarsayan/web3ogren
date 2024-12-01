@@ -1,0 +1,8 @@
+{
+  "label": "05-Tip-Sistemi",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "05-type-system kategorisi, Strapi'nin tip sisteminin içerik yönetimi üzerindeki etkilerini ve bu sistemin geliştiricilere sağladığı avantajlar ile karşılaştıkları zorlukları ele alarak, tip sistemlerinin temel prensiplerini ve en iyi uygulamalarını açıklamaktadır. Amacı, kullanıcı deneyimini geliştirmek ve veri yapılarının özelleştirilmesi için gerekli bilgileri sunmaktır."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Yönetici",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Yönetici kategorisi, yöneticilerle ilgili tüm özelliklerin kapsamlı bir incelemesini sunarak kullanıcıların işlevselliklerini ve kullanımını anlamalarına yardımcı olur. Bu sayfa, Docusaurus gibi teknolojilerle bağlantılı olarak yönetim araçlarının etkinliğini artırmayı amaçlar."
+  }
+}

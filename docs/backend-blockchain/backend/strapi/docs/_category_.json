@@ -1,0 +1,8 @@
+{
+  "label": "Belgeler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "docs kategorisi, Strapi Monorepo katkıcı belgelerini ve teknik bilgilerle ilgili kaynakları sunarak kullanıcıların kod tabanına dair kavramsal anlayış kazanmalarına yardımcı olmayı amaçlamaktadır. Gelecek bayrakları gibi özelliklerle kullanıcıların henüz tam olarak hazır olmayan yeni işlevleri denemelerine olanak tanır."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Makaleler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Makale kategorisi, Angular uygulamalarının test edilmesi ve ng-mocks kütüphanesinin kullanımı üzerine rehberler, örnekler ve katkıda bulunanların listelerini içermektedir. Bu içerikler, yazılım geliştirme süreçlerinde karşılaşılan zorlukların aşılmasına yardımcı olmak amacıyla kapsamlı bilgiler ve stratejiler sunmaktadır."
+  }
+}

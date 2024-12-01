@@ -1,0 +1,8 @@
+{
+  "label": "03-Strapi-Dosya",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "03-strapi-file kategorisi, Strapi veri dosyası sağlayıcılarıyla ilgili bilgileri içermekte olup, veri dosyalarının aktarım süreçlerini, dosya yapısını, yükleme ve güvenlik önlemlerini kapsamlı bir şekilde ele alır. Bu belgeler, kullanıcıların Strapi ile veri kontrolü ve transferini kolaylaştırmayı amaçlar, ayrıca dosya kaynak ve hedef sağlayıcılarının işlevselliğini detaylandırır."
+  }
+}

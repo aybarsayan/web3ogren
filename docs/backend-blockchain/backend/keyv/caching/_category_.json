@@ -1,0 +1,8 @@
+{
+  "label": "Önbellekleme",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Önbellekleme kategorisi, web uygulamalarında performansı artırmak ve veri erişim hızını yükseltmek için çeşitli JavaScript tabanlı çerçevelerde önbellekleme yöntemlerinin uygulanmasını ele alan rehberler sunmaktadır. Express, Fastify, Koa, NestJS ve Node.js gibi popüler platformlarda Keyv kullanarak önbellekleme sistemlerinin nasıl kurulacağına dair adım adım talimatlar ve örnek uygulamalar içermektedir."
+  }
+}

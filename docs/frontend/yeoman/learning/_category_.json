@@ -1,0 +1,8 @@
+{
+  "label": "Öğrenme",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Öğrenme\" kategorisi, Yeoman ile uygulama geliştirme süreçlerini destekleyen çeşitli kaynakları bir araya getirir. Bu kapsamda, dağıtım yöntemleri, sıkça sorulan sorular, rehberler, eğitim materyalleri ve teknik destek sunarak kullanıcıların Yeoman'ın temellerini anlamalarına ve projelerini hızlı bir şekilde başlatmalarına yardımcı olmayı amaçlar."
+  }
+}

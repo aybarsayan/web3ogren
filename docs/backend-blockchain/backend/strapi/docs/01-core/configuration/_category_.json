@@ -1,0 +1,8 @@
+{
+  "label": "Yapılandırma",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Yapılandırma kategorisi, Strapi'de yapılandırma dosyalarının yüklenmesi ve kullanımı hakkında kapsamlı bir bakış sunar; bu bölüm, yapılandırma süreçleri ve temel ayarların önemini vurgulayarak kullanıcıların eklentiler ve sistem ayarları ile ilgili bilgi sahibi olmalarını sağlar."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Eğitimler",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Eğitimler kategorisi, Deno Deploy platformunda çeşitli uygulamaları geliştirip dağıtmayı öğrenmek isteyenler için kapsamlı, adım adım rehberler sunmaktadır. Bu içerikler, Discord botları, API sunucuları ve statik siteler gibi projeleri ele alarak, kullanıcıların pratik becerilerini geliştirmesine yardımcı olmayı amaçlamaktadır."
+  }
+}

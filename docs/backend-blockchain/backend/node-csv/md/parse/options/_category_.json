@@ -1,0 +1,8 @@
+{
+  "label": "Seçenekler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Seçenekler\" kategorisi, CSV verilerinin işlenmesinde farklı yapılandırma ve yönetim yeteneklerini sunar. Kullanıcıların veri ayrıştırma sürecinde başlık, kodlama, değer dönüştürme gibi çeşitli işlemleri özelleştirmelerine olanak tanırken, yorum satırlarını yönetmek ve alan ayırıcılarını belirlemek gibi kritik işlevler sağlar."
+  }
+}

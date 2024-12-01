@@ -1,0 +1,8 @@
+{
+  "label": "Npm İle Nasıl Yapılır",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Deno kullanarak çeşitli uygulama ve API geliştirme yöntemlerini açıklayan \"how_to_with_npm\" kategorisi, geliştiricilere Apollo, React, Express, Mongoose, MySQL, Next.js, Planetscale, Prisma ve Redis gibi popüler teknolojilerle pratik projeler oluşturma sürecinde rehberlik etmektedir. Adım adım kılavuzlar sunarak, okuyucuların bu araçları entegre etmelerini ve uygulamalarında veri sorgulama, modelleme ve önbellekleme gibi önem taşıyan konuları anlamalarını sağlamayı amaçlar."
+  }
+}

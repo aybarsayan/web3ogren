@@ -1,0 +1,8 @@
+{
+  "label": "Eğitimler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Tutorial kategorisi, Deno KV ve ilgili teknolojilerin kullanımıyla ilgili pratik örnekler ve rehberler sunar. Bu içerikler, web kancalarının işlenmesi, bildirimlerin planlanması ve asenkron görevlerin yönetimi gibi gerçek dünya senaryolarını ele alarak, geliştiricilere kapsamlı bilgi ve beceriler kazandırmayı amaçlamaktadır."
+  }
+}

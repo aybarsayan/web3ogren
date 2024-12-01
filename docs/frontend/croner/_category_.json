@@ -1,0 +1,8 @@
+{
+  "label": "Croner",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "Croner, JavaScript ve TypeScript'te cron ifadeleri kullanarak zamanlayıcılar oluşturma imkanı sunan bir kütüphanedir. Bu kategori, Croner’in temel özelliklerini, kurulum sürecini, sürümler arası geçişleri ve açık kaynak projelere katkıda bulunma fırsatlarını kapsamlı bir şekilde ele alarak, kullanıcıların etkili bir şekilde zamanlayıcılar geliştirmelerine destek olmayı amaçlamaktadır."
+  }
+}

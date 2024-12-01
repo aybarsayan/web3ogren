@@ -517,12 +517,12 @@ Programınızı,
 `Serialize Custom Instruction Data dersinde` oluşturduğumuz
 [ön yüzü](https://github.com/solana-developers/student-intro-frontend/tree/solution-serialize-instruction-data) oluşturarak test edebilir ve Solana Explorer'daki program loglarını kontrol edebilirsiniz. Ön yüz kodundaki program ID'sini dağıttığınız program ID'si ile değiştirin.
 
-<details>
+
 <summary><strong>İpuçları ve Tavsiyeler</strong></summary>
 
 Bunu bağımsız olarak yapmaya çalışın! Ama eğer takılırsanız [çözüm kodunu](https://beta.solpg.io/62b0ce53f6273245aca4f5b0) referans alabilirsiniz.
 
-</details>
+
 
 <Callout type="success" title="Laboratuvarı tamamladınız mı?">
 

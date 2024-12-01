@@ -509,4 +509,3 @@ it("saldırganın güvenli komut yöneticileri ile yalnızca bir kez talep etmes
 
 Kodunuzu GitHub'a yükleyin ve
 [bize bu dersi nasıl bulduğunuzu söyleyin](https://form.typeform.com/to/IPH0UGz7#answers-lesson=d3f6ca7a-11c8-421f-b7a3-d6c08ef1aa8b)!
-</details>

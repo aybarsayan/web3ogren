@@ -1,0 +1,8 @@
+{
+  "label": "Kılavuz",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Manual kategorisi, Deno geliştirme ortamında KV veritabanları, cron görevleri, veri modelleme ve anahtar süreleri gibi konularda kapsamlı bilgiler sunarak geliştiricilerin veri yönetimini ve uygulama süreçlerini optimize etmelerine yardımcı olmaktadır. Bu kılavuzlar, kullanıcıların Deno ve TypeScript ile etkili çözümler geliştirmesine olanak tanırken, AWS ve Google Cloud Storage gibi dış kaynaklarla entegrasyonu da kolaylaştırmaktadır."
+  }
+}

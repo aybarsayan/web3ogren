@@ -1,0 +1,8 @@
+{
+  "label": "Hakkında",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"About\" kategorisi, Preact ile ilgili önemli bilgilere odaklanmaktadır. Bu sayfada, Preact'ın tarayıcı desteği, öğrenme kaynakları, uyumlu kütüphane ve eklentilerin listesi, proje hedefleri ve Preact'ı kullanan önemli kuruluşlar hakkında derslerin yanı sıra projenin performansı ve entegrasyonu hakkında kapsamlı bilgiler bulunmaktadır."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "İçerik",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Bu kategori, Bootstrap framework'u kullanarak görsel ve metin bileşenlerinin düzenlenmesi, responsive görsellerin yönetimi, özelleştirilmiş CSS uygulamaları, tabloların stillendirilmesi ve tipografi için gerekli belgeleri ve örnekleri sunmaktadır. Amaç, kullanıcıların çeşitli bileşenleri etkili bir şekilde kullanarak şık ve tutarlı tasarımlar oluşturmasına yardımcı olmaktır."
+  }
+}

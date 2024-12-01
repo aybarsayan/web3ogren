@@ -1,0 +1,8 @@
+{
+  "label": "Çalışma Zamanı",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"runtime\" kategorisi, Deno çalışma zamanı hakkında geliştiricilere yönelik kaynaklar ve destek sunarak, JavaScript, TypeScript ve WebAssembly ile güvenli uygulama geliştirmeye odaklanmaktadır. Bu kategori, temel bilgilerden başlayarak, topluluk destek kaynaklarına kadar geniş bir içerik yelpazesi sunarak geliştiricilerin Deno ile etkili bir şekilde çalışmasını sağlamayı hedefliyor."
+  }
+}

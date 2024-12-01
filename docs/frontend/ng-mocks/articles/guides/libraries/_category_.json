@@ -1,0 +1,8 @@
+{
+  "label": "Kitaplıklar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Kütüphaneler kategorisi, Angular uygulamalarında çeşitli bileşenlerin test edilmesiyle ilgili kapsamlı rehberler ve en iyi uygulamaları içermektedir. Bu belgeler, Angular Material, ng-select, NGRX, NGXS ve PrimeNG gibi bileşenlerin test süreçlerine dair örnekler, öneriler ve test ortamında taklit yöntemleri sunarak geliştiricilerin etkili test senaryoları oluşturmasına yardımcı olmaktadır."
+  }
+}

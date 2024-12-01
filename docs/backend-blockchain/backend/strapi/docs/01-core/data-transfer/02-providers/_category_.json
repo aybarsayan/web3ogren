@@ -1,0 +1,8 @@
+{
+  "label": "02-Sağlayıcılar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"02-providers\" kategorisi, veri transfer sağlayıcıları ve işlevleri hakkında kapsamlı bilgi sunarak, Strapi platformunda kaynak ve hedef sağlayıcıların nasıl oluşturulacağına dair ipuçları sağlamaktadır. Kullanıcıların veri aktarım süreçlerini anlamalarına yardımcı olmak amacıyla, ilgili arayüzler ve uygulama gereksinimleri gibi önemli konuları ele alır."
+  }
+}

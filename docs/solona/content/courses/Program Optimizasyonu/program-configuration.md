@@ -984,9 +984,8 @@ Artık bazılarını kendiniz yapma zamanı geldi. Programın yükseltme yetkisi
 
 Bunu kendiniz yapmayı deneyin, ancak takılırsanız, [bu](https://github.com/solana-developers/admin-instructions/tree/challenge) reposunun `challenge` dalını referans alarak bir örnek çözüm görebilirsiniz.
 
-<details>
+
 <summary>Callout: Lab'ı tamamladınız mı?</summary>
 
 Kodunuzu GitHub'a yükleyin ve
 [bize bu derste ne düşündüğünüzü söyleyin](https://form.typeform.com/to/IPH0UGz7#answers-lesson=02a7dab7-d9c1-495b-928c-a4412006ec20)!
-</details>

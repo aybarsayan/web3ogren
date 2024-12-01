@@ -1,0 +1,8 @@
+{
+  "label": "V8",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "v8 kategorisi, Preact kütüphanesi ile ilgili bileşen oluşturma, render süreçleri, form yönetimi ve React ile olan farkların yanı sıra gelişmiş kullanım tekniklerini kapsamlı bir şekilde ele alır. Bu içerikler, Preact'ın özelliklerini, performans iyileştirmelerini ve kullanım senaryolarını inceleyerek geliştiricilere rehberlik etmek amacıyla hazırlanmıştır."
+  }
+}

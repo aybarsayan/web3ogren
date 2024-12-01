@@ -1,0 +1,8 @@
+{
+  "label": "Yardımcılar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Helpers kategorisi, CSS, Bootstrap ve Sass gibi araçlar kullanarak görsel düzenlemeleri ve kullanıcı deneyimini geliştirmeye yönelik yardımcı işlevleri içermektedir. Bu içerikler, flexbox ile düzen oluşturmadan renk kontrastlarına, odak halkanızın özelleştirilmesinden metin kısaltma yöntemlerine kadar geniş bir yelpazede stil ve tasarım çözümleri sunarak, geliştiricilerin web projelerinde daha etkili ve estetik sonuçlar elde etmelerine yardımcı olmaktadır."
+  }
+}

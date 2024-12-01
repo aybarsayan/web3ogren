@@ -1,0 +1,8 @@
+{
+  "label": "Api",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "API kategorisi, çeşitli veri işleme yöntemleri ve akışların entegrasyonu üzerine odaklanarak, geliştiricilere asenkron ve senkron API'ler aracılığıyla veri manipülasyonunu kolaylaştıran çözümler sunmaktadır. Bu içerik, akış API'lerinin kullanımını detaylandıran uygulama örnekleri ile beraber, CSV verilerini işlemek için etkili ve ölçeklenebilir yöntemler sağlamayı hedefler."
+  }
+}

@@ -815,7 +815,7 @@ Ensure you do not modify any URLs, paths, or references, as maintaining links an
 
 ## Details Elements
 
-<details>
+
 <summary>Expand to learn more about the `initialize_extra_account_meta_list` command.</summary>
 
 The `initialize_extra_account_meta_list` function performs the following operations:
@@ -824,7 +824,7 @@ The `initialize_extra_account_meta_list` function performs the following operati
 3. Makes a CPI call to the System Program to create an account and sets the Transfer Hook Program as the owner.
 4. Initializes account data for storing the `extra_account_meta_list`.
 
-</details>
+
 
 ---
 
@@ -892,10 +892,10 @@ anchor test
 
 Öncelikle bazı Metaplex hesaplarını alıp metadata'mızı formatlamamız gerekiyor.
 
-<details>
+
 <summary>Metadata Formatlama</summary>
 Metadata'mızı formatlamak için, Metaplex'in `DataV2` yapısını karşılamamız gerekiyor - bunun için sadece `crumbMetadata`'mıza bazı ek alanlar eklememiz yeterli.
-</details>
+
 
 Gereksinim duyacağımız Metaplex hesapları şunlardır:
 

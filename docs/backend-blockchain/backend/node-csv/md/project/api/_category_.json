@@ -1,0 +1,8 @@
+{
+  "label": "Api",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "API kategorisi, Node.js akış borusu API'sinin CSV ile entegrasyonunu öğrenmek isteyenler için kapsamlı bir kaynak sunmaktadır. Geri çağırma, akış ve senkron yöntemleri hakkında temel bilgiler ve örneklerle, veri işleme süreçlerini etkin bir şekilde yönetme ve optimize etme imkanı sağlamaktadır."
+  }
+}

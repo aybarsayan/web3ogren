@@ -1,0 +1,8 @@
+{
+  "label": "Moleküler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Moleculer kategorisi, Moleculer framework'u için sürüm geçiş kılavuzları ve protokol belgeleri sunarak kullanıcıların projelerini en güncel sürümlere uyumlu hale getirmelerine yardımcı olmayı amaçlamaktadır. Bu içerikler, önemli değişiklikler, yeni özellikler ve performans artırma yöntemlerine dair bilgi ve adımlar sağlamaktadır."
+  }
+}

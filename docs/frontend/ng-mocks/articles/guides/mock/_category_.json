@@ -1,0 +1,8 @@
+{
+  "label": "Yapay Veri Oluşturma",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Mock\" kategorisi, Angular uygulamalarında test süreçlerini geliştirmek için kullanılan mocklama tekniklerine odaklanmaktadır. Bu içerikler, `ActivatedRoute`, yapı yönergeleri, dinamik bileşenler ve bağımlılıklar gibi çeşitli Angular bileşenlerinin nasıl mock'lanacağına dair pratik rehberler ve örnekler sunarak geliştiricilerin test yazma becerilerini geliştirmelerine yardımcı olmayı amaçlamaktadır."
+  }
+}

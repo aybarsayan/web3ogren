@@ -1,0 +1,8 @@
+{
+  "label": "Kılavuzlar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Guides\" kategorisi, Angular uygulamalarında bileşenler, direktifler ve diğer yapısal unsurların test edilmesi için kapsamlı rehberler sunar. Geliştiricilere, test süreçlerini yönetmelerine yardımcı olmak amacıyla adım adım yöntemler ve en iyi uygulamalar hakkında bilgi sağlayarak, yazılım geliştirme süreçlerini optimize etmeyi hedefler."
+  }
+}

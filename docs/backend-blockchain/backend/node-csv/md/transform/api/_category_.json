@@ -1,0 +1,8 @@
+{
+  "label": "Api",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "API kategorisi, farklı veri işleme yöntemlerini ve kullanıcı işlevleri ile entegrasyonları kapsamaktadır. Callback API, veri dönüşümünü sağlarken, akış ve geri çağırma API'lerinin birleştirilmesine dair kılavuzlar sunar; ayrıca, asenkron ve senkron API'ler, ölçeklenebilirlik ve performans için gerekli temeli oluşturur. Bu kategori, geliştiricilerin veri akışı ve işleme süreçlerini daha verimli hale getirmelerine yardımcı olmayı amaçlar."
+  }
+}

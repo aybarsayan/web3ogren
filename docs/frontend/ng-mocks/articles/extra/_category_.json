@@ -1,0 +1,8 @@
+{
+  "label": "Ekstra",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"extra\" kategorisi, Angular uygulamalarında test süreçlerini optimize etmek için ng-mocks kütüphanesinin kullanımına odaklanır. Bu içerik, mock'ların nasıl etkinleştirileceği, özelleştirileceği ve testlerde etkili bir şekilde nasıl kullanılacağı hakkında kapsamlı bilgiler ve pratik örnekler sunarak geliştiricilere daha sürdürülebilir ve yönetilebilir test yazma yöntemleri sağlar."
+  }
+}

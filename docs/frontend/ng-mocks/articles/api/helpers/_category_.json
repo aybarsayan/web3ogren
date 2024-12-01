@@ -1,0 +1,8 @@
+{
+  "label": "Yardımcılar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Helpers kategorisi, Angular test süreçlerini kolaylaştırmak amacıyla ng-mocks kütüphanesindeki çeşitli fonksiyonlar ve yöntemlerle ilgili dokümantasyon içeriklerini sunmaktadır. Bu belgeler, sahte sınıfların oluşturulması, doğrulayıcı simülasyonları ve sınıf tür belirleme gibi konuları detaylandırarak geliştiricilere etkili test stratejileri geliştirmelerine yardımcı olur."
+  }
+}
