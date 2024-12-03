@@ -1,0 +1,8 @@
+{
+  "label": "Referanslar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Referanslar kategorisi, XRP Ledger ile ilgili istemci kütüphaneleri ve API'ler hakkında bilgi sunarak geliştiricilerin farklı programlama dilleri kullanarak XRP Ledger verilerine erişimini ve işlemesini kolaylaştırmayı amaçlamaktadır. Bu içerikte, kullanım dışı kalan API'ler ve alternatif çözümler gibi güncel bilgiler de yer almaktadır."
+  }
+}

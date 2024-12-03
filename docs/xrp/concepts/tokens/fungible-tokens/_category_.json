@@ -1,0 +1,8 @@
+{
+  "label": "Devirli Jetonlar",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Fungible tokenler kategorisi, XRP Ledger üzerinde token yönetimi ve finansal işlemlerle ilgili önemli özellikleri, süreçleri ve yanlış anlamaları ele almaktadır. Kullanıcıların güvenliğini artırmak amacıyla, dondurma, geri alma ve trust hatları gibi işlevler hakkında bilgi sunarak, tokenların etkin yönetimi ve düzenlemelere uyum sağlanmasını kolaylaştırır."
+  }
+}

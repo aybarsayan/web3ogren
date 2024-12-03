@@ -1,0 +1,8 @@
+{
+  "label": "Eş Yönetim Yöntemleri",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Eşler Yönetim Yöntemleri\" kategorisi, sunucuların eşler arası bağlantılarını etkili bir şekilde yönetmek için gerekli yöntemleri ve teknikleri detaylandırmaktadır. Bu içerikler, peer rezervasyonları, bağlantı komutları ve istek/yanıt formatları gibi konularla, sunucu yöneticilerine kapsamlı bilgiler sunarak, ağ bağlantılarının optimize edilmesine yardımcı olmayı amaçlamaktadır."
+  }
+}

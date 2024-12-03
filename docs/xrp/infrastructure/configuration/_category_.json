@@ -1,0 +1,8 @@
+{
+  "label": "Yapılandırma",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Yapılandırma kategorisi, XRP Ledger ve ilgili sunucuların çeşitli özelliklerini etkinleştirme ve özelleştirme süreçlerine yönelik rehberlik sağlar. Kullanıcılar, değişiklik oylaması, gRPC API kurulumu, izleme metrikleri, test ağlarıyla bağlantı kurma ve güvenlik uygulamaları gibi konularda en iyi uygulamaları ve gerekli adımları öğrenerek sistem verimliliklerini artırabilirler."
+  }
+}

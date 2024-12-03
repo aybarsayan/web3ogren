@@ -1,0 +1,8 @@
+{
+  "label": "Test Etme Ve Denetleme",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Testing and auditing kategorisi, kullanıcıların bağımsız modda rippled ile ilgili işlemleri güvenle test etmelerine ve yeni özellikleri denemelerine olanak tanıyan çeşitli kılavuzlar ve belgeler sunar. Bu içerikler, bağımsız modda defter geliştirme, özel ağ kurma ve test süreçleri gibi konularda ayrıntılı bilgi ve pratik adımlar sağlayarak, kullanıcı deneyimini ve ağ yönetimini optimize etmeyi amaçlar."
+  }
+}

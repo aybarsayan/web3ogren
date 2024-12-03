@@ -1,0 +1,8 @@
+{
+  "label": "Merkezi Olmayan Depolama",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Dağıtık depolama\" kategorisi, dijital verilerin güvenli ve merkeziyetsiz bir şekilde depolanması yöntemlerini ele alarak, kullanıcıların veri bütünlüğünü sağlamak için blok zinciri teknolojilerini ve offchain çözümleri kullanmalarına yönelik bilgi sunmaktadır. Bu kategori, dağıtık tanımlayıcılar, fiyat oracle'ları ve XRP Defteri gibi konuları içeren içerikler aracılığıyla, dijital kimlikler, veri akışı ve güvenlik üzerine derinlemesine anlayış sağlamayı amaçlamaktadır."
+  }
+}

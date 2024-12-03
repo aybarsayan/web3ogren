@@ -1,0 +1,8 @@
+{
+  "label": "Sunucu Kontrol Yöntemleri",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Sunucu Kontrol Yöntemleri kategorisi, sunucuların etkin yönetimini sağlamak için çeşitli kontrol yöntemlerinin açıklamaları ve kullanımlarını içermektedir. Bu içerikler, özellikle Rippled sunucusu için API ve yönetim araçlarının kullanımına odaklanarak, yöneticilere işlevsel bilgi sunmayı amaçlamaktadır."
+  }
+}

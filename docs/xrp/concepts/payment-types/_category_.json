@@ -1,0 +1,8 @@
+{
+  "label": "Ödeme Türleri",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Ödeme Türleri\" kategorisi, XRP Ledger üzerinde gerçekleştirilebilen çeşitli ödeme yöntemlerini kapsamaktadır. Kılavuzlar, iade ödemeleri, doğrudan XRP ödemeleri, escrow uygulamaları ve çapraz döviz işlemleri gibi konulara odaklanarak, kullanıcılara güvenli, hızlı ve etkili ödeme çözümleri sunmayı amaçlamaktadır. Ayrıca, ödeme kanalları ve izleme stratejileri gibi en iyi uygulamalar hakkında bilgilere de yer verilmektedir."
+  }
+}

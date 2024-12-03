@@ -1,0 +1,8 @@
+{
+  "label": "Sonuçların Kesinliği",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Finality-of-results\" kategorisi, XRP Ledger üzerindeki işlem sonuçlarının kesinliği, iptali ve bu süreçlerde dikkate alınması gereken önemli noktalar hakkında bilgi sunar. Kullanıcıların işlemlerinin onay durumu, geçici ve kesin sonuçlar arasındaki farklar ile işlem maliyetleri gibi konularda rehberlik almasına yardımcı olur."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Kurulum",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Kurulum kategorisi, XRP Ledger sunucularının (rippled ve Clio) kurulumu, güncellenmesi ve yapılandırılması ile ilgili kapsamlı rehberler sunmaktadır. Bu içerikler, farklı işletim sistemlerinde kurulum adımlarını, sistem gereksinimlerini ve otomatik güncellemeleri detaylandırarak geliştiricilere ve sistem yöneticilerine yardımcı olmayı amaçlamaktadır."
+  }
+}

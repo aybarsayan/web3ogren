@@ -1,0 +1,8 @@
+{
+  "label": "Yönetici Api Yöntemleri",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Admin API yöntemleri, belirli işlevsellik sağlayarak yetkili kullanıcıların sistemleri yönetmesine, izlemelerine ve hata ayıklamasına olanak tanıyan komutları içerir. Bu yöntemler, özellikle XRP Ledger gibi gelişmiş platformlarda, yönetimsel süreçlerin güvenli ve etkili bir şekilde gerçekleştirilmesi için kritik öneme sahiptir."
+  }
+}

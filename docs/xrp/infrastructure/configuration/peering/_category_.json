@@ -1,0 +1,8 @@
+{
+  "label": "Eşleştirme",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Peering kategorisi, birkaç rippled sunucusunun yapılandırılması, özel sunucu bağlantıları, eş tarayıcı ayarları ve bant genişliği yönetimi gibi konularda rehberlik sağlamak amacıyla tasarlanmıştır. Bu kılavuzlar, kullanıcıların rippled sunucularını daha verimli bir şekilde yönetmelerine ve ağ bağlantılarını optimize etmelerine yardımcı olurken, güvenlik ve performans artırımı için pratik bilgiler sunar."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Defterler",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Defterler, XRP ağındaki verilerin saklanması ve işlenmesi için kullanılan temel yapı taşlarıdır; blockchain teknolojisiyle işlemleri takip eder ve her defter sürümü benzersiz bloklarla oluşturulur. Bu kategoride, defterlerin yapısı, kapanış zamanları, açık-kapalı-onaylı durumları ve bu süreçlerin detaylı açıklamaları yer alır, böylece kullanıcıların XRP ledger sistemini daha iyi anlamaları sağlanır."
+  }
+}

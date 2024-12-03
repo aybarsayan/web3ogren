@@ -1,0 +1,8 @@
+{
+  "label": "Sorun Giderme",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Troubleshooting kategorisi, rippled sunucusu ile ilgili yaygın sorunların tanımlanması, teşhisi ve çözüm önerileri hakkında rehberlik sağlar. Bu belgeler, sunucu performansını artırmak ve kullanıcıların karşılaştığı sorunları etkili bir şekilde gidermek için gerekli adımları ve en iyi uygulamaları sunar."
+  }
+}

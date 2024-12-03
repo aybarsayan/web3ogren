@@ -1,0 +1,8 @@
+{
+  "label": "Günlük ve Veri Yönetimi Yöntemleri",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Günlük alma ve veri yönetim yöntemleri, kullanıcıların defter verilerini etkin bir şekilde yönetmelerine yardımcı olan birbiriyle ilişkili komutlar ve yöntemler sunar. Bu kategori, çevrimiçi silme, veri kopyalama, parça indirme gibi yöntemlerin yanı sıra günlük seviyeleri ve temizlik süreçlerini yönetmek için gereken araçları ve yönergeleri içerir. Amaç, veri yönetimi ve korunmasını optimize ederek kullanıcı deneyimini geliştirmektir."
+  }
+}

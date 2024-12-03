@@ -1,0 +1,8 @@
+{
+  "label": "İmzalama Yöntemleri",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "İmza Yöntemleri kategorisi, çeşitli imza yöntemlerinin kullanımı ve işlem güvenliği ile ilgili önemli bilgileri sunar. Bu içerikler, kriptografik imzalama süreçleri ve çok imzalı işlemler gibi konuları detaylandırarak, kullanıcıların API üzerinden etkili yönetim ve güvenli iletişim sağlamalarına yardımcı olmayı amaçlar."
+  }
+}

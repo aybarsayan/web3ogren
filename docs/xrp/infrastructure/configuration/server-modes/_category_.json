@@ -1,0 +1,8 @@
+{
+  "label": "Sunucu Modları",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Sunucu Modları kategorisi, XRP Ledger çekirdek sunucusunun farklı çalışma modlarını ve her bir modun sağladığı işlevleri detaylandırarak, kullanıcıların ihtiyaçlarına en uygun yapılandırmaları anlamalarına yardımcı olmayı amaçlar. Bu içerik, sunucuların nasıl yapılandırılacağı ve çalıştırılacağı ile ilgili teknik bilgiler sunarak, hem stok sunucu hem de validator olarak kullanılabilecek seçenekleri keşfetmeyi sağlar."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Durum Ve Hata Ayıklama Yöntemleri",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "\"status-and-debugging-methods\" kategorisi, ağ ve sunucu durumunu kontrol etme, hata ayıklama ve sistemin performansını artırma yöntemlerini kapsamlı bir şekilde ele alır. Bu içerikler, API komutları ve yanıt formatları ile ilgili önemli bilgiler sunarak kullanıcıların sistemlerinin sağlığını izlemelerine ve performanslarını optimize etmelerine yardımcı olur."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Veri Saklama",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Veri saklama kategorisi, XRP Ledger ve rippled sunucularında veri yönetimini optimize etmek için çeşitli yapılandırma rehberleri sunar. Bu içerikler, danışmanlık silme, tam tarih yapısı, tarih parçalama ve çevrimiçi silme gibi konuları ele alarak, sunucu performansını artırmak ve verilerin etkin bir şekilde yönetimini sağlamak amacıyla detaylı adımlar ve yöntemler sağlar."
+  }
+}
