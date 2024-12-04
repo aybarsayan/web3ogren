@@ -1,0 +1,8 @@
+{
+  "label": "Kılavuzlar",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "Rehberler kategorisi, Fastify çerçevesiyle web uygulamaları geliştirme, performans ölçümü, katkıda bulunma süreçleri ve çeşitli teknik senaryoların uygulanması gibi konularda kapsamlı bilgiler sunar. Bu kılavuzlar, geliştiricilerin Fastify'ın özelliklerini etkin bir şekilde kullanmalarını ve uygulamalarını optimize etmelerini sağlamayı amaçlar."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Adım-3",
+  "position": 112,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Step-3\" kategorisi, Vue.js'de özellik bağlama yöntemlerini keşfetmeye odaklanmaktadır. Bu içerikte, v-bind direktifi ve dinamik değerlerin kullanımıyla ilgili önemli bilgiler sunulmakta, okuyuculara Vue uygulamalarında etkili özellik yönetimi sağlama konusunda rehberlik edilmektedir."
+  }
+}

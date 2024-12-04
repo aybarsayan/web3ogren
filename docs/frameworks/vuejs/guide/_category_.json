@@ -1,0 +1,8 @@
+{
+  "label": "Kılavuz",
+  "position": 89,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Rehber\" kategorisi, Vue 3 framework'ünün temellerini anlamaya ve uygulama geliştirmeye yönelik kapsamlı belgeleri içerir. Bu kılavuzlar, kullanıcıların hızlı bir başlangıç yapmalarını sağlayarak, Vue ile etkileşimli ve dinamik frontend geliştirme için gerekli adımları ve teknik bilgileri sunmaktadır."
+  }
+}

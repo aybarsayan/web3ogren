@@ -1,0 +1,8 @@
+{
+  "label": "Step-14",
+  "position": 109,
+  "link": {
+    "type": "generated-index",
+    "description": "Slots, Vue.js'de bir üst bileşenden alt bileşene şablon parçalarının geçişini açıklayan bir bölümdür. Bu içerik, içerik render etmek için  öğesinin kullanımını ve bileşenler arası iletişimi ele alır."
+  }
+}

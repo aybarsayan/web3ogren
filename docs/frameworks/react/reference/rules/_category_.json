@@ -1,0 +1,8 @@
+{
+  "label": "Kurallar",
+  "position": 67,
+  "link": {
+    "type": "generated-index",
+    "description": "\"kurallar\" kategorisi, React uygulamaları geliştirirken uyulması gereken temel prensipleri ve en iyi uygulamaları vurgular. Bu kategori, saf bileşenler ve kancalar hakkındaki bilgileri derleyerek, kodun kalitesini artırmayı, hata ayıklamayı kolaylaştırmayı ve performansı optimize etmeyi amaçlar. React'in idiyomatik kurallarını anlamanızı sağlayarak, daha düzenli ve etkili uygulamalar oluşturmanıza yardımcı olur."
+  }
+}

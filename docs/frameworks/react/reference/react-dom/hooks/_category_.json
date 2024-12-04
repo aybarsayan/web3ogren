@@ -1,0 +1,8 @@
+{
+  "label": "Kancalar",
+  "position": 64,
+  "link": {
+    "type": "generated-index",
+    "description": "Hooks kategorisi, React uygulamalarında form yönetimi ve DOM etkileşimleri için kullanılan kancalara odaklanır. Bu içerik, react-dom paketindeki yerleşik kancaların işlevselliğini ve örneklerini sunarak, geliştiricilerin tarayıcı tabanlı ortamlarda form süreçlerini ve durum yönetimini daha etkili bir şekilde gerçekleştirmelerine yardımcı olmayı amaçlar."
+  }
+}

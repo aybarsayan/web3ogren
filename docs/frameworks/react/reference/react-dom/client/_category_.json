@@ -1,0 +1,8 @@
+{
+  "label": "Müşteri",
+  "position": 62,
+  "link": {
+    "type": "generated-index",
+    "description": "İstemci kategorisi, React bileşenlerinin tarayıcıda görüntülenmesi için gerekli olan `react-dom/client` API'lerini kapsamaktadır. Bu API'ler, React uygulamalarının kökünü oluşturmayı, sunucu tarafında render edilmiş bileşenlerin entegrasyonunu ve DOM düğümlerinde etkin rendering işlemlerini sağlamak amacıyla kullanılmaktadır."
+  }
+}

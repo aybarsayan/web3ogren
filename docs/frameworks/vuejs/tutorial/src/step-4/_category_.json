@@ -1,0 +1,8 @@
+{
+  "label": "Adım-4",
+  "position": 113,
+  "link": {
+    "type": "generated-index",
+    "description": "Bu kategori, Vue.js bileşenlerinde etkileşimli fonksiyonlar oluşturmayı sağlayan olay dinleyicilerini keşfetmenizi sağlar. Kılavuz, v-on direktifinin kullanımını ve olay yöneticilerinin uygulama içindeki önemini açıklar."
+  }
+}

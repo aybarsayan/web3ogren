@@ -1,0 +1,8 @@
+{
+  "label": "01-Dökümantasyon",
+  "position": 71,
+  "link": {
+    "type": "generated-index",
+    "description": "01-Documentation kategorisi, Socket.IO kütüphanesi hakkında kapsamlı ve teknik belgeler sunarak, bağlantı durumu kurtarma, teslimat garantileri, mesaj sıralama, hata ayıklama ve bellek kullanımı gibi önemli konuları ele alır. Geliştiricilere, Socket.IO'nun işleyişi, test etme yöntemleri ve bağlantı sorunlarının giderilmesi gibi pratik bilgilerle destek sunarak, daha etkili ve verimli uygulama geliştirmelerine yardımcı olmayı amaçlar."
+  }
+}

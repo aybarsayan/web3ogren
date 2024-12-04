@@ -1,0 +1,8 @@
+{
+  "label": "Yeniden Kullanılabilirlik",
+  "position": 95,
+  "link": {
+    "type": "generated-index",
+    "description": "Reusability kategorisi, Vue.js framework'ü kullanarak bileşenlerin, özel yönergelerin ve eklentilerin nasıl oluşturulup yeniden kullanılabilir hale getirileceğini kapsamaktadır. Bu içerikler, geliştiricilere, bileşen işlevleri ve reaktivite gibi temel konuları sağlayarak daha modüler ve sürdürülebilir kod yazımı için pratik bilgiler sunar."
+  }
+}

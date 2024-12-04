@@ -1,0 +1,8 @@
+{
+  "label": "Rfc",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "RFC kategorisi, teknik belgeler aracılığıyla yazılım geliştirme ve protokol yapılandırmaları hakkında bilgi sunmayı amaçlar. Bu belgeler, çeşitli teknolojilerin (örneğin, Go, CORS, Connect) yapılandırma yöntemlerini, hata kodu eşleştirmelerini ve kimlik doğrulama süreçlerini ele alarak, geliştiricilere uygulama geliştirme sürecinde rehberlik eder."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Sunucu",
+  "position": 65,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Server\" kategorisi, React bileşenlerini sunucuda HTML'ye render etmek için kullanılan API'leri kapsamaktadır. Bu belgede, Node.js ve Web akışları için geçerli yöntemlerin yanı sıra, artık desteklenmeyen API'lerin de detayları yer almaktadır, bu sayede geliştiricilerin sunucu tarafında uygulama performansını artırmalarına yardımcı olur."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Monorepo",
+  "position": 38,
+  "link": {
+    "type": "generated-index",
+    "description": "Monorepo, yazılım geliştirme süreçlerinde birden fazla proje ve bağımlılığın tek bir depo altında yönetilmesini sağlayan bir yapıdır. Bu yaklaşım, proje entegrasyonunu kolaylaştırırken, kod paylaşımını ve sürüm kontrolünü de optimize eder. Monorepo, ekiplerin iş akışlarını düzenlemelerine olanak tanır ve geliştirici verimliliğini artırır."
+  }
+}

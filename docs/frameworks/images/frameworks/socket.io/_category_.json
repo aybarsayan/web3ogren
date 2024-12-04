@@ -1,0 +1,8 @@
+{
+  "label": "Socket.Io",
+  "position": 35,
+  "link": {
+    "type": "generated-index",
+    "description": "socket.io, gerçek zamanlı web uygulamaları geliştirmek için güçlü bir kütüphanedir ve tarayıcı ile sunucu arasında iki yönlü iletişimi kolaylaştırır. Bu kategori, socket.io kullanarak uygulama performansını artırmak ve etkileşimli kullanıcı deneyimleri oluşturmak üzerine teknik belgeler ve kaynaklar sunmaktadır."
+  }
+}

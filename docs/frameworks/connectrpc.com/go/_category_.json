@@ -1,0 +1,8 @@
+{
+  "label": "Go",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "\"go\" kategorisi, Connect ile Go kullanarak HTTP API'leri geliştirme süreçlerine yönelik rehberler ve bilgiler sunar. Bu içerikler, yaygın hataların düzeltilmesinden, dağıtım ayarlarına, gRPC uyumluluğuna kadar geniş bir yelpazede, geliştiricilerin uygulamalarını optimize etmelerine ve sorunlarını çözmelerine yardımcı olmayı amaçlar."
+  }
+}

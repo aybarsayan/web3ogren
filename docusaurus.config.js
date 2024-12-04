@@ -209,42 +209,82 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: 'Bootcamp',
+            label: "Framework",
             items: [
               {
-                to: '/docs/bootcamp/agoric/Agoric%20ve%20Hardaned%20Giriş',
-                label: "Agoric'e giriş"
+                to: '/docs/frameworks/react/',
+                label: 'React'
               },
               {
-                to: '/docs/bootcamp/agoric-chainboard/lectureOne',
-                label: 'Agoric Chainboard Academy '
+                to: '/docs/frameworks/vuejs/',
+                label: 'Vuejs'
+              },
+              {
+
+                to: 'http://localhost:3000/docs/frameworks/socket.io/Socketio%20Nedir',
+                label: 'Socket.io'
+              },
+              {
+
+                to: '/docs/frameworks/fastify/fastify%20Nedir',
+                label: 'Fastify'
+              },
+              {
+                to: '/docs/frameworks/connectrpc.com/connectrpc%20Nedir',
+                label: 'ConnectRPC'
               },
             ]
           },
           {
             type: 'dropdown',
-            label: 'Your Book',
+            label: "JavaScript CLI",
             items: [
               {
-                to: '/docs/your-book/connext/foreword',
-                label: "Connext"
+                to: '/docs/cli/clipanion/overview',
+                label: 'Clipanion'
               },
               {
-                to: '/docs/your-book/agoric/foreword',
-                label: "Agoric"
+                to: '/docs/cli/commander/Commender%20Nedir',
+                label: 'Commander'
               },
               {
-                to: '/docs/your-book/covalentapi/foreword',
-                label: "Covalent API"
+
+                to: '/docs/cli/enquirer/overview',
+                label: 'Enquirer'
               },
               {
-                to: '/docs/your-book/moonbeam/foreword',
-                label: "Moonbeam"
+
+                to: '/docs/cli/fast-xml-parser/GettingStarted',
+                label: 'Fast XML Parser'
+              },
+              {
+                to: '/docs/cli/grunt-docs/Grant%20Nedir',
+                label: 'Grunt'
+              },
+              {
+                to: '/docs/cli/listr2/Listr2%20Nedir',
+                label: 'Listr2'
+              },
+              {
+                to: '/docs/cli/nodemon/Nodemon%20Nedir',
+                label: 'Nodemon'
+              },
+              {
+                to: '/docs/cli/pm2-hive.github.io/afull',
+                label: 'PM2'
+              },
+              {
+                to: '/docs/cli/tsx/getting-started',
+                label: 'TSX'
+              },
+              {
+                to: '/docs/cli/vue-cli/vue-cli%20Nedir',
+                label: 'Vue-cli'
               },
             ]
           },
 
-          { to: '/blog', label: 'İş İlanı', position: 'left' },
+          { to: '/blog', label: 'İş İlanı', position: 'right' },
           {
             href: 'https://github.com/aybarsayan',
             label: 'GitHub',

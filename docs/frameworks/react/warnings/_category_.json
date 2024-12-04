@@ -1,0 +1,8 @@
+{
+  "label": "Uyarılar",
+  "position": 68,
+  "link": {
+    "type": "generated-index",
+    "description": "Uyarılar kategorisi, yazılım geliştirme süreçlerinde karşılaşılabilecek geçersiz veya bilinmeyen özellikler hakkında önemli bilgiler sunar. Bu içerikler, ARIA, React bileşenleri ve test araçları ile ilgili uyarıları ele alarak kullanıcıların hataları tespit etmelerine ve düzeltme yöntemleri hakkında bilinçlenmelerine yardımcı olmayı amaçlar."
+  }
+}

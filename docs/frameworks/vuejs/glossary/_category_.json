@@ -1,0 +1,8 @@
+{
+  "label": "Sözlük",
+  "position": 88,
+  "link": {
+    "type": "generated-index",
+    "description": "Bu kategori, Vue ile ilgili sıkça kullanılan teknik terimlerin anlamlarını açıklayarak yazılım geliştirme, programlama ve web geliştirme bağlamında doğru kullanımlarını teşvik etmeyi amaçlayan bir sözlük sunmaktadır. Kullanıcıların teknik dilde daha etkili iletişim kurmalarına yardımcı olmayı hedefler."
+  }
+}

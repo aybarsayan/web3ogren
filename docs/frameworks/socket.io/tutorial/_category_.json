@@ -1,0 +1,8 @@
+{
+  "label": "Eğitim",
+  "position": 80,
+  "link": {
+    "type": "generated-index",
+    "description": "Bu kategori, geliştiricilerin Socket.IO ve ilgili teknolojilerle gerçek zamanlı uygulamalar oluşturma yeteneklerini geliştirmelerine yardımcı olmak amacıyla tasarlanmış eğitim materyallerini içerir. Kullanıcılar, Node.js ve Express kullanarak temel bir sohbet uygulaması oluşturmaktan, API özelliklerini ve bağlantı yönetimi yöntemlerini öğrenmeye kadar geniş bir yelpazede adım adım rehberlik alırlar."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Öğrenme",
+  "position": 58,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Learn\" kategorisi, React kütüphanesi ile mevcut projelere etkileşim eklemeyi ve kullanıcı arayüzlerini geliştirmeyi amaçlayan kapsamlı bir kaynak sunmaktadır. Bu kategori, React’in temel kavramlarından, bileşen oluşturma ve durum yönetimi tekniklerine kadar geniş bir yelpazede bilgi vererek, geliştiricilerin etkileşimli ve dinamik web uygulamaları oluşturmasına yardımcı olmayı hedeflemektedir."
+  }
+}

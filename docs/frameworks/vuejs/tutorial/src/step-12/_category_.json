@@ -1,0 +1,8 @@
+{
+  "label": "Adım-12",
+  "position": 107,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Props\" kategorisi, Vue'daki çocuk bileşenlerin ebeveyn bileşenlerden nasıl props alabileceğini açıklamaktadır. Bu sayfa, hem Composition API hem de Options API için kod örnekleri ve kullanım bilgileri sunarak geliştiricilerin Vue'da bileşenler arası veri geçişini anlamalarına yardımcı olmayı amaçlamaktadır."
+  }
+}

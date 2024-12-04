@@ -1,0 +1,8 @@
+{
+  "label": "Adım-10",
+  "position": 105,
+  "link": {
+    "type": "generated-index",
+    "description": "step-10 kategorisi, Vue.js uygulamalarında değişikliklere tepki vermek için kullanılan izleyicilerin kullanımını ve örneklerini açıklamaktadır. Bu belge, izleyici kavramını derinlemesine inceleyerek, reaktivite ve Composition API ile entegre uygulamalar geliştirmeye yönelik pratik bilgiler sunar."
+  }
+}

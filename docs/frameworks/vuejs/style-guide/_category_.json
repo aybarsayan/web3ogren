@@ -1,0 +1,8 @@
+{
+  "label": "Stil Kılavuzu",
+  "position": 100,
+  "link": {
+    "type": "generated-index",
+    "description": "Stil Kılavuzu kategorisi, Vue.js projelerinde kod yazım standartlarını belirleyen resmi bir rehber niteliğindedir. Kod kalitesini artırmak ve hatalardan kaçınmak amacıyla öncelikli kurallar ve öneriler sunarak geliştiricilere tutarlılık ve okunabilirlik sağlamaktadır."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "React-Dom",
+  "position": 61,
+  "link": {
+    "type": "generated-index",
+    "description": "`react-dom` kategorisi, React uygulamalarında DOM manipülasyonu ve bileşen render'ı için gerekli olan API'leri içerir. Bu kategori, modallar ve tooltipler gibi bileşenlerin farklı DOM alanlarına render edilmesi, mevcut HTML ile bileşenlerin uyum sağlaması ve performans optimizasyonu gibi konuları kapsayan işlevleri ele alır. Kullanıcıların web geliştirme süreçlerinde daha verimli ve etkili çözümler sunmayı amaçlar."
+  }
+}

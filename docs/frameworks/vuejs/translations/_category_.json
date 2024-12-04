@@ -1,0 +1,8 @@
+{
+  "label": "Çeviriler",
+  "position": 101,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Çeviriler\" kategorisi, Vue.js belgelerinin çeşitli dillerdeki sürümlerini sunarak, topluluk katkılarıyla sürekli güncellenen kaynakları derlemektedir. Bu sayfa, mevcut ve devam eden çevirilere ulaşmanıza yardımcı olurken, uluslararası kullanıcıların Vue.js teknolojilerini daha iyi anlamalarına olanak sağlar."
+  }
+}

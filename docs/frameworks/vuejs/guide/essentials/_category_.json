@@ -1,0 +1,8 @@
+{
+  "label": "Temel Bilgiler",
+  "position": 93,
+  "link": {
+    "type": "generated-index",
+    "description": "Essentials kategorisi, Vue.js framework'ü ile web uygulamaları geliştirme konusunda temel bilgiyi sunmaktadır. Bu kategori, uygulama oluşturma, bileşen kullanımı, koşullu render, form girdi bağlantıları gibi kritik konuları ele alarak, geliştiricilere Vue.js ile etkili ve dinamik kullanıcı arayüzleri oluşturma becerisi kazandırmayı amaçlamaktadır."
+  }
+}

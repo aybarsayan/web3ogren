@@ -1,0 +1,8 @@
+{
+  "label": "Changelog",
+  "position": 79,
+  "link": {
+    "type": "generated-index",
+    "description": "Changelog kategorisi, Socket.IO'nun farklı sürümlerinin güncelleme notlarını içeren belgeleri sunar; bu belgeler yeni özellikler, hata düzeltmeleri ve bağımlılık güncellemeleri hakkında kapsamlı bilgiler sağlar. Kullanıcıların, her sürümdeki önemli değişiklikleri ve iyileştirmeleri hızlıca bulabilmesi için tasarlanmıştır."
+  }
+}

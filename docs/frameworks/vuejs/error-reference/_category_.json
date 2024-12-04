@@ -1,0 +1,8 @@
+{
+  "label": "Hata-Referans",
+  "position": 86,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Üretim Hata Kodu Referansı\" kategorisi, üretim sürecindeki hataları ve derleyici hata kodlarını anlamaya yönelik detaylı bilgi sunmaktadır. Bu belge, hata kodlarını açıklayıcı bilgi dizeleriyle eşleştirerek hata yönetimini kolaylaştırmayı amaçlamaktadır."
+  }
+}

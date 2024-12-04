@@ -1,0 +1,8 @@
+{
+  "label": "Adım-2",
+  "position": 111,
+  "link": {
+    "type": "generated-index",
+    "description": "step-2 kategorisi, Beyanda Rendering başlığı altında Vue bileşenlerinin dinamik olarak oluşturulması sürecini keşfeder. Bu rehber, reaktif durumun kullanımı ve şablonlarda dinamik içerik renderleme yöntemlerini detaylandırarak geliştiricilere zengin ve etkileşimli kullanıcı arayüzleri oluşturma imkanı sunar."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Adım-13",
+  "position": 108,
+  "link": {
+    "type": "generated-index",
+    "description": "step-13, alt bileşenlerin üst bileşenlere olay yayınlama yöntemlerini açıklayan bir bölümdür. Bu içerik, üst bileşenin alt bileşenden gelen olayları nasıl dinleyeceğini ve yönetebileceğini öğreterek, Vue.js ile bileşenler arası etkin bir iletişim sağlamayı amaçlamaktadır."
+  }
+}

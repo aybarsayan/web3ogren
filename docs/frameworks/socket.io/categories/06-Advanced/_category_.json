@@ -1,0 +1,8 @@
+{
+  "label": "06-İleri Düzey",
+  "position": 76,
+  "link": {
+    "type": "generated-index",
+    "description": "06-Advanced kategorisi, Socket.IO ile ilişkili ileri düzey yönetim, performans optimizasyonu ve özelleştirilebilirlik konularını ele alarak kullanıcılara dağıtımlarını etkili bir şekilde yönetme ve izleme becerileri kazandırmayı amaçlamaktadır. Bu içerikler, Socket.IO yönetim arayüzü, özelleştirilmiş ayrıştırıcılar, yük testi yöntemleri, ad alanları ile uygulama mimarisi, performans ayarlamaları ve PM2 ile kullanım gibi başlıkları kapsayarak geliştiricilere kapsamlı bilgiler sunmaktadır."
+  }
+}

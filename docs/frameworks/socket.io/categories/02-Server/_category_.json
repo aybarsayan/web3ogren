@@ -1,0 +1,8 @@
+{
+  "label": "02-Server",
+  "position": 72,
+  "link": {
+    "type": "generated-index",
+    "description": "02-Server kategorisi, Socket.IO sunucularının yapılandırılması, dağıtımı ve yönetimi ile ilgili pratik rehberler sunmaktadır. Ters proxy çözümünden CORS yönetimine, ara katman fonksiyonlarından çoklu düğüm kullanım stratejilerine kadar geniş bir yelpazede bilgi sağlayarak, geliştiricilerin yüksek verimli ve güvenilir uygulamalar oluşturmasına yardımcı olur."
+  }
+}

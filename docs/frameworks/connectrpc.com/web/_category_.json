@@ -1,0 +1,8 @@
+{
+  "label": "Web",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Web kategorisi, Connect ile HTTP GET isteklerinin işlenmesi ve önbelleklemenin önemi hakkında kapsamlı bilgiler sunar. Bu belgede, yapılandırma detayları ve kullanım örnekleri ile birlikte, tarayıcılarda ve diğer sistemlerde önbelleklemenin nasıl kolaylaştırıldığı açıklanmaktadır."
+  }
+}

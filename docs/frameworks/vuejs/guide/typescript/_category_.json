@@ -1,0 +1,8 @@
+{
+  "label": "Typescript",
+  "position": 97,
+  "link": {
+    "type": "generated-index",
+    "description": "TypeScript kategorisi, Vue framework'ü ile TypeScript entegrasyonunu derinlemesine ele alarak, özellikle Kompozisyon ve Seçenek API'leri üzerinden bileşen geliştirme süreçlerinde türlendirme, reaktif özelliklerin kullanımı ve yaygın hataların giderilmesine yönelik pratik bilgiler sunmaktadır. Geliştiriciler için yapılandırma ayarları ve IDE desteği gibi konuları da kapsayarak, uygulama geliştirme deneyimini iyileştirmeyi amaçlamaktadır."
+  }
+}

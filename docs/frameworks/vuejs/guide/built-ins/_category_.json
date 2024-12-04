@@ -1,0 +1,8 @@
+{
+  "label": "Yerleşik Özellikler",
+  "position": 91,
+  "link": {
+    "type": "generated-index",
+    "description": "Built-ins kategorisi, Vue.js framework'ünde yerleşik bileşenlerin nasıl kullanılacağını ve avantajlarını açıklayan içerikleri sunar. Bu bileşenler, component caching, asynchronous yönetimi, DOM hiyerarşisi dışına render etme ve animasyonlar gibi işlevlere sahip olup, geliştiricilerin uygulamalarında daha etkili bir deneyim sağlamasını amaçlar."
+  }
+}

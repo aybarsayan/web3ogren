@@ -1,0 +1,8 @@
+{
+  "label": "Yönetim",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Yönetim kategorisi, Connect projesinin yönetim değerlerini ve güvenlik süreçlerini vurgulayarak sadelik, güvenilirlik ve birlikte çalışabilirlik ilkelerini benimsemektedir. Kullanıcılarla etkili iletişim kurmayı hedefleyen bu kategori, güvenlik açıklarının sorumlu bir şekilde ele alınmasını sağlayarak yazılım geliştirme süreçlerini destekler."
+  }
+}

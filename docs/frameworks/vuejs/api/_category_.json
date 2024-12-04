@@ -1,0 +1,8 @@
+{
+  "label": "Api",
+  "position": 83,
+  "link": {
+    "type": "generated-index",
+    "description": "API kategorisi, Vue uygulamaları için çeşitli programlama bileşenleri ve fonksiyonlarının nasıl kullanılacağına dair kapsamlı bir rehber sunar. Bu içerik, uygulama geliştirme, bileşen yönetimi, yerleşik yönergeler ve yaşam döngüsü kancaları gibi temel konuları ele alarak geliştiricilerin etkili ve verimli bir şekilde Vue projeleri oluşturmasına yardımcı olur."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Rsc",
+  "position": 66,
+  "link": {
+    "type": "generated-index",
+    "description": "rsc kategorisi, React Server Bileşenleri ile ilgili belgeleri ve yönergeleri içerir; bu belgeler, geliştiricilere sunucu bileşenlerini kullanma veya onlarla uyumlu kütüphaneler oluşturma konularında rehberlik eder. Ayrıca, sunucu eylemleri ve ilgili direktifler hakkında kapsamlı bilgiler sunarak, istemci ve sunucu tarafındaki etkileşimlerin nasıl düzenleneceğini açıklar."
+  }
+}

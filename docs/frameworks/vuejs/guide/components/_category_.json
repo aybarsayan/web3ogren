@@ -1,0 +1,8 @@
+{
+  "label": "Bileşenler",
+  "position": 92,
+  "link": {
+    "type": "generated-index",
+    "description": "\"Bileşenler\" kategorisi, Vue.js framework'ü içinde bileşenlerin nasıl oluşturulup yönetileceğine dair kapsamlı bilgiler sunar. Asenkron bileşenler, geçiş nitelikleri, etkinlikler, props kullanımı, veri sağlama ve enjeksiyon, bileşen kaydı, slotlar ve v-model gibi konularla, geliştiricilerin performans optimizasyonu ve etkileşimli uygulama geliştirme süreçlerini güçlendirmektedir."
+  }
+}

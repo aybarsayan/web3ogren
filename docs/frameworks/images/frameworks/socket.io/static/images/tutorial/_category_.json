@@ -1,0 +1,8 @@
+{
+  "label": "Eğitim",
+  "position": 41,
+  "link": {
+    "type": "generated-index",
+    "description": "Eğitim kategorisi, kullanıcıların belirli teknolojik konular hakkında adım adım rehberlik almasını sağlamak amacıyla oluşturulmuştur. Bu içerik, özellikle teknik terimlerin Türkçe'ye çevrilmediği durumlarda, okuyucuların teknik belgeleri ve kavramları daha iyi anlayabilmeleri için pratik bilgiler ve uygulamalı örnekler sunmaktadır."
+  }
+}

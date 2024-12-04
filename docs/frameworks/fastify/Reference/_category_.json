@@ -1,0 +1,8 @@
+{
+  "label": "Referans",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "description": "Referans kategorisi, Fastify web çerçevesinin çeşitli özelliklerini, kullanım kılavuzlarını ve en iyi uygulamaları detaylandırarak geliştiricilere etkili API ve uygulama geliştirme konusunda kapsamlı bilgiler sunmayı amaçlar. Bu bölümde, içerik türü ayrıştırma, hata yönetimi, HTTP2 desteği, günlükleme ve daha fazlası gibi önemli konular ele alınmaktadır."
+  }
+}

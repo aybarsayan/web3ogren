@@ -1,0 +1,8 @@
+{
+  "label": "Npm-Package-Provenance",
+  "position": 39,
+  "link": {
+    "type": "generated-index",
+    "description": "npm-package-provenance kategorisi, yazılım geliştiricilerine npm paketlerinin kökenlerini, güvenilirliklerini ve doğruluklarını doğrulama konusunda bilgi sunar. Bu içerikler, kullanıcıların bağımlılık yönetiminde bilinçli kararlar almasına yardımcı olmak için paketlerin geçmişini ve güncelliğini analiz eder. Aynı zamanda güvenlik açıklarından korunma ve sürdürülebilir yazılım geliştirme uygulamalarını teşvik eder."
+  }
+}

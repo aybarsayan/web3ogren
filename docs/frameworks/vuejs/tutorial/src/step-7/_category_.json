@@ -1,0 +1,8 @@
+{
+  "label": "Adım-7",
+  "position": 116,
+  "link": {
+    "type": "generated-index",
+    "description": "step-7 kategorisi, Vue.js kullanarak bir kaynak diziye dayanarak öğeleri render etmek için v-for direktifinin nasıl kullanılacağını ve liste güncellemeleri ile ilgili yöntemleri açıklamaktadır. Bu içerik, geliştiricilerin liste renderleme konusunda bilgi edinmelerine yardımcı olmayı amaçlamaktadır."
+  }
+}
