@@ -21,7 +21,7 @@ keywords:
 
 Bu istemci kütüphaneleri, XRP Ledger verilerine erişim ve işleme ile ilgili bazı yaygın işlevleri basitleştirir ve verileri, ilgili programlama dillerinin yerel gelenekleriyle uyumlu bir biçimde sunar.
 
-Diğer programlama dilleri için XRP Ledger'a [HTTP API'leri](http-websocket-apis/index.md) aracılığıyla erişebilirsiniz.
+Diğer programlama dilleri için XRP Ledger'a HTTP API'leri aracılığıyla erişebilirsiniz.
 
 | Dil                            | Kütüphane Adı            | Başlarken  | API Referansı | Kaynak Kodu |
 |--------------------------------|--------------------------|-------------|---------------|-------------|

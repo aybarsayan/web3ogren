@@ -1493,8 +1493,3 @@ Herhangi bir sorunla karşılaşırsanız, lütfen laboratuvarı tekrar gözden 
 - Günlük görüntü yerine, kullanıcıların gün için bir günlük girişi yazmasına ve ardından bunu NFT olarak mintlemesine izin veren bir uygulama oluşturun.
 - Harika JPEG'lerinizi görebilmeniz için basit bir NFT görüntüleyici uygulama oluşturun.
 - `expo-sensors` kullanarak [Stepn](https://stepn.com/) uygulamasının basitleştirilmiş bir klonunu yapın.
-
-<Callout type="success" title="Laboratuvarı tamamladınız mı?">
-Kodunuzu GitHub'a yükleyin ve 
-[bize bu dersi nasıl bulduğunuzu söyleyin](https://form.typeform.com/to/IPH0UGz7#answers-lesson=19cf8d3a-89a0-465e-95da-908cf8f45409)!
-</Callout>

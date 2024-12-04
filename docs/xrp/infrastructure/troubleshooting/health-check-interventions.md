@@ -118,5 +118,5 @@ Aşağıdaki [metriklerde][] uyarı veya kritik değerler, yetersiz donanımı g
 - `sunucu_durumu`
 - `onaylı_defter`
 
-[metrikler]: ../../references/http-websocket-apis/peer-port-methods/health-check.md#response-format
+
 

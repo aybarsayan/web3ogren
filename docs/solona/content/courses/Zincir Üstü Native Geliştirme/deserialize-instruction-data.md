@@ -522,10 +522,3 @@ Programınızı,
 
 Bunu bağımsız olarak yapmaya çalışın! Ama eğer takılırsanız [çözüm kodunu](https://beta.solpg.io/62b0ce53f6273245aca4f5b0) referans alabilirsiniz.
 
-
-
-<Callout type="success" title="Laboratuvarı tamamladınız mı?">
-
-Kodunuzu GitHub'a itiniz ve 
-[bize bu derste ne düşündüğünüzü söyleyin](https://form.typeform.com/to/IPH0UGz7#answers-lesson=74a157dc-01a7-4b08-9a5f-27aa51a4346c)!
-</Callout>

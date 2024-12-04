@@ -74,8 +74,6 @@ Kısmi Ödemelerin aşağıdaki sınırlamaları vardır:
 - Doğrudan XRP'den XRP'ye ödemeler kısmi ödemeler olamaz; bu durumda [sonuç kodu][] `temBAD_SEND_XRP_PARTIAL` döner.
     - Ancak, XRP'nin para birimlerinden biri olduğu döviz cinsinden ödemeler kısmi ödemeler olabilir.
 
-[result code]: ../../references/protocol/transactions/transaction-results/index.md
-
 ### `delivered_amount` Alanı
 
 Kısmi bir ödemenin gerçekten ne kadar teslim edildiğini anlamaya yardımcı olmak için, başarılı bir Ödeme işleminin meta verileri `delivered_amount` alanını içerir. Bu alan, `Miktar` alanıyla aynı formatta gerçekten teslim edilen tutarı tanımlar.
@@ -101,8 +99,6 @@ Her iki durum da doğruysa, `delivered_amount` gerçek bir miktar yerine `unavai
 | ripple-lib v1.x | `getTransaction` yöntemi | `outcome.deliveredAmount` |
 | ripple-lib v1.x | `getTransactions` yöntemi | dizi üyelerinin `outcome.deliveredAmount` |
 
-[WebSocket]: ../../references/http-websocket-apis/index.md
-[JSON-RPC / WebSocket]: ../../references/http-websocket-apis/index.md
 
 ## Kısmi Ödeme İstismarı
 

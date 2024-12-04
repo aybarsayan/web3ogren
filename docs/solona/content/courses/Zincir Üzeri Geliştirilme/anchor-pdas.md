@@ -737,8 +737,3 @@ Bu derste öğrendiklerinizi kullanarak bu programı inşa edin. Program, aşağ
 
 Bu bağımsız olarak yapmaya çalışın! Ama eğer sıkıştıysanız, 
 [çözüm koduna](https://github.com/Unboxed-Software/anchor-student-intro-program) başvurabilirsiniz.
-
-<Callout type="success" title="Labı tamamladınız mı?">
-Kodunuzu GitHub'a yükleyin ve
-[bize bu ders hakkında ne düşündüğünüzü söyleyin](https://form.typeform.com/to/IPH0UGz7#answers-lesson=f58108e9-94a0-45b2-b0d5-44ada1909105)!
-</Callout>

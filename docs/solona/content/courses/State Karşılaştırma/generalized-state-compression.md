@@ -573,10 +573,6 @@ export async function getMessageLog(
 
 Genelleştirilmiş durum sıkıştırmasının uygulanması zorlayıcı olabilir, ancak mevcut araçlar kullanılarak tamamen başarılabilir. Ekosistem geliştikçe, bu araçlar ve programlar daha da iyileşecektir ve süreç daha akıcı hale gelecektir. Geliştirme deneyiminizi artıran çözüm bulursanız, lütfen bunları toplulukla paylaşmaktan çekinmeyin!
 
-<Callout type="info" title="Test Etme">
-Durum sıkıştırma uygulamanız için kapsamlı testler yazmayı unutmayın. Bu, programınızın doğru çalışmasını sağlar ve geliştirme sürecinin başlarında potansiyel sorunları tespit etmenize yardımcı olur.
-</Callout>
-
 ## Laboratuvar: Genel Durum Sıkıştırması ile Not Alma Uygulaması Geliştirme
 
 Bu laboratuvar sırasında, özelleştirilmiş durum sıkıştırmasını kullanan bir Anchor programı geliştirme sürecine adım adım göz atacağız. **Bu, sıkıştırılmış verilerle çalışma konusunda pratik deneyim kazandıracak ve Solana'daki durum sıkıştırmasıyla ilgili anahtar kavramları pekiştirmeye yardımcı olacaktır.**

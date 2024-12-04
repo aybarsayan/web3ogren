@@ -19,7 +19,9 @@ keywords:
 
 ## Ripple Veri API v2
 
-:::dangerRipple Veri API v2 kullanım dışıdır ve hiçbir destek sağlanmamaktadır. Lütfen bunun yerine yerel [XRP Ledger HTTP API'lerini](http-websocket-apis/index.md) kullanın.:::
+:::danger
+Ripple Veri API v2 kullanım dışıdır ve hiçbir destek sağlanmamaktadır. Lütfen bunun yerine yerel XRP Ledger HTTP API'lerini kullanın.
+:::
 
 Eski Veri API'si hakkında bilgi için [rippled-historical-database deposuna](https://github.com/ripple/rippled-historical-database) bakın.
 
