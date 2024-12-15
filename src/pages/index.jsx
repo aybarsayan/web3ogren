@@ -3,9 +3,10 @@ import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import Landing from "../components/HomepageFeatures/Landing";
+import Landing from "../components/HomepageFeatures/landing/Landing";
 
 import styles from "./index.module.css";
+import CategoryContainer from "../components/HomepageFeatures/category/CategoryContainer";
 
 function HomepageHeader() {
  const { siteConfig } = useDocusaurusContext();
@@ -36,6 +37,9 @@ export default function Home() {
   >
    {/* <HomepageHeader /> */}
    <Landing />
+   <div style={{ margin: "10vh 0" }}>
+    <CategoryContainer />
+   </div>
    {/* <main><HomepageFeatures /></main> */}
   </Layout>
  );

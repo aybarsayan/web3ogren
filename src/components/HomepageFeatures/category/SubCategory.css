@@ -1,0 +1,90 @@
+.sub-category-main-container {
+ aspect-ratio: auto;
+ box-sizing: content-box;
+ border-radius: 25px;
+ padding: 8px;
+ border-top: #27659579 2px solid;
+ border-right: #27659579 2px solid;
+ border-bottom: #2765958c 3px solid;
+ border-left: #2765958c 3px solid;
+ cursor: pointer;
+ box-shadow: #2766954d -4px 4px, #27669533 -8px 8px;
+ box-sizing: border-box;
+ transition-duration: 500ms;
+ user-select: none;
+ display: flex;
+ flex-direction: column;
+ column-gap: 20px;
+}
+
+[data-theme="dark"] .sub-category-main-container {
+ aspect-ratio: auto;
+ box-sizing: content-box;
+ border-radius: 25px;
+ padding: 8px;
+ border-top: #4b505a79 2px solid;
+ border-right: #4b505a79 2px solid;
+ border-bottom: #4b505a8c 3px solid;
+ border-left: #4b505a8c 3px solid;
+ cursor: pointer;
+ box-shadow: #4b505a4d -4px 4px, #4b505a33 -8px 8px;
+ box-sizing: border-box;
+ transition-duration: 500ms;
+ user-select: none;
+ display: flex;
+ flex-direction: column;
+ column-gap: 20px;
+}
+
+.sub-category-main-container:hover {
+ transition-duration: 500ms;
+ box-shadow: #2766954d 4px -4px, #27669533 8px -8px;
+}
+
+[data-theme="dark"] .sub-category-main-container:hover {
+ transition-duration: 500ms;
+ box-shadow: #4b505a4d 4px -4px, #4b505a33 8px -8px;
+}
+
+.sub-category-main-container:active {
+ transition-duration: 50ms;
+ scale: 0.985;
+ box-shadow: #2766954d -4px 4px, #27669533 -8px 8px, #2766954d 4px -4px,
+  #27669533 8px -8px;
+}
+
+[data-theme="dark"] .sub-category-main-container:active {
+ transition-duration: 50ms;
+ scale: 0.985;
+ box-shadow: #4b505a4d -4px 4px, #4b505a33 -8px 8px, #4b505a4d 4px -4px,
+  #4b505a33 8px -8px;
+}
+
+.sub-category-image {
+ border-radius: 17px;
+ width: 100%;
+ aspect-ratio: 4/3;
+ background-position: center;
+ object-fit: cover;
+}
+
+.sub-category-main-container h1 {
+ padding: 4px 8px 0 8px;
+ font-size: 20px;
+ overflow: hidden;
+ display: -webkit-box;
+ -webkit-box-orient: vertical;
+ -webkit-line-clamp: 2;
+ margin: 0;
+}
+
+.sub-category-main-container p {
+ margin: 0;
+ padding: 0 8px;
+ font-size: 16;
+ opacity: 80;
+ overflow: hidden;
+ display: -webkit-box;
+ -webkit-box-orient: vertical;
+ -webkit-line-clamp: 2;
+}

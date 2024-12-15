@@ -1,7 +1,6 @@
 .landing-main-container {
  width: 100%;
- height: 95vw;
- margin-bottom: 100vh;
+ overflow: hidden;
 }
 
 .landing-bg-container {
