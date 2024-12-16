@@ -9,24 +9,25 @@
  width: 90vw;
  display: flex;
  flex-direction: column;
+ height: auto;
  gap: 2vh;
 }
 
 @media (max-width: 400px) {
  .partner-header {
   font-size: 40px;
-}
+ }
 
-.partner-logo-container {
- display: flex;
- width: 100px;
- height: 100px;
- align-items: center;
- justify-content: center;
- cursor: pointer;
- aspect-ratio: square;
- transition-duration: 300ms;
-}
+ .partner-logo-container {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition-duration: 300ms;
+  overflow: hidden;
+ }
 }
 @media (min-width: 400px) {
  .partner-header {
@@ -39,7 +40,7 @@
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  aspect-ratio: square;
+  overflow: hidden;
   transition-duration: 300ms;
  }
 }

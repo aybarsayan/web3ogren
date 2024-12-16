@@ -110,8 +110,8 @@
  }
 }
 
-@media(min-width:600px){
-     .category-sub-category-container {
+@media (min-width: 600px) {
+ .category-sub-category-container {
   flex: 3;
   width: 100%;
   display: grid;
@@ -122,14 +122,12 @@
 }
 
 @media (min-width: 700px) {
-.cateogry-main-container {
+ .cateogry-main-container {
   width: 100vw;
   display: flex;
   flex-direction: column;
-  /* gap: 15vh; */
   align-items: center;
   justify-content: center;
-  /* margin: 5vh 0; */
   transition-duration: 300ms;
  }
 
@@ -196,6 +194,6 @@
  filter: brightness(1.5);
 }
 
-.cateogry-main-container a{
-  text-decoration: none;
+.cateogry-main-container a {
+ text-decoration: none;
 }

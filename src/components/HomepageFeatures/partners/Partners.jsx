@@ -12,6 +12,7 @@ export default function Partners() {
    <div className="partner-sub-container">
     <h1 className="partner-header">Partnerler</h1>
     <Marquee
+     style={{ overflow: "hidden" }}
      gradientWidth={125}
      pauseOnHover
      gradient
