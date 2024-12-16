@@ -1,5 +1,6 @@
 import React from "react";
 import "./css/SubCategory.css";
+import kiltImg from "@site/static/img/web3dernegi.png";
 
 export default function SubCategory(SubCategoryData) {
  let Data = SubCategoryData.SubCategoryData;
