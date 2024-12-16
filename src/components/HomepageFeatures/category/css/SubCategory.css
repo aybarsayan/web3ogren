@@ -1,7 +1,9 @@
 .sub-category-main-container {
  aspect-ratio: auto;
  box-sizing: content-box;
- border-radius: 25px;
+ border-radius: 15px;
+ opacity: 0; /* İlk render edildiğinde görünmez */
+ animation: fadeIn 0.4s ease-in forwards; 
  padding: 8px;
  border-top: #27659579 2px solid;
  border-right: #27659579 2px solid;
@@ -12,16 +14,20 @@
  box-sizing: border-box;
  transition-duration: 500ms;
  user-select: none;
+ height: 100%;
  display: flex;
  flex-direction: column;
  column-gap: 20px;
 }
 
 [data-theme="dark"] .sub-category-main-container {
- aspect-ratio: auto;
+  aspect-ratio: auto;
+  height: 100%;
  box-sizing: content-box;
- border-radius: 25px;
+ border-radius: 15px;
  padding: 8px;
+ opacity: 0; /* İlk render edildiğinde görünmez */
+ animation: fadeIn 0.4s ease-in forwards; 
  border-top: #4b505a79 2px solid;
  border-right: #4b505a79 2px solid;
  border-bottom: #4b505a8c 3px solid;
@@ -61,7 +67,7 @@
 }
 
 .sub-category-image {
- border-radius: 17px;
+ border-radius: 7px;
  width: 100%;
  aspect-ratio: 4/3;
  background-position: center;
@@ -87,4 +93,13 @@
  display: -webkit-box;
  -webkit-box-orient: vertical;
  -webkit-line-clamp: 2;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0; /* Başlangıçta tamamen görünmez */
+  }
+  100% {
+    opacity: 1; /* Tamamen görünür */
+  }
 }
