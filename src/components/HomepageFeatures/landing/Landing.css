@@ -58,7 +58,6 @@
   transition-duration: 300ms;
   border-radius: 30px;
   padding: 15px 25px;
-  /* margin-bottom: 4vh; */
   box-shadow: rgba(255, 255, 255, 0.17) 0px -23px 25px 0px inset,
    rgba(255, 255, 255, 0.15) 0px -36px 30px 0px inset,
    rgba(255, 255, 255, 0.1) 0px -79px 40px 0px inset,
@@ -71,19 +70,17 @@
 
  [data-theme="dark"] .landing-button {
   font-size: 25px;
-  border-radius: 30px;
   padding: 15px 25px;
+  border-radius: 30px;
+  border: 1.5px solid #fff;
   transition-duration: 300ms;
-
-  /* margin-bottom: 4vh; */
+  background-color: #1b1b1d;
   box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
    rgba(255, 255, 255, 0.15) 0px -36px 30px 0px inset,
    rgba(255, 255, 255, 0.1) 0px -79px 40px 0px inset,
    rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(255, 255, 255, 0.09) 0px 4px 2px,
    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(255, 255, 255, 0.09) 0px 16px 8px,
    rgba(0, 0, 0, 0.09) 0px 32px 16px;
-  background-color: #1b1b1d;
-  border: 1.5px solid #fff;
  }
 }
 
@@ -95,7 +92,6 @@
   align-items: center;
   column-gap: 10vh;
  }
-
  .landing-h1 {
   margin-top: 7vh;
   font-size: 50px;
@@ -107,9 +103,6 @@
   text-align: center;
   opacity: 85;
  }
- /* .landing-p-br {
-  display: none;
- } */
  .landing-button {
   font-size: 24px;
   transition-duration: 300ms;
