@@ -2,6 +2,7 @@ import React from "react";
 import "./css/Partners.css";
 import Data from "./store/partner.data";
 import Marquee from "react-fast-marquee";
+import { projectBaseUrl } from "../../../api";
 import { useColorMode } from "@docusaurus/theme-common";
 
 export default function Partners() {
@@ -24,10 +25,7 @@ export default function Partners() {
         <div className="partner-logo-container">
          {data.Svg && <data.Svg className="partner-logo" />}
          {!data.Svg && data.imageUrl && (
-          <img
-           src={"http://localhost:3000" + data.imageUrl}
-           className="partner-logo"
-          />
+          <img src={projectBaseUrl + data.imageUrl} className="partner-logo" />
          )}
         </div>
        </a>

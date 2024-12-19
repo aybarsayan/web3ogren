@@ -1,25 +1,24 @@
 import React from "react";
 import "./css/SubCategory.css";
-import kiltImg from "@site/static/img/web3dernegi.png";
+import { projectBaseUrl } from "../../../api";
 
-export default function SubCategory(SubCategoryData) {
- let Data = SubCategoryData.SubCategoryData;
+export default function SubCategory({ SubCategoryData }) {
  return (
-  <a href={Data.href}>
+  <a href={SubCategoryData.href}>
    <div className="sub-category-main-container">
-    {Data?.Svg ? (
-     <Data.Svg className="sub-category-image" />
+    {SubCategoryData?.Svg ? (
+     <SubCategoryData.Svg className="sub-category-image" />
     ) : (
-     Data.imgUrl && (
+     SubCategoryData.imgUrl && (
       <img
-       src={"http://localhost:3000" + Data.imgUrl}
-       alt={Data.title}
+       src={projectBaseUrl + SubCategoryData.imgUrl}
+       alt={SubCategoryData.title}
        className="sub-category-image"
       />
      )
     )}
-    <h1 className="sub-category-h1">{Data?.title}</h1>
-    <p>{Data?.description}</p>
+    <h1 className="sub-category-h1">{SubCategoryData?.title}</h1>
+    <p>{SubCategoryData?.description}</p>
    </div>
   </a>
  );
