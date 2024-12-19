@@ -1,6 +1,5 @@
-import "./css/Category.css";
-import React, { useEffect, useState } from "react";
 import SubCategory from "./SubCategory";
+import React, { useEffect, useState } from "react";
 
 export default function Category(category) {
  const [showAll, setShowAll] = useState(false);
@@ -8,7 +7,7 @@ export default function Category(category) {
 
  useEffect(() => {
   if (showAll)
-   incrementToTarget(
+   SubCategoryIncreament(
     4,
     category.category.subCategories.length,
     showAll,
@@ -57,7 +56,7 @@ export default function Category(category) {
  );
 }
 
-function incrementToTarget(start = 4, endValue, trigger, callback) {
+function SubCategoryIncreament(start = 4, endValue, trigger, callback) {
  if (!trigger) return;
  const duration = 500;
  const steps = endValue - start;
