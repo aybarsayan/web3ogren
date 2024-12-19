@@ -12,7 +12,9 @@ export default function Landing() {
       <br className="landing-p-br" />
       Quibusdam, id praesentium. Voluptate, temporibus. Eius, odio?
      </p>
-     <button className="landing-button">Hadi başlayalım!</button>
+     <a href="/docs/category/bilgisayar-bilimleri">
+      <button className="landing-button">Hadi başlayalım!</button>
+     </a>
     </div>
     <p className="landing-sub-p">
      Heyy🖐🏻, aradığın kategorileri aşağıda bulabilirsin.
